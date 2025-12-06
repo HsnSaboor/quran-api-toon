@@ -74,10 +74,10 @@ We have expanded the dataset beyond the original repository:
 
 ## 🔌 URL Structure
 
-The structure remains RESTful but utilizes the optimized `.toon` extension.
+The structure remains RESTful but utilizes the optimized `.toon` extension served via jsDelivr CDN.
 
 **Base URL:**
-`https://cdn.jsdelivr.net/gh/[YOUR_USERNAME]/[YOUR_REPO_NAME]@{branch}/{endpoint}`
+`https://cdn.jsdelivr.net/gh/HsnSaboor/quran-api-toon@main/{endpoint}`
 
 ### Formats
 Instead of `.json` or `.min.json`, simply use `.toon`.
@@ -90,40 +90,40 @@ Instead of `.json` or `.min.json`, simply use `.toon`.
 
 ### 1. Editions List
 Lists all available languages and authors (Cleaned & Deduplicated).
-> **URL:** `https://cdn.jsdelivr.net/gh/[YOUR_USERNAME]/[YOUR_REPO_NAME]@main/editions.toon`
+> **URL:** `https://cdn.jsdelivr.net/gh/HsnSaboor/quran-api-toon@main/editions.toon`
 
 ### 2. Whole Quran (Specific Edition)
 Get the entire Quran in a specific translation.
 > **Format:** `/editions/{editionName}.toon`
 >
-> **Example:** `.../editions/ben-muhiuddinkhan.toon`
+> **Example:** `https://cdn.jsdelivr.net/gh/HsnSaboor/quran-api-toon@main/editions/ben-muhiuddinkhan.toon`
 
 ### 3. Chapter (Surah)
 Get a specific Chapter (e.g., Chapter 5).
 > **Format:** `/editions/{editionName}/{ChapterNo}.toon`
 >
-> **Example:** `.../editions/ben-muhiuddinkhan/5.toon`
+> **Example:** `https://cdn.jsdelivr.net/gh/HsnSaboor/quran-api-toon@main/editions/ben-muhiuddinkhan/5.toon`
 
 ### 4. Verse (Ayah)
 Get a specific Verse (e.g., Chapter 5, Verse 10).
 > **Format:** `/editions/{editionName}/{ChapterNo}/{VerseNo}.toon`
 >
-> **Example:** `.../editions/ben-muhiuddinkhan/5/10.toon`
+> **Example:** `https://cdn.jsdelivr.net/gh/HsnSaboor/quran-api-toon@main/editions/ben-muhiuddinkhan/5/10.toon`
 
 ### 5. Aggregates (Juz, Ruku, Page)
-> **Juz (Para):** `.../editions/{editionName}/juzs/{juzNo}.toon`
-> **Ruku:** `.../editions/{editionName}/rukus/{rukuNo}.toon`
-> **Page:** `.../editions/{editionName}/pages/{pageNo}.toon`
+> **Juz (Para):** `https://cdn.jsdelivr.net/gh/HsnSaboor/quran-api-toon@main/editions/{editionName}/juzs/{juzNo}.toon`
+> **Ruku:** `https://cdn.jsdelivr.net/gh/HsnSaboor/quran-api-toon@main/editions/{editionName}/rukus/{rukuNo}.toon`
+> **Page:** `https://cdn.jsdelivr.net/gh/HsnSaboor/quran-api-toon@main/editions/{editionName}/pages/{pageNo}.toon`
 
 ### 6. Metadata
 Get details about Juzs, Sajdas, Rukus, etc.
-> **URL:** `https://cdn.jsdelivr.net/gh/[YOUR_USERNAME]/[YOUR_REPO_NAME]@main/info.toon`
+> **URL:** `https://cdn.jsdelivr.net/gh/HsnSaboor/quran-api-toon@main/info.toon`
 
 ---
 
 ## 🌍 Languages Available
 
-This repo inherits the massive collection from the original source but cleans it up. It supports **90+ languages** and **440+ translations**, including:
+This repo inherits the massive collection from the original source but cleans it up. It supports **90+ languages** and **294 translations**, including:
 * **Punjabi** (Now with 2 extra translations!)
 * English, Arabic, Urdu, Bengali, French, Spanish, Russian, Chinese, and many more.
 
