@@ -1,0 +1,110 @@
+quran[15]:
+  - c: 54
+    v: 41
+    rules[5]{s,e,r}:
+      6,8,qalaqah
+      10,12,madda_obligatory
+      33,34,ham_wasl
+      34,35,laam_shamsiyah
+      35,37,ghunnah
+  - c: 54
+    v: 42
+    rules[5]{s,e,r}:
+      8,10,slnt
+      20,22,madda_normal
+      47,49,madda_normal
+      66,70,idgham_ghunnah
+      72,74,qalaqah
+  - c: 54
+    v: 43
+    rules[8]{s,e,r}:
+      19,23,idgham_ghunnah
+      30,32,slnt
+      34,37,madda_obligatory
+      52,56,ikhafa_shafawi
+      58,60,madda_obligatory
+      63,67,ikhafa
+      70,71,ham_wasl
+      71,72,laam_shamsiyah
+  - c: 54
+    v: 44
+    rules[2]{s,e,r}:
+      28,32,idgham_ghunnah
+      34,36,ikhafa
+  - c: 54
+    v: 45
+    rules[3]{s,e,r}:
+      11,12,ham_wasl
+      34,35,ham_wasl
+      35,36,laam_shamsiyah
+  - c: 54
+    v: 46
+    rules[5]{s,e,r}:
+      5,6,ham_wasl
+      6,7,laam_shamsiyah
+      31,32,ham_wasl
+      32,33,laam_shamsiyah
+      44,46,qalaqah
+  - c: 54
+    v: 47
+    rules[5]{s,e,r}:
+      2,4,ghunnah
+      6,7,ham_wasl
+      11,13,qalaqah
+      29,31,madda_normal
+      31,35,idgham_ghunnah
+  - c: 54
+    v: 48
+    rules[4]{s,e,r}:
+      23,24,ham_wasl
+      24,25,laam_shamsiyah
+      25,27,ghunnah
+      57,59,slnt
+  - c: 54
+    v: 49
+    rules[3]{s,e,r}:
+      2,4,ghunnah
+      24,26,qalaqah
+      28,30,madda_normal
+  - c: 54
+    v: 50
+    rules[6]{s,e,r}:
+      3,6,madda_obligatory
+      14,17,madda_obligatory
+      26,28,madda_normal
+      32,36,ikhafa
+      41,46,iqlab
+      47,48,ham_wasl
+  - c: 54
+    v: 51
+    rules[3]{s,e,r}:
+      6,8,qalaqah
+      18,21,madda_obligatory
+      44,48,idgham_ghunnah
+  - c: 54
+    v: 52
+    rules[3]{s,e,r}:
+      9,16,ikhafa
+      29,30,ham_wasl
+      30,31,laam_shamsiyah
+  - c: 54
+    v: 53
+    rules[2]{s,e,r}:
+      13,17,idgham_ghunnah
+      23,27,idgham_ghunnah
+  - c: 54
+    v: 54
+    rules[5]{s,e,r}:
+      2,4,ghunnah
+      6,7,ham_wasl
+      26,28,ghunnah
+      29,31,madda_normal
+      31,35,idgham_ghunnah
+  - c: 54
+    v: 55
+    rules[5]{s,e,r}:
+      6,8,qalaqah
+      15,17,qalaqah
+      22,24,ikhafa
+      31,35,idgham_ghunnah
+      37,39,qalaqah

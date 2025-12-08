@@ -1,0 +1,23 @@
+c: 2
+v: 256
+rules[20]{s,e,r}:
+  1,4,madda_obligatory
+  19,20,ham_wasl
+  20,21,laam_shamsiyah
+  32,33,idgham_mutajanisayn
+  45,46,ham_wasl
+  46,47,laam_shamsiyah
+  60,61,ham_wasl
+  74,78,idgham_ghunnah
+  88,89,ham_wasl
+  89,90,laam_shamsiyah
+  93,95,madda_normal
+  108,113,iqlab
+  114,115,ham_wasl
+  129,130,ham_wasl
+  143,144,ham_wasl
+  155,156,ham_wasl
+  171,172,ham_wasl
+  172,174,ikhafa
+  191,192,ham_wasl
+  210,212,madda_permissible

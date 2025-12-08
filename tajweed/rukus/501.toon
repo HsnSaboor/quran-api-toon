@@ -1,0 +1,100 @@
+quran[15]:
+  - c: 69
+    v: 38
+    rules[4]{s,e,r}:
+      3,6,madda_obligatory
+      9,11,qalaqah
+      24,26,qalaqah
+      29,31,madda_permissible
+  - c: 69
+    v: 39
+    rules[2]{s,e,r}:
+      12,14,qalaqah
+      17,19,madda_permissible
+  - c: 69
+    v: 40
+    rules[4]{s,e,r}:
+      2,4,ghunnah
+      7,8,madda_normal
+      23,27,ikhafa
+      29,31,madda_permissible
+  - c: 69
+    v: 41
+    rules[3]{s,e,r}:
+      25,31,ikhafa
+      36,40,idgham_ghunnah
+      51,53,madda_permissible
+  - c: 69
+    v: 42
+    rules[3]{s,e,r}:
+      20,26,ikhafa
+      31,35,idgham_ghunnah
+      47,49,madda_permissible
+  - c: 69
+    v: 43
+    rules[6]{s,e,r}:
+      2,4,ikhafa
+      6,10,idgham_ghunnah
+      11,15,idgham_wo_ghunnah
+      21,22,ham_wasl
+      26,28,madda_normal
+      31,33,madda_permissible
+  - c: 69
+    v: 44
+    rules[2]{s,e,r}:
+      34,35,ham_wasl
+      43,45,madda_permissible
+  - c: 69
+    v: 45
+    rules[2]{s,e,r}:
+      21,22,ham_wasl
+      27,29,madda_permissible
+  - c: 69
+    v: 46
+    rules[3]{s,e,r}:
+      2,4,ghunnah
+      25,26,ham_wasl
+      31,33,madda_permissible
+  - c: 69
+    v: 47
+    rules[4]{s,e,r}:
+      8,10,ikhafa
+      10,14,idgham_shafawi
+      35,37,madda_normal
+      40,42,madda_permissible
+  - c: 69
+    v: 48
+    rules[4]{s,e,r}:
+      4,6,ghunnah
+      9,10,madda_normal
+      21,25,idgham_wo_ghunnah
+      35,37,madda_permissible
+  - c: 69
+    v: 49
+    rules[5]{s,e,r}:
+      4,6,ghunnah
+      22,24,ghunnah
+      28,30,ikhafa
+      30,34,idgham_shafawi
+      42,44,madda_permissible
+  - c: 69
+    v: 50
+    rules[5]{s,e,r}:
+      4,6,ghunnah
+      9,10,madda_normal
+      28,29,ham_wasl
+      33,35,madda_normal
+      38,40,madda_permissible
+  - c: 69
+    v: 51
+    rules[4]{s,e,r}:
+      4,6,ghunnah
+      9,10,madda_normal
+      19,20,ham_wasl
+      25,27,madda_permissible
+  - c: 69
+    v: 52
+    rules[3]{s,e,r}:
+      12,13,ham_wasl
+      26,27,ham_wasl
+      32,34,madda_permissible
