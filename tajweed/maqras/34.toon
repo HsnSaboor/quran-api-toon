@@ -1,0 +1,370 @@
+quran[22]:
+  - c: 4
+    v: 36
+    rules[32]{s,e,r}:
+      4,5,ham_wasl
+      12,14,slnt
+      15,16,ham_wasl
+      38,40,slnt
+      44,46,madda_normal
+      52,60,idgham_ghunnah
+      63,64,ham_wasl
+      67,69,madda_normal
+      84,86,madda_normal
+      86,91,idgham_ghunnah
+      98,99,ham_wasl
+      112,113,ham_wasl
+      119,121,madda_normal
+      128,129,ham_wasl
+      135,137,madda_normal
+      145,146,ham_wasl
+      158,159,ham_wasl
+      172,173,ham_wasl
+      181,182,ham_wasl
+      193,194,ham_wasl
+      194,195,laam_shamsiyah
+      206,207,ham_wasl
+      211,214,iqlab
+      218,219,ham_wasl
+      219,221,qalaqah
+      224,225,ham_wasl
+      225,226,laam_shamsiyah
+      256,258,madda_normal
+      269,271,ghunnah
+      273,274,ham_wasl
+      295,298,ikhafa
+      311,315,ikhafa
+  - c: 4
+    v: 37
+    rules[13]{s,e,r}:
+      12,14,qalaqah
+      36,37,ham_wasl
+      37,38,laam_shamsiyah
+      38,40,ghunnah
+      47,48,ham_wasl
+      72,75,madda_obligatory
+      81,83,madda_normal
+      88,89,ham_wasl
+      98,101,ikhafa
+      107,109,madda_normal
+      120,122,qalaqah
+      132,134,madda_normal
+      147,152,idgham_ghunnah
+  - c: 4
+    v: 38
+    rules[17]{s,e,r}:
+      2,3,ham_wasl
+      14,16,ikhafa
+      28,30,madda_normal
+      40,42,madda_obligatory
+      46,47,ham_wasl
+      47,48,laam_shamsiyah
+      48,50,ghunnah
+      75,76,ham_wasl
+      91,92,ham_wasl
+      101,102,ham_wasl
+      116,120,idgham_ghunnah
+      126,127,ham_wasl
+      127,128,laam_shamsiyah
+      135,137,madda_normal
+      144,145,madda_normal
+      151,156,ikhafa
+      158,160,madda_obligatory
+  - c: 4
+    v: 39
+    rules[9]{s,e,r}:
+      33,35,slnt
+      38,39,ham_wasl
+      48,49,ham_wasl
+      58,59,ham_wasl
+      72,74,ikhafa
+      78,80,slnt
+      83,85,ghunnah
+      99,100,ham_wasl
+      117,118,ham_wasl
+  - c: 4
+    v: 40
+    rules[8]{s,e,r}:
+      2,4,ghunnah
+      6,7,ham_wasl
+      42,48,idgham_ghunnah
+      51,54,ikhafa
+      64,68,idgham_ghunnah
+      71,73,madda_normal
+      91,95,idgham_wo_ghunnah
+      106,108,qalaqah
+  - c: 4
+    v: 41
+    rules[6]{s,e,r}:
+      25,28,ikhafa
+      35,37,ghunnah
+      38,43,iqlab
+      49,53,idgham_ghunnah
+      76,79,madda_obligatory
+      82,84,madda_obligatory
+  - c: 4
+    v: 42
+    rules[8]{s,e,r}:
+      8,12,idgham_ghunnah
+      19,20,ham_wasl
+      36,38,slnt
+      47,49,slnt
+      50,51,ham_wasl
+      51,52,laam_shamsiyah
+      83,84,ham_wasl
+      111,112,ham_wasl
+  - c: 4
+    v: 43
+    rules[39]{s,e,r}:
+      2,5,madda_obligatory
+      14,15,ham_wasl
+      32,34,slnt
+      41,43,qalaqah
+      48,50,slnt
+      51,52,ham_wasl
+      52,53,laam_shamsiyah
+      58,59,slnt
+      59,60,madda_normal
+      67,69,ikhafa
+      77,79,madda_normal
+      101,103,slnt
+      176,180,slnt
+      185,188,ikhafa
+      189,191,ikhafa
+      191,195,idgham_shafawi
+      201,204,madda_obligatory
+      230,232,madda_obligatory
+      240,244,idgham_ghunnah
+      246,248,ikhafa
+      248,252,idgham_shafawi
+      257,258,ham_wasl
+      261,263,madda_obligatory
+      276,278,madda_normal
+      287,288,ham_wasl
+      288,289,laam_shamsiyah
+      289,291,ghunnah
+      293,295,madda_obligatory
+      313,315,slnt
+      317,319,madda_obligatory
+      320,324,ikhafa
+      329,331,ghunnah
+      335,337,slnt
+      343,348,ikhafa
+      352,357,ikhafa
+      358,359,ham_wasl
+      366,368,slnt
+      401,403,ghunnah
+      405,406,ham_wasl
+  - c: 4
+    v: 44
+    rules[13]{s,e,r}:
+      18,19,ham_wasl
+      34,36,slnt
+      42,47,idgham_ghunnah
+      52,53,ham_wasl
+      59,61,madda_normal
+      76,77,ham_wasl
+      77,78,laam_shamsiyah
+      83,85,madda_normal
+      105,108,ikhafa
+      115,117,slnt
+      118,119,ham_wasl
+      119,120,laam_shamsiyah
+      124,126,madda_permissible
+  - c: 4
+    v: 45
+    rules[5]{s,e,r}:
+      2,3,ham_wasl
+      26,28,madda_obligatory
+      49,50,ham_wasl
+      62,67,idgham_ghunnah
+      77,78,ham_wasl
+  - c: 4
+    v: 46
+    rules[22]{s,e,r}:
+      6,7,ham_wasl
+      22,24,slnt
+      38,39,ham_wasl
+      49,53,idgham_ghunnah
+      63,65,madda_normal
+      103,104,ham_wasl
+      124,128,idgham_ghunnah
+      130,132,madda_normal
+      142,147,iqlab
+      169,174,ikhafa
+      177,178,ham_wasl
+      178,179,laam_shamsiyah
+      197,199,ghunnah
+      211,213,slnt
+      238,239,ham_wasl
+      248,249,ham_wasl
+      249,251,ikhafa
+      270,275,idgham_wo_ghunnah
+      286,288,qalaqah
+      297,299,madda_normal
+      300,304,idgham_wo_ghunnah
+      315,316,ham_wasl
+  - c: 4
+    v: 47
+    rules[23]{s,e,r}:
+      2,5,madda_obligatory
+      14,15,ham_wasl
+      30,32,slnt
+      33,34,ham_wasl
+      40,42,madda_normal
+      53,55,slnt
+      80,85,idgham_wo_ghunnah
+      96,100,idgham_shafawi
+      102,105,ikhafa
+      106,108,qalaqah
+      112,116,idgham_ghunnah
+      118,120,qalaqah
+      130,135,ikhafa
+      151,154,madda_obligatory
+      157,159,qalaqah
+      165,168,madda_obligatory
+      197,199,ghunnah
+      199,202,madda_obligatory
+      209,211,madda_normal
+      214,215,ham_wasl
+      215,216,laam_shamsiyah
+      219,221,qalaqah
+      241,242,ham_wasl
+  - c: 4
+    v: 48
+    rules[11]{s,e,r}:
+      2,4,ghunnah
+      6,7,ham_wasl
+      28,32,idgham_ghunnah
+      43,45,madda_normal
+      68,70,madda_normal
+      78,82,idgham_ghunnah
+      84,86,madda_obligatory
+      95,99,idgham_ghunnah
+      109,110,ham_wasl
+      124,125,ham_wasl
+      131,134,madda_obligatory
+  - c: 4
+    v: 49
+    rules[6]{s,e,r}:
+      18,19,ham_wasl
+      41,43,ikhafa
+      47,53,ikhafa_shafawi
+      57,58,ham_wasl
+      75,79,idgham_ghunnah
+      81,83,madda_obligatory
+  - c: 4
+    v: 50
+    rules[5]{s,e,r}:
+      1,3,ikhafa
+      32,33,ham_wasl
+      40,41,ham_wasl
+      64,67,madda_obligatory
+      72,77,idgham_ghunnah
+  - c: 4
+    v: 51
+    rules[15]{s,e,r}:
+      18,19,ham_wasl
+      34,36,slnt
+      42,47,idgham_ghunnah
+      52,53,ham_wasl
+      59,61,madda_normal
+      78,79,ham_wasl
+      83,85,qalaqah
+      90,91,ham_wasl
+      91,92,laam_shamsiyah
+      95,97,madda_normal
+      134,136,slnt
+      139,142,madda_obligatory
+      145,147,madda_obligatory
+      165,166,ham_wasl
+      183,185,slnt
+  - c: 4
+    v: 52
+    rules[8]{s,e,r}:
+      2,4,slnt
+      6,9,madda_obligatory
+      14,15,ham_wasl
+      35,36,ham_wasl
+      48,52,idgham_ghunnah
+      60,61,ham_wasl
+      72,75,ikhafa
+      85,86,madda_normal
+  - c: 4
+    v: 53
+    rules[6]{s,e,r}:
+      17,21,idgham_ghunnah
+      26,27,ham_wasl
+      40,45,idgham_wo_ghunnah
+      59,60,ham_wasl
+      60,61,laam_shamsiyah
+      61,63,ghunnah
+  - c: 4
+    v: 54
+    rules[17]{s,e,r}:
+      17,18,ham_wasl
+      18,19,laam_shamsiyah
+      19,21,ghunnah
+      34,37,madda_obligatory
+      43,45,madda_normal
+      50,51,ham_wasl
+      60,63,ikhafa
+      69,71,madda_normal
+      78,80,qalaqah
+      89,92,madda_obligatory
+      101,103,qalaqah
+      104,106,madda_normal
+      112,113,ham_wasl
+      119,121,madda_normal
+      126,127,ham_wasl
+      149,151,madda_normal
+      152,156,idgham_shafawi
+  - c: 4
+    v: 55
+    rules[5]{s,e,r}:
+      7,11,idgham_shafawi
+      27,29,madda_normal
+      37,41,idgham_shafawi
+      43,46,ikhafa
+      75,77,ghunnah
+  - c: 4
+    v: 56
+    rules[11]{s,e,r}:
+      2,4,ghunnah
+      6,7,ham_wasl
+      23,25,slnt
+      35,37,madda_normal
+      65,70,ikhafa
+      95,99,ikhafa_shafawi
+      107,109,madda_normal
+      143,145,slnt
+      146,147,ham_wasl
+      161,163,ghunnah
+      165,166,ham_wasl
+  - c: 4
+    v: 57
+    rules[24]{s,e,r}:
+      2,3,ham_wasl
+      20,22,slnt
+      32,34,slnt
+      35,36,ham_wasl
+      36,37,laam_shamsiyah
+      40,42,madda_normal
+      46,48,madda_normal
+      55,57,qalaqah
+      68,70,ghunnah
+      71,73,madda_normal
+      73,77,ikhafa
+      78,80,qalaqah
+      86,89,ikhafa
+      98,99,ham_wasl
+      107,109,madda_normal
+      114,116,madda_normal
+      128,131,madda_obligatory
+      136,143,idgham_wo_ghunnah
+      154,157,madda_obligatory
+      163,165,madda_normal
+      165,169,idgham_ghunnah
+      178,184,idgham_ghunnah
+      187,189,qalaqah
+      201,206,ikhafa

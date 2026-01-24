@@ -1,69 +1,99 @@
 #!/bin/bash
 
 # --- CONFIGURATION ---
-BATCH_SIZE=10000
+THREADS=6
+BATCH_SIZE=20000
 BRANCH_NAME="main"
-LOG_FILE="fresh_migration.log"
+LOG_FILE="push_status.log"
 
-# Performance Tuning
-git config pack.threads 8
-git config http.postBuffer 524288000
+# --- GIT OPTIMIZATION ---
 git config core.compression 0
-
-# --- COLORS ---
-GREEN='\033[0;32m'
-YELLOW='\033[1;33m'
-CYAN='\033[0;36m'
-RED='\033[0;31m'
-NC='\033[0m'
+git config pack.window 0
+git config pack.depth 0
+git config pack.threads $THREADS
+git config http.postBuffer 524288000
+git config gc.auto 0
 
 log() {
-    local msg="$1"
-    echo -e "$msg"
-    echo -e "[$(date '+%H:%M:%S')] $msg" | sed 's/\x1b\[[0-9;]*m//g' >> "$LOG_FILE"
+    echo -e "[$(date '+%H:%M:%S')] $1" | tee -a "$LOG_FILE"
 }
 
-# 1. CLEANUP
-rm -f batch_fresh_* remaining_files.txt
+# --- PIPELINE FUNCTION ---
+wait_for_push() {
+    if [ -n "$PUSH_PID" ]; then
+        log "Waiting for previous background push (PID $PUSH_PID) to finish..."
+        wait "$PUSH_PID"
+        EXIT_CODE=$?
+        if [ $EXIT_CODE -eq 0 ]; then
+            log "Previous push completed successfully."
+        else
+            log "Previous push FAILED! Retrying completely..."
+            # Simple retry strategy: if async push fails, we must retry it synchronously
+            # But since we already amended locally, we just push again.
+            git push -u origin $BRANCH_NAME --force
+        fi
+        PUSH_PID=""
+    fi
+}
 
-# 2. SCANNING
-log "${YELLOW}Scanning for all files...${NC}"
+# --- 1. CLEANUP ---
+rm -f push_list_* remaining_files.txt
+
+# --- 2. IDENTIFY FILES ---
+log "Scanning for files..."
 git ls-files --others --exclude-standard > remaining_files.txt
+git ls-files --modified >> remaining_files.txt
 
-REMAINING_COUNT=$(wc -l < remaining_files.txt)
+TOTAL_FILES=$(wc -l < remaining_files.txt)
+log "Found $TOTAL_FILES files to upload."
 
-if [ "$REMAINING_COUNT" -eq "0" ]; then
-    log "${GREEN}No files found. Exiting.${NC}"
+if [ "$TOTAL_FILES" -eq 0 ]; then
+    log "No changes found. Force pushing current state..."
+    git push -u origin $BRANCH_NAME --force
     exit 0
 fi
 
-log "${GREEN}Found $REMAINING_COUNT files to upload.${NC}"
+# --- 3. SPLIT ---
+split -l $BATCH_SIZE remaining_files.txt push_list_
 
-# 3. SPLIT
-split -l $BATCH_SIZE remaining_files.txt batch_fresh_
-
-# 4. PROCESSING LOOP
+# --- 4. PIPELINED LOOP ---
 BATCH_NUM=0
-for batch in batch_fresh_*; do
+PUSH_PID=""
+
+for batch in push_list_*; do
     ((BATCH_NUM++))
-    log "${CYAN}Processing Batch $BATCH_NUM${NC}"
+    
+    # CRITICAL: We MUST wait for the previous push to finish before we start 
+    # AMENDING the commit locally. Otherwise, we change the HEAD pointer 
+    # while git is trying to read it for the push, which causes corruption/failure.
+    wait_for_push
+
+    log "Preparing Batch $BATCH_NUM..."
 
     # Add files
     cat "$batch" | xargs -d '\n' git add
 
-    if ! git diff --cached --quiet; then
-        git commit -m "Fresh start: Batch $BATCH_NUM" --quiet
-        
-        log "${YELLOW}Pushing Batch $BATCH_NUM...${NC}"
-        if git push -u origin $BRANCH_NAME --force; then
-            log "${GREEN}Batch $BATCH_NUM pushed successfully.${NC}"
-        else
-            log "${RED}Push failed for Batch $BATCH_NUM. Retrying in 30s...${NC}"
-            sleep 30
-            git push -u origin $BRANCH_NAME --force
-        fi
+    # Commit (Amend)
+    if git rev-parse --verify HEAD >/dev/null 2>&1; then
+        git commit --amend --no-edit --quiet --allow-empty
+    else
+        log "Initial commit..."
+        git commit -m "Fresh start: Quran API Data" --quiet
     fi
+    
+    log "Batch $BATCH_NUM staged and amended."
+
+    # START BACKGROUND PUSH
+    log "Starting background push for Batch $BATCH_NUM..."
+    git push -u origin $BRANCH_NAME --force > /dev/null 2>&1 &
+    PUSH_PID=$!
+    log "Push started in background (PID $PUSH_PID). Moving to next batch..."
+
     rm "$batch"
 done
 
-log "${GREEN}All Done. Fresh migration complete.${NC}"
+# --- 5. FINAL WAIT ---
+log "All batches processed locally. Waiting for final push..."
+wait_for_push
+rm -f remaining_files.txt
+log "Done. Repository synchronized."

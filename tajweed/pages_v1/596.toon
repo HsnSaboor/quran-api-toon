@@ -1,0 +1,126 @@
+quran[26]:
+  - c: 92
+    v: 15
+    rules[3]{s,e,r}:
+      10,12,madda_normal
+      13,16,madda_obligatory
+      24,25,ham_wasl
+  - c: 92
+    v: 16
+    rules[0]:
+  - c: 92
+    v: 17
+    rules[2]{s,e,r}:
+      8,10,ghunnah
+      17,18,ham_wasl
+  - c: 92
+    v: 18
+    rules[1]{s,e,r}:
+      23,24,madda_normal
+  - c: 92
+    v: 19
+    rules[5]{s,e,r}:
+      17,19,ikhafa
+      22,23,madda_normal
+      25,29,idgham_ghunnah
+      35,39,ikhafa
+      40,42,qalaqah
+  - c: 92
+    v: 20
+    rules[5]{s,e,r}:
+      7,8,ham_wasl
+      8,10,qalaqah
+      13,15,madda_obligatory
+      21,23,qalaqah
+      34,35,ham_wasl
+  - c: 92
+    v: 21
+    rules[0]:
+  - c: 93
+    v: 1
+    rules[2]{s,e,r}:
+      2,3,ham_wasl
+      3,4,laam_shamsiyah
+  - c: 93
+    v: 2
+    rules[1]{s,e,r}:
+      2,3,ham_wasl
+  - c: 93
+    v: 3
+    rules[0]:
+  - c: 93
+    v: 4
+    rules[2]{s,e,r}:
+      19,23,idgham_wo_ghunnah
+      33,34,ham_wasl
+  - c: 93
+    v: 5
+    rules[0]:
+  - c: 93
+    v: 6
+    rules[2]{s,e,r}:
+      11,13,qalaqah
+      21,26,ikhafa
+  - c: 93
+    v: 7
+    rules[1]{s,e,r}:
+      16,21,ikhafa
+  - c: 93
+    v: 8
+    rules[2]{s,e,r}:
+      12,14,madda_obligatory
+      18,22,ikhafa
+  - c: 93
+    v: 9
+    rules[3]{s,e,r}:
+      4,6,ghunnah
+      9,10,ham_wasl
+      28,30,qalaqah
+  - c: 93
+    v: 10
+    rules[4]{s,e,r}:
+      4,6,ghunnah
+      9,10,ham_wasl
+      10,11,laam_shamsiyah
+      13,15,madda_obligatory
+  - c: 93
+    v: 11
+    rules[1]{s,e,r}:
+      4,6,ghunnah
+  - c: 94
+    v: 1
+    rules[1]{s,e,r}:
+      23,25,qalaqah
+  - c: 94
+    v: 2
+    rules[1]{s,e,r}:
+      14,16,ikhafa
+  - c: 94
+    v: 3
+    rules[2]{s,e,r}:
+      5,8,madda_obligatory
+      11,13,ikhafa
+  - c: 94
+    v: 4
+    rules[0]:
+  - c: 94
+    v: 5
+    rules[2]{s,e,r}:
+      4,6,ghunnah
+      13,14,ham_wasl
+  - c: 94
+    v: 6
+    rules[2]{s,e,r}:
+      2,4,ghunnah
+      11,12,ham_wasl
+  - c: 94
+    v: 7
+    rules[3]{s,e,r}:
+      19,20,ham_wasl
+      20,22,ikhafa
+      23,25,qalaqah
+  - c: 94
+    v: 8
+    rules[2]{s,e,r}:
+      19,20,ham_wasl
+      24,25,qalaqah

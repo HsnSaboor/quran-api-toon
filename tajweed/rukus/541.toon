@@ -1,0 +1,44 @@
+quran[8]:
+  - c: 99
+    v: 1
+    rules[1]{s,e,r}:
+      17,18,ham_wasl
+  - c: 99
+    v: 2
+    rules[1]{s,e,r}:
+      13,14,ham_wasl
+  - c: 99
+    v: 3
+    rules[3]{s,e,r}:
+      8,9,ham_wasl
+      13,15,ikhafa
+      16,18,madda_normal
+  - c: 99
+    v: 4
+    rules[1]{s,e,r}:
+      8,12,ikhafa
+  - c: 99
+    v: 5
+    rules[1]{s,e,r}:
+      4,6,ghunnah
+  - c: 99
+    v: 6
+    rules[7]{s,e,r}:
+      8,12,idgham_ghunnah
+      20,21,ham_wasl
+      21,22,laam_shamsiyah
+      22,24,ghunnah
+      36,41,idgham_wo_ghunnah
+      49,51,slnt
+      58,60,madda_normal
+  - c: 99
+    v: 7
+    rules[2]{s,e,r}:
+      3,7,idgham_ghunnah
+      37,42,idgham_ghunnah
+  - c: 99
+    v: 8
+    rules[3]{s,e,r}:
+      3,7,idgham_ghunnah
+      30,34,ikhafa
+      36,41,idgham_ghunnah
