@@ -2,6 +2,18 @@
 
 This repository provides comprehensive Quranic data including text, translations, recitations (word-timing), tafsirs, tajweed, and mutashabihat in the high-performance `.toon` format. Optimized for **Page-Based Fetching** (Mushaf Pages 1-604) and CDN delivery.
 
+## 📚 Documentation
+
+Detailed documentation for each resource type:
+
+*   **[Architecture: Why Page-Centered?](docs/architecture-decision.md)** (Read this first!)
+*   **[Quran Text](docs/quran.md)** - Uthmani script & variants.
+*   **[Translations](docs/translations.md)** - 40+ languages.
+*   **[Tafsirs](docs/tafsirs.md)** - Exegesis & commentary.
+*   **[Recitations (Timing)](docs/recitations.md)** - Audio synchronization data.
+*   **[Tajweed Rules](docs/tajweed.md)** - Dynamic text coloring.
+*   **[Mutashabihat](docs/mutashabihat.md)** - Similar verse mapping for Hifz.
+
 ## 🏗 Project Structure
 
 The data is organized by category, with a global index and individual indices for each category.
@@ -20,7 +32,7 @@ The entry point for mapping the Quran:
 | **Translations** | `translations.toon` | `translations/{slug}/pages/{1..604}.toon` | 294+ translation editions in various languages. |
 | **Tafsirs** | `tafsirs.toon` | `tafsirs/{slug}/pages/{1..604}.toon` | 45+ tafsir editions. |
 | **Recitations** | `recitations.toon` | `recitations/{id}/pages/{1..604}.toon` | Word-by-word timing and segment data for 20+ reciters. |
-| **Tajweed** | `tajweed.toon` | `tajweed/pages/{1..604}.toon` | Tajweed rules and color coding mapping. |
+| **Tajweed** | `tajweed/pages/{1..604}.toon` | Tajweed rules and color coding mapping. |
 | **Mutashabihat** | `mutashabihat/index.toon` | `mutashabihat/data.toon` | Similar verses mapping and cross-references. |
 
 ---
