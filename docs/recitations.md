@@ -9,6 +9,35 @@ Files are located at: `recitations/{id}/pages/{1..604}.toon`
 *   `id`: The reciter ID (e.g., `1` for Mishary Rashid Alafasy).
 *   See `recitations.toon` in the root for the reciter map.
 
+## Verified Reciters
+The following 23 reciters have verified, complete word-level timing data:
+
+| ID | Name | Style | Audio Type |
+| :--- | :--- | :--- | :--- |
+| 1 | AbdulBaset AbdulSamad | Mujawwad | Ayah |
+| 2 | AbdulBaset AbdulSamad | Murattal | Ayah |
+| 3 | Abdur-Rahman as-Sudais | Murattal | Ayah |
+| 4 | Abu Bakr al-Shatri | Murattal | Ayah |
+| 5 | Hani ar-Rifai | Murattal | Ayah |
+| 6 | Mahmoud Khalil Al-Husary | Murattal | Ayah |
+| 7 | Mishari Rashid al-`Afasy | Murattal | Ayah |
+| 8 | Mohamed Siddiq al-Minshawi | Mujawwad | Ayah |
+| 9 | Mohamed Siddiq al-Minshawi | Murattal | Ayah |
+| 10 | Sa'ud ash-Shuraim | Murattal | Ayah |
+| 11 | Mohammad al-Tablawi | Murattal | Ayah |
+| 12 | Mahmoud Khalil Al-Husary | Muallim | Ayah |
+| 13 | Ahmad Alnufais | Murattal | Ayah |
+| 14 | Ahmed ibn Ali al-Ajmy | Murattal | Surah |
+| 15 | Maher al-Muaiqly | Murattal | Surah |
+| 16 | Bandar Baleela | Murattal | Surah |
+| 17 | Yasser Ad Dussary | Murattal | Surah |
+| 18 | Abdullah Hamad Abu Sharida | Murattal | Surah |
+| 19 | Sa'ad al-Ghamdi | Murattal | Surah |
+| 20 | Khalifah Al Tunaiji | Murattal | Surah |
+| 21 | Mohamed Siddiq al-Minshawi (Kids) | Kids Repeat | Surah |
+| 22 | Hady Toure | Murattal | Surah |
+| 23 | Khalid Al-Jalil | Murattal | Surah |
+
 ## Schema
 This schema is slightly more complex as it involves nested arrays for word-level timing.
 

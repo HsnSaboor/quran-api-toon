@@ -10,7 +10,8 @@ Detailed documentation for each resource type:
 *   **[Quran Text](docs/quran.md)** - Uthmani script & variants.
 *   **[Translations](docs/translations.md)** - 40+ languages.
 *   **[Tafsirs](docs/tafsirs.md)** - Exegesis & commentary.
-*   **[Recitations (Timing)](docs/recitations.md)** - Audio synchronization data.
+*   **[Recitations (Timing)](docs/recitations.md)** - Audio synchronization data for 23 verified reciters.
+*   **[Audio & Highlighting Guide](docs/audio_highlighting.md)** - Implementation guide for playback and sync.
 *   **[Tajweed Rules](docs/tajweed.md)** - Dynamic text coloring.
 *   **[Mutashabihat](docs/mutashabihat.md)** - Similar verse mapping for Hifz.
 
@@ -31,7 +32,7 @@ The entry point for mapping the Quran:
 | **Quran** | `quran.toon` | `quran/pages/{1..604}.toon` | Script variants (e.g., Uthmani, Tajweed Glyphs). |
 | **Translations** | `translations.toon` | `translations/{slug}/pages/{1..604}.toon` | 294+ translation editions in various languages. |
 | **Tafsirs** | `tafsirs.toon` | `tafsirs/{slug}/pages/{1..604}.toon` | 45+ tafsir editions. |
-| **Recitations** | `recitations.toon` | `recitations/{id}/pages/{1..604}.toon` | Word-by-word timing and segment data for 20+ reciters. |
+| **Recitations** | `recitations.toon` | `recitations/{id}/pages/{1..604}.toon` | Word-by-word timing and segment data for 23 verified reciters. |
 | **Tajweed** | `tajweed/pages/{1..604}.toon` | Tajweed rules and color coding mapping. |
 | **Mutashabihat** | `mutashabihat/index.toon` | `mutashabihat/data.toon` | Similar verses mapping and cross-references. |
 
