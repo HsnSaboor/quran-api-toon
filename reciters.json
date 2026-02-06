@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1,
+    "name": "AbdulBaset AbdulSamad",
+    "style": "Mujawwad",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/qdc/abdul_baset/mujawwad/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/1/by_chapter/{surah}"
+  },
+  {
+    "id": 2,
+    "name": "AbdulBaset AbdulSamad",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/qdc/abdul_baset/murattal/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/2/by_chapter/{surah}"
+  },
+  {
+    "id": 3,
+    "name": "Abdur-Rahman as-Sudais",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/3/by_chapter/{surah}"
+  },
+  {
+    "id": 4,
+    "name": "Abu Bakr al-Shatri",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/qdc/abu_bakr_shatri/murattal/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/4/by_chapter/{surah}"
+  },
+  {
+    "id": 5,
+    "name": "Hani ar-Rifai",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/qdc/hani_ar_rifai/murattal/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/5/by_chapter/{surah}"
+  },
+  {
+    "id": 6,
+    "name": "Mahmoud Khalil Al-Husary",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/qdc/khalil_al_husary/murattal/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/6/by_chapter/{surah}"
+  },
+  {
+    "id": 7,
+    "name": "Mishari Rashid al-`Afasy",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/7/by_chapter/{surah}"
+  },
+  {
+    "id": 9,
+    "name": "Mohamed Siddiq al-Minshawi",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/qdc/siddiq_minshawi/murattal/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/9/by_chapter/{surah}"
+  },
+  {
+    "id": 10,
+    "name": "Sa'ud ash-Shuraim",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/qdc/saud_ash-shuraym/murattal/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/10/by_chapter/{surah}"
+  },
+  {
+    "id": 12,
+    "name": "Mahmoud Khalil Al-Husary",
+    "style": "Muallim",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/qdc/khalil_al_husary/muallim/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/12/by_chapter/{surah}"
+  },
+  {
+    "id": 13,
+    "name": "Sa'ad al-Ghamdi",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/13/by_chapter/{surah}"
+  },
+  {
+    "id": 19,
+    "name": "Ahmed ibn Ali al-Ajmy",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/19/by_chapter/{surah}"
+  },
+  {
+    "id": 159,
+    "name": "Maher al-Muaiqly",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/quran/maher_almu3aiqly/year1440/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/159/by_chapter/{surah}"
+  },
+  {
+    "id": 160,
+    "name": "Bandar Baleela",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/quran/bandar_baleela/complete/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/160/by_chapter/{surah}"
+  },
+  {
+    "id": 161,
+    "name": "Khalifah Al Tunaiji",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/qdc/khalifah_taniji/murattal/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/161/by_chapter/{surah}"
+  },
+  {
+    "id": 168,
+    "name": "Mohamed Siddiq al-Minshawi",
+    "style": "Kids Repeat",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/qdc/siddiq_minshawi/kids_repeat/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/168/by_chapter/{surah}"
+  },
+  {
+    "id": 173,
+    "name": "Mishari Rashid al-`Afasy",
+    "style": "Streaming",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/qdc/mishari_al_afasy/streaming/mp3/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/173/by_chapter/{surah}"
+  },
+  {
+    "id": 174,
+    "name": "Yasser Ad Dussary",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/qdc/yasser_ad-dussary/mp3/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/174/by_chapter/{surah}"
+  },
+  {
+    "id": 175,
+    "name": "Abdullah Hamad Abu Sharida",
+    "style": "Murattal",
+    "source": "quran_com",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://download.quranicaudio.com/quran/abdullah_abu_sharida/{surah}.mp3",
+    "segments_api_pattern": "https://api.quran.com/api/v4/recitations/175/by_chapter/{surah}"
+  },
+  {
+    "id": "qul_461",
+    "name": "Ahmad Alnufais Recitation",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/d27f7e67d7a126c71325ed4ade33d89c/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_421",
+    "name": "Hady Toure",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/d3b993ddc04474d193613be858e13a52/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_415",
+    "name": "Abdullah Awad al-Juhani",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/cd6bb3decf17335d83778cc8f39ea920/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_416",
+    "name": "Abdullah Basfar",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/16382b702ae47fb89b067d0757396729/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_348",
+    "name": "Mohammad Al-Tablawi",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/fbaabcdc954c77427764779526ad7441/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_372",
+    "name": "Mahmood Ali Al-Bana",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/07f0d6551bebd0292ebc189c68355e56/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_419",
+    "name": "Muhammad Jibreel",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/dbac817a417b6fa2fb25b82f9f741110/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_420",
+    "name": "Khalid Al-Jalil",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/d538d408e1f1465616b8297eb22dde9c/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_321",
+    "name": "Aziz Alili",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/e128d999f74948c41d0f27c377e515df/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_356",
+    "name": "Nasser Al Qatami",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/75e5fde741825ed0e4080074b02efd8b/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_362",
+    "name": "Salah Bukhatir",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/e8fee39b132b693be78699bb8d37d291/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_320",
+    "name": "Salah al-Budair",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/8637d08b60558dd26f7a6e99f4387247/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_327",
+    "name": "Mishari ibn Rashid al-`Afasy with Ibrahim Walk [Saheeh Intl Translation]",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/b0a49f38ccb31f81ada90f5811a00616/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_370",
+    "name": "Akram Al-Alaqmi",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/9d2255d6cc795ed4d74d144a3a86c27e/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_371",
+    "name": "Ali Hajjaj Alsouasi",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/8dcfcc553ea79eac638b1c80a293087b/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_331",
+    "name": "Abdullah Basfar with Ibrahim Walk [Saheeh Intl Translation]",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/f176731758a99c3e5a8374747c629cf0/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_336",
+    "name": "Fares Abbad",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/1ab867de3b6e3dcfaebca5626b0b42e3/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_346",
+    "name": "Mostafa Ismaeel",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/5584379d83109cf4e7a463f7fcaa47ca/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_409",
+    "name": "Abdullah Matroud",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/e03d1bf8f703365c378e97f0e25f54a7/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_341",
+    "name": "Ahmad Nauina",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/76d9736249fcbae311775c6c856685b3/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_361",
+    "name": "Sahl Yasin",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/5a7f893dff577cb54e65a3f1105a9176/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_418",
+    "name": "Ali Abdur-Rahman al-Huthaify",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/f44a11bd2eeedf3b0c5c0801bb0115fc/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_471",
+    "name": "Ahmad Alnufais ayah recitation",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/2a9cfa1ec23503f5282642a4c37b9eab/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_473",
+    "name": "Sheikh Abu Bakr Dhaby Hafs 2020",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/6b889aa5bd2ed5b1355a3ea98dbf6067/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_410",
+    "name": "AbdulWadood Haneef",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/f065a240022ac1a26a9f881b82ec7589/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  },
+  {
+    "id": "qul_417",
+    "name": "Nabil ar-Rifai",
+    "style": "Murattal",
+    "source": "qul_tarteel",
+    "audio_type": "surah_level",
+    "audio_url_pattern": "https://qul.tarteel.ai/resources/recitation/f09200851dcd1cfbf406496aa4154f42/download",
+    "segments_api_pattern": "Inside ZIP (JSON per Surah)"
+  }
+]
