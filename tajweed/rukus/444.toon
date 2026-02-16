@@ -1,0 +1,99 @@
+quran[9]:
+  - c: 47
+    v: 20
+    rules[14]{s,e,r}:
+      10,11,ham_wasl
+      28,30,slnt
+      54,60,ikhafa
+      64,67,madda_obligatory
+      70,72,ikhafa
+      83,87,idgham_ghunnah
+      95,99,idgham_ghunnah
+      114,115,ham_wasl
+      136,137,ham_wasl
+      158,162,idgham_shafawi
+      166,170,idgham_ghunnah
+      171,173,ikhafa
+      196,197,ham_wasl
+      223,224,ham_wasl
+  - c: 47
+    v: 21
+    rules[7]{s,e,r}:
+      5,9,idgham_ghunnah
+      14,18,idgham_ghunnah
+      25,31,ikhafa
+      45,46,ham_wasl
+      69,71,slnt
+      72,73,ham_wasl
+      92,97,idgham_wo_ghunnah
+  - c: 47
+    v: 22
+    rules[6]{s,e,r}:
+      20,23,ikhafa
+      38,41,ikhafa
+      49,51,slnt
+      56,57,ham_wasl
+      76,79,madda_obligatory
+      79,81,slnt
+  - c: 47
+    v: 23
+    rules[8]{s,e,r}:
+      2,4,slnt
+      6,9,madda_obligatory
+      14,15,ham_wasl
+      35,36,ham_wasl
+      49,51,ghunnah
+      65,68,madda_obligatory
+      71,73,qalaqah
+      75,77,madda_normal
+  - c: 47
+    v: 24
+    rules[2]{s,e,r}:
+      23,24,ham_wasl
+      58,60,qalaqah
+  - c: 47
+    v: 25
+    rules[13]{s,e,r}:
+      2,4,ghunnah
+      6,7,ham_wasl
+      16,17,ham_wasl
+      25,27,slnt
+      32,35,madda_obligatory
+      38,40,qalaqah
+      42,44,madda_normal
+      47,51,idgham_shafawi
+      52,57,iqlab
+      84,85,ham_wasl
+      95,96,ham_wasl
+      96,97,laam_shamsiyah
+      104,106,madda_normal
+  - c: 47
+    v: 26
+    rules[7]{s,e,r}:
+      1,3,madda_normal
+      12,14,ghunnah
+      26,28,slnt
+      47,49,slnt
+      62,63,ham_wasl
+      95,96,ham_wasl
+      109,110,ham_wasl
+  - c: 47
+    v: 27
+    rules[4]{s,e,r}:
+      29,30,ham_wasl
+      36,39,madda_obligatory
+      74,76,qalaqah
+      78,80,madda_normal
+  - c: 47
+    v: 28
+    rules[10]{s,e,r}:
+      1,3,madda_normal
+      12,14,ghunnah
+      20,21,ham_wasl
+      29,31,slnt
+      33,36,madda_obligatory
+      46,47,ham_wasl
+      63,65,slnt
+      71,73,madda_normal
+      77,78,madda_normal
+      96,98,madda_normal

@@ -1,0 +1,92 @@
+quran[5]:
+  - c: 48
+    v: 24
+    rules[6]{s,e,r}:
+      7,8,ham_wasl
+      36,38,ikhafa
+      62,66,ikhafa_shafawi
+      69,71,qalaqah
+      83,88,iqlab
+      133,134,ham_wasl
+  - c: 48
+    v: 25
+    rules[28]{s,e,r}:
+      5,6,ham_wasl
+      22,24,slnt
+      43,44,ham_wasl
+      55,56,ham_wasl
+      68,69,ham_wasl
+      73,75,qalaqah
+      90,94,idgham_ghunnah
+      95,97,qalaqah
+      111,112,madda_normal
+      130,134,idgham_ghunnah
+      151,153,madda_obligatory
+      154,158,idgham_ghunnah
+      166,168,madda_normal
+      168,172,idgham_wo_ghunnah
+      193,196,ikhafa
+      219,223,idgham_shafawi
+      228,232,idgham_shafawi
+      239,244,iqlab
+      256,262,idgham_wo_ghunnah
+      266,268,qalaqah
+      273,274,ham_wasl
+      294,296,madda_normal
+      298,302,idgham_ghunnah
+      304,306,madda_obligatory
+      327,329,slnt
+      337,339,qalaqah
+      343,344,ham_wasl
+      360,362,slnt
+  - c: 48
+    v: 26
+    rules[16]{s,e,r}:
+      12,13,ham_wasl
+      29,31,slnt
+      48,49,ham_wasl
+      71,72,ham_wasl
+      76,78,madda_normal
+      92,94,ikhafa
+      98,99,ham_wasl
+      117,118,madda_normal
+      134,136,madda_normal
+      145,146,ham_wasl
+      184,185,ham_wasl
+      185,186,laam_shamsiyah
+      189,191,qalaqah
+      202,205,madda_obligatory
+      205,207,slnt
+      244,245,ham_wasl
+  - c: 48
+    v: 27
+    rules[16]{s,e,r}:
+      5,7,qalaqah
+      15,16,ham_wasl
+      33,34,ham_wasl
+      34,35,laam_shamsiyah
+      46,47,ham_wasl
+      61,63,qalaqah
+      67,69,ghunnah
+      71,72,ham_wasl
+      83,84,ham_wasl
+      96,99,ikhafa
+      99,101,madda_obligatory
+      105,106,ham_wasl
+      208,210,slnt
+      222,225,ikhafa
+      231,233,madda_normal
+      242,247,ikhafa
+  - c: 48
+    v: 28
+    rules[10]{s,e,r}:
+      5,6,ham_wasl
+      10,13,madda_obligatory
+      32,33,madda_normal
+      36,37,ham_wasl
+      54,55,ham_wasl
+      75,76,madda_normal
+      83,84,ham_wasl
+      84,85,laam_shamsiyah
+      98,100,madda_normal
+      114,115,ham_wasl

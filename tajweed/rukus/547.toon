@@ -1,0 +1,28 @@
+quran[5]:
+  - c: 105
+    v: 1
+    rules[3]{s,e,r}:
+      42,44,madda_normal
+      47,48,ham_wasl
+      51,53,madda_permissible
+  - c: 105
+    v: 2
+    rules[2]{s,e,r}:
+      9,11,qalaqah
+      36,38,madda_permissible
+  - c: 105
+    v: 3
+    rules[1]{s,e,r}:
+      36,38,madda_permissible
+  - c: 105
+    v: 4
+    rules[4]{s,e,r}:
+      8,12,ikhafa_shafawi
+      20,24,idgham_ghunnah
+      26,29,ikhafa
+      32,34,madda_permissible
+  - c: 105
+    v: 5
+    rules[2]{s,e,r}:
+      19,23,idgham_ghunnah
+      28,30,madda_permissible

@@ -1,0 +1,38 @@
+quran[8]:
+  - c: 94
+    v: 1
+    rules[1]{s,e,r}:
+      23,25,qalaqah
+  - c: 94
+    v: 2
+    rules[1]{s,e,r}:
+      14,16,ikhafa
+  - c: 94
+    v: 3
+    rules[2]{s,e,r}:
+      5,8,madda_obligatory
+      11,13,ikhafa
+  - c: 94
+    v: 4
+    rules[0]:
+  - c: 94
+    v: 5
+    rules[2]{s,e,r}:
+      4,6,ghunnah
+      13,14,ham_wasl
+  - c: 94
+    v: 6
+    rules[2]{s,e,r}:
+      2,4,ghunnah
+      11,12,ham_wasl
+  - c: 94
+    v: 7
+    rules[3]{s,e,r}:
+      19,20,ham_wasl
+      20,22,ikhafa
+      23,25,qalaqah
+  - c: 94
+    v: 8
+    rules[2]{s,e,r}:
+      19,20,ham_wasl
+      24,25,qalaqah

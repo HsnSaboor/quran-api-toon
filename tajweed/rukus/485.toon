@@ -1,0 +1,90 @@
+quran[5]:
+  - c: 61
+    v: 10
+    rules[8]{s,e,r}:
+      2,5,madda_obligatory
+      14,15,ham_wasl
+      32,34,slnt
+      63,65,madda_normal
+      67,71,ikhafa
+      72,74,ikhafa
+      77,81,idgham_shafawi
+      97,99,madda_permissible
+  - c: 61
+    v: 11
+    rules[11]{s,e,r}:
+      14,15,ham_wasl
+      32,34,madda_normal
+      41,43,madda_normal
+      63,64,ham_wasl
+      78,80,madda_normal
+      91,93,ikhafa
+      104,106,madda_normal
+      117,121,idgham_wo_ghunnah
+      130,133,ikhafa
+      134,136,ikhafa
+      147,149,madda_permissible
+  - c: 61
+    v: 12
+    rules[18]{s,e,r}:
+      32,34,qalaqah
+      45,47,ghunnah
+      48,50,madda_normal
+      50,54,ikhafa
+      55,57,qalaqah
+      63,66,ikhafa
+      75,76,ham_wasl
+      84,86,madda_normal
+      95,97,madda_normal
+      109,113,ikhafa
+      118,120,ghunnah
+      121,123,madda_normal
+      128,130,qalaqah
+      130,136,ikhafa
+      136,138,madda_normal
+      143,144,ham_wasl
+      153,154,ham_wasl
+      159,161,madda_permissible
+  - c: 61
+    v: 13
+    rules[6]{s,e,r}:
+      31,35,idgham_ghunnah
+      40,41,ham_wasl
+      54,58,ikhafa
+      62,68,idgham_ghunnah
+      77,78,ham_wasl
+      87,89,madda_permissible
+  - c: 61
+    v: 14
+    rules[31]{s,e,r}:
+      2,5,madda_obligatory
+      14,15,ham_wasl
+      32,34,slnt
+      39,42,madda_obligatory
+      42,44,slnt
+      47,49,ikhafa
+      54,55,ham_wasl
+      81,82,ham_wasl
+      82,84,qalaqah
+      111,113,madda_normal
+      123,125,ikhafa
+      128,131,madda_obligatory
+      138,139,ham_wasl
+      154,155,ham_wasl
+      180,182,ikhafa
+      187,188,ham_wasl
+      208,209,idgham_mutajanisayn
+      212,214,madda_obligatory
+      219,223,idgham_ghunnah
+      224,229,iqlab
+      231,234,madda_obligatory
+      240,242,madda_obligatory
+      257,258,idgham_mutajanisayn
+      261,263,madda_obligatory
+      268,274,ikhafa
+      280,282,qalaqah
+      286,287,ham_wasl
+      304,306,slnt
+      337,339,slnt
+      342,344,madda_normal
+      347,349,madda_permissible

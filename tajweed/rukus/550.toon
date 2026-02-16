@@ -1,0 +1,18 @@
+quran[3]:
+  - c: 108
+    v: 1
+    rules[4]{s,e,r}:
+      2,4,ghunnah
+      4,7,madda_obligatory
+      18,20,madda_normal
+      23,24,ham_wasl
+  - c: 108
+    v: 2
+    rules[1]{s,e,r}:
+      20,21,ham_wasl
+  - c: 108
+    v: 3
+    rules[3]{s,e,r}:
+      2,4,ghunnah
+      21,22,ham_wasl
+      26,28,qalaqah

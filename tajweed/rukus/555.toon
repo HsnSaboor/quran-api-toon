@@ -1,0 +1,32 @@
+quran[5]:
+  - c: 113
+    v: 1
+    rules[2]{s,e,r}:
+      21,22,ham_wasl
+      28,29,qalaqah
+  - c: 113
+    v: 2
+    rules[2]{s,e,r}:
+      2,5,ikhafa
+      18,19,qalaqah
+  - c: 113
+    v: 3
+    rules[2]{s,e,r}:
+      4,7,ikhafa
+      30,31,qalaqah
+  - c: 113
+    v: 4
+    rules[8]{s,e,r}:
+      4,7,ikhafa
+      12,13,ham_wasl
+      13,14,laam_shamsiyah
+      14,16,ghunnah
+      20,22,madda_normal
+      24,26,madda_normal
+      33,34,ham_wasl
+      40,41,qalaqah
+  - c: 113
+    v: 5
+    rules[2]{s,e,r}:
+      4,7,ikhafa
+      30,31,qalaqah

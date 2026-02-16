@@ -1,0 +1,109 @@
+quran[7]:
+  - c: 34
+    v: 1
+    rules[12]{s,e,r}:
+      18,19,ham_wasl
+      30,31,madda_normal
+      40,41,ham_wasl
+      41,42,laam_shamsiyah
+      47,49,madda_normal
+      50,52,madda_normal
+      65,66,ham_wasl
+      82,83,ham_wasl
+      96,97,ham_wasl
+      116,117,ham_wasl
+      127,128,ham_wasl
+      133,135,madda_permissible
+  - c: 34
+    v: 2
+    rules[9]{s,e,r}:
+      24,25,ham_wasl
+      65,67,ikhafa
+      76,77,ham_wasl
+      77,78,laam_shamsiyah
+      82,84,madda_obligatory
+      118,119,ham_wasl
+      119,120,laam_shamsiyah
+      129,130,ham_wasl
+      135,137,madda_permissible
+  - c: 34
+    v: 3
+    rules[20]{s,e,r}:
+      8,9,ham_wasl
+      25,27,slnt
+      43,44,ham_wasl
+      44,45,laam_shamsiyah
+      86,88,ghunnah
+      96,98,madda_normal
+      103,104,ham_wasl
+      149,153,ikhafa
+      156,157,ham_wasl
+      157,158,laam_shamsiyah
+      163,165,madda_normal
+      166,168,madda_normal
+      181,182,ham_wasl
+      194,197,madda_obligatory
+      209,212,ikhafa
+      212,214,madda_normal
+      222,225,madda_obligatory
+      250,252,madda_normal
+      252,256,idgham_ghunnah
+      259,261,madda_permissible
+  - c: 34
+    v: 4
+    rules[14]{s,e,r}:
+      5,7,qalaqah
+      12,13,ham_wasl
+      30,32,slnt
+      42,44,slnt
+      45,46,ham_wasl
+      46,47,laam_shamsiyah
+      50,52,madda_normal
+      56,58,madda_normal
+      64,66,slnt
+      68,71,madda_obligatory
+      79,83,idgham_shafawi
+      91,95,idgham_ghunnah
+      100,104,ikhafa
+      106,108,madda_permissible
+  - c: 34
+    v: 5
+    rules[10]{s,e,r}:
+      2,3,ham_wasl
+      20,23,madda_obligatory
+      29,31,madda_normal
+      41,43,madda_normal
+      53,55,slnt
+      57,60,madda_obligatory
+      77,81,idgham_ghunnah
+      82,86,idgham_wo_ghunnah
+      88,90,qalaqah
+      96,98,madda_permissible
+  - c: 34
+    v: 6
+    rules[14]{s,e,r}:
+      8,9,ham_wasl
+      24,26,slnt
+      27,28,ham_wasl
+      37,38,ham_wasl
+      42,45,madda_obligatory
+      48,50,ikhafa
+      64,68,idgham_wo_ghunnah
+      81,82,ham_wasl
+      97,100,madda_obligatory
+      111,113,madda_normal
+      116,117,ham_wasl
+      127,128,ham_wasl
+      133,135,madda_permissible
+      135,136,qalaqah
+  - c: 34
+    v: 7
+    rules[8]{s,e,r}:
+      8,9,ham_wasl
+      25,27,slnt
+      56,60,idgham_ghunnah
+      84,86,qalaqah
+      109,111,ghunnah
+      127,131,ikhafa
+      133,135,madda_permissible
+      135,136,qalaqah
