@@ -30,8 +30,8 @@ The entry point for mapping the Quran:
 | Category | Index File | Content Path | Description |
 | :--- | :--- | :--- | :--- |
 | **Quran** | `quran.toon` | `quran/pages/{1..604}.toon` | Script variants (e.g., Uthmani, Tajweed Glyphs). |
-| **Translations** | `translations.toon` | `translations/{slug}/pages/{1..604}.toon` | 358 translation editions in 100 languages. Supports footnotes and rich text. |
-| **Tafsirs** | `tafsirs.toon` | `tafsirs/{slug}/pages/{1..604}.toon` | 129 tafsir editions. Supports HTML formatting. |
+| **Translations** | `translations.toon` | `translations/{slug}/pages/{1..604}.toon` | 309 translation editions in 100+ languages. Supports footnotes and rich text. |
+| **Tafsirs** | `tafsirs.toon` | `tafsirs/{slug}/pages/{1..604}.toon` | 90 tafsir editions. Supports HTML formatting. |
 | **Recitations** | `recitations.toon` | `recitations/{id}/pages/{1..604}.toon` | Word-by-word timing and segment data for 23 verified reciters. |
 | **Surah Info** | `surah.toon` | `surah/{lang}.toon` | Surah introductions and background information in multiple languages. |
 | **Tajweed** | `tajweed/pages/{1..604}.toon` | Tajweed rules and color coding mapping. |

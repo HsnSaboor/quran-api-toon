@@ -3,6 +3,11 @@
 ## Overview
 The `tafsirs` resource provides exegesis (detailed explanation) of the Quran verses. This includes famous works like Ibn Kathir, Jalalayn, and Tabari.
 
+## Statistics (Verified)
+- **Total Tafsirs**: 90
+- **RTL (Right-to-Left)**: 64 (Arabic, Urdu, Persian, etc.)
+- **LTR (Left-to-Right)**: 26 (English, Turkish, Indonesian, etc.)
+
 ## Structure
 Files are located at: `tafsirs/{slug}/pages/{1..604}.toon`
 
@@ -15,7 +20,21 @@ tafsir[{size}]{c,v,t}:
   {surah_id},{ayah_num},{tafsir_text_html}
 ```
 
+**Index File (`tafsirs.toon`) Schema:**
+```toon
+tafsirs[{size}]{no,id,name,author,lang,dir,path}:
+  {serial},{slug},{name},{author},{lang},{direction},{path}
+```
+
 *Note: Tafsir text can be very long and now supports rich HTML formatting (headers, bolding, etc.) for better readability.*
+
+## Direction Field (RTL/LTR)
+
+The `dir` field in the index indicates text direction:
+- `rtl`: Right-to-left scripts (Arabic, Urdu, Persian/Farsi, etc.)
+- `ltr`: Left-to-right scripts (English, Turkish, Indonesian, etc.)
+
+Always check the `dir` field to render tafsir text correctly.
 
 ## Usage Example (Frontend)
 

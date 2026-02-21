@@ -1,7 +1,12 @@
 # Translations Documentation
 
 ## Overview
-The `translations` resource provides meaning translations of the Quran in 100 languages. Like the Quran text, these are segmented by Page (1-604) to allow perfect synchronized scrolling with the Mushaf.
+The `translations` resource provides meaning translations of the Quran in 100+ languages. Like the Quran text, these are segmented by Page (1-604) to allow perfect synchronized scrolling with the Mushaf.
+
+## Statistics (Verified)
+- **Total Translations**: 309
+- **RTL (Right-to-Left)**: 41 (Arabic, Urdu, Persian, Hebrew, Divehi, Dari, Sindhi, Shahmukhi Panjabi, etc.)
+- **LTR (Left-to-Right)**: 268 (English, Turkish, Indonesian, Urdu-Latin, etc.)
 
 ## Structure
 Files are located at: `translations/{slug}/pages/{1..604}.toon`
@@ -53,6 +58,18 @@ arabicData.quran.forEach((verse, index) => {
   });
 });
 ```
+
+## Direction Field (RTL/LTR)
+
+The `dir` field in the index indicates text direction:
+- `rtl`: Right-to-left scripts (Arabic, Urdu, Persian/Farsi, Hebrew, Divehi/Thaana, Dari, Sindhi, Shahmukhi Panjabi, etc.)
+- `ltr`: Left-to-right scripts (English, Turkish, Indonesian, Malay, etc.)
+
+**Note**: Some languages have both RTL and LTR variants:
+- `urd-jalandhry` (Urdu in Nastaliq script) → `rtl`
+- `urd-transliteration` (Urdu in Latin script) → `ltr`
+
+Always check the `dir` field to render text correctly.
 
 ## Performance & Savings
 *   **Zero-Overhead**: Since translation text can be long, removing JSON structural overhead (`{...}`) significantly reduces payload size.

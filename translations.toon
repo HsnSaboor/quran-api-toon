@@ -62,7 +62,7 @@ translations[309]{no,id,name,author,lang,dir,path,has_footnotes}:
   58,english-muhammad-asad,"The Message of the Qur'an","Muhammad Asad",English,ltr,"translations/english-muhammad-asad",false
   59,english-muhammad-mahmoud,"Muhammad Mahmoud","Muhammad Mahmoud",English,ltr,"translations/english-muhammad-mahmoud",false
   60,english-muhammad-sarwar,"Muhammad Sarwar","Muhammad Sarwar",English,ltr,"translations/english-muhammad-sarwar",false
-  61,english-hilali-khan,"Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan","Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan",English,ltr,"translations/english-hilali-khan",false
+  61,english-hilali-khan,"Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan","Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan",English,ltr,"translations/english-hilali-khan",true
   62,english-mufti-taqi-usmani,"Mufti Taqi Usmani","Mufti Taqi Usmani",English,ltr,"translations/english-mufti-taqi-usmani",false
   63,english-dr-mustafa-khattab-2,"The Clear Quran","Dr. Mustafa Khattab",English,ltr,"translations/english-dr-mustafa-khattab-2",false
   64,english-n-j-dawood,"N. J. Dawood","N. J. Dawood",English,ltr,"translations/english-n-j-dawood",false
@@ -246,66 +246,66 @@ translations[309]{no,id,name,author,lang,dir,path,has_footnotes}:
   242,chinese-ma-jian,"Ma Jian","Ma Jian",Chinese,ltr,"translations/chinese-ma-jian",false
   243,chinese-ma-zhong-gang,"Ma Zhong Gang","Ma Zhong Gang",Chinese,ltr,"translations/chinese-ma-zhong-gang",false
   244,zulu-iqembu-lezifundiswa,"Iqembu Lezifundiswa","Iqembu Lezifundiswa",Zulu,ltr,"translations/zulu-iqembu-lezifundiswa",false
-  245,afar-hamza,"Afri translation - Mahmoud Abdulqader Hamza","Mahmoud Abdulqader Hamza",Afar,ltr,"translations/afar-hamza",false
-  246,amharic-zain,"Amharic translation - Africa Academy","Africa Academy",Amharic,ltr,"translations/amharic-zain",false
-  248,ankobambara-dayyan,"N'ko translation - Baba Mamadi","Baba Mamadi",Ankobambara,rtl,"translations/ankobambara-dayyan",false
-  249,asante-harun,"Akan Translation (Asante)- Harun Ismail","Harun Ismail",Asante,ltr,"translations/asante-harun",false
-  250,assamese-rafeeq,"Assamese translation - Rafiqul Islam Habibur Rahman.","Rafiqul Islam Habibur Rahman.",Assamese,ltr,"translations/assamese-rafeeq",false
-  251,azeri-musayev,"Azerbaijani translation - Alikhan Musayev","Alikhan Musayev",Azerbaijani,ltr,"translations/azeri-musayev",false
-  252,bisayan-rwwad,"Filipino translation (Bisayan) - Rowwad Translation Center","Rowwad Translation Center",Bisayan,ltr,"translations/bisayan-rwwad",false
-  253,bosnian-rwwad,"Bosnian Translation - Rowwad Translation Centre","Rowwad Translation Center",Bosnian,ltr,"translations/bosnian-rwwad",false
-  254,croatian-rwwad,"Croatian translation - Rowwad Translation Center","Rowwad Translation Center",Croatian,ltr,"translations/croatian-rwwad",false
-  255,dutch-center,"Dutch translation - Rowwad Translation Center","Rowwad Translation Center",Dutch,ltr,"translations/dutch-center",false
-  256,english-rwwad,"English translation - Rowwad Translation Center","Rowwad Translation Center",English,ltr,"translations/english-rwwad",false
-  257,french-montada,"French translation - issued by Noor International","issued by Noor International",French,ltr,"translations/french-montada",false
-  258,french-rashid,"French translation - Rashid Maash","Rashid Maash",French,ltr,"translations/french-rashid",false
-  259,gujarati-omari,"Gujarati translation - Rabila Al-Omari","Omari",Gujarati,ltr,"translations/gujarati-omari",false
-  260,hausa-gummi,"Hausa translation - Abu Bakr Jomy","Abu Bakr Jomy",Hausa,ltr,"translations/hausa-gummi",false
-  261,hindi-omari,"Hindi translation - Azizul Haq Al-Omari","Omari",Hindi,ltr,"translations/hindi-omari",false
-  262,ikirundi-gehiti,"Kirundi translation - Yusuf Gheti","Yusuf Gheti",Ikirundi,ltr,"translations/ikirundi-gehiti",false
-  263,indonesian-affairs,"Indonesian translation - Ministry of Religious Affairs","Ministry of Religious Affairs Indonesia",Indonesian,ltr,"translations/indonesian-affairs",false
-  264,indonesian-complex,"Indonesian translation - The Assembly","The Assembly",Indonesian,ltr,"translations/indonesian-complex",false
-  265,indonesian-sabiq,"Indonesian Translation - Sabeq Company","Sabeq Company",Indonesian,ltr,"translations/indonesian-sabiq",false
-  266,japanese-saeedsato,"Japanese translation - Saeed Sato","Saeed Sato",Japanese,ltr,"translations/japanese-saeedsato",false
-  267,kannada-hamza,"Kannada translation - Hamza Butur","Hamza Butur",Kannada,ltr,"translations/kannada-hamza",false
-  268,khmer-cambodia,"Khmer translation - Islamic Community Development Association","Islamic Community Development Association",Khmer,ltr,"translations/khmer-cambodia",false
-  269,khmer-rwwad,"Khmer translation - Rowwad Translation Center","Rowwad Translation Center",Khmer,ltr,"translations/khmer-rwwad",false
-  270,kinyarwanda-assoc,"Kinyarwanda translation - Rwanda Muslim Association","Rwanda Muslim Association",Kinyarwanda,ltr,"translations/kinyarwanda-assoc",false
-  271,kyrgyz-hakimov,"Kyrgyz translation - Shamsuddin Hakimov","Shamsuddin Hakimov",Kyrgyz,ltr,"translations/kyrgyz-hakimov",false
-  272,lingala-zakaria,"Lingala translation - Mohammed Balangogo","Mohammed Balangogo",Lingala,ltr,"translations/lingala-zakaria",false
-  273,lithuanian-rwwad,"Lithuanian Translation - Rowwad Translation Center","Rowwad Translation Center",Lithuanian,ltr,"translations/lithuanian-rwwad",false
-  274,macedonian-group,"Macedonian translation - a group of Macedonian scholars","a group of Macedonian scholars",Macedonian,ltr,"translations/macedonian-group",false
-  275,malayalam-kunhi,"Malayalam translation - Abdulhamid Haidar Al-Madany & Kunhi Muhammad","Madany & Kunhi Muhammad",Malayalam,ltr,"translations/malayalam-kunhi",false
-  276,moore-rwwad,"Moore translation - Rowwad Translation Center","Rowwad Translation Center",Moore,ltr,"translations/moore-rwwad",false
-  277,oromo-ababor,"Oromo translation - Gali Ababor","Gali Ababor",Oromo,ltr,"translations/oromo-ababor",false
-  278,pashto-rwwad,"Pashto Translation - Rowwad Translation Center","Rowwad Translation Center",Pashto,rtl,"translations/pashto-rwwad",false
-  279,persian-ih,"Persian translation - Rowwad Translation Center","Rowwad Translation Center",Persian,rtl,"translations/persian-ih",false
-  280,portuguese-nasr,"Portuguese translation - Helmi Nasr","Helmi Nasr",Portuguese,ltr,"translations/portuguese-nasr",false
-  281,punjabi-arif,"Punjabi translation - Arif Halim","Arif Halim",Punjabi,ltr,"translations/punjabi-arif",false
-  282,romanian-project,"Romanian translation - Islam4ro.com","Islam4ro.com",Romanian,ltr,"translations/romanian-project",false
-  283,serbian-rwwad,"Serbian translation - Rowwad Translation Center","Rowwad Translation Center",Serbian,ltr,"translations/serbian-rwwad",false
-  284,sinhalese-mahir,"Sinhalese translation - Rowwad Translation Center","Rowwad Translation Center",Sinhalese,ltr,"translations/sinhalese-mahir",false
-  285,somali-yacob,"Somali Translation - Abdullah Hasan Yaqoub","Abdullah Hasan Yaqoub",Somali,ltr,"translations/somali-yacob",false
-  286,spanish-garcia,"Spanish Translation - Isa Garcia","Isa Garcia",Spanish,ltr,"translations/spanish-garcia",false
-  287,spanish-montada-eu,"Spanish translation - issued by Noor International","issued by Noor International",Spanish,ltr,"translations/spanish-montada-eu",false
-  288,spanish-montada-latin,"Spanish (Latin) translation - issued by Noor International","issued by Noor International",Spanish,ltr,"translations/spanish-montada-latin",false
-  289,swahili-barawani,"Swahili translation - Ali Muhsen Al-Berwani","Berwani",Swahili,ltr,"translations/swahili-barawani",false
-  290,swahili-rwwad,"Swahili translation - Rowad Translation Center","Rowwad Translation Center",Swahili,ltr,"translations/swahili-rwwad",false
-  291,tagalog-rwwad,"Filipino (Tagalog) translation- Rowwad Translation Center","Rowwad Translation Center",Tagalog,ltr,"translations/tagalog-rwwad",false
-  292,tajik-arifi,"Tajik translation - Rowwad Translation Center","Rowwad Translation Center",Tajik,ltr,"translations/tajik-arifi",false
-  293,tamil-omar,"Tamil translation - Omar Sharif","Omar Sharif",Tamil,ltr,"translations/tamil-omar",false
-  294,tamil-omar-brief,"Translation Tamil omar brief","Translation Tamil omar brief",Tamil,ltr,"translations/tamil-omar-brief",false
-  295,telugu-muhammad,"Telugu translation - Abdurrahim ibn Muhammad","Abdurrahim ibn Muhammad",Telugu,ltr,"translations/telugu-muhammad",false
-  296,turkish-rwwad,"Turkish translation - Rowwad Translation Center","Rowwad Translation Center",Turkish,ltr,"translations/turkish-rwwad",false
-  297,turkish-shaban,"Turkish Translation - Shaaban British","Shaaban British",Turkish,ltr,"translations/turkish-shaban",false
-  298,turkish-shahin,"Turkish translation - Dr. Ali Ozek and others","Dr. Ali Ozek and others",Turkish,ltr,"translations/turkish-shahin",false
-  299,urdu-junagarhi,"Urdu translation - Muhammad Junagarhi","Muhammad Junagarhi",Urdu,rtl,"translations/urdu-junagarhi",false
-  300,uyghur-saleh,"Uyghur translation - Muhammad Saleh","Muhammad Saleh",Uyghur,rtl,"translations/uyghur-saleh",false
-  301,uzbek-mansour,"Uzbek translation - Alaauddin Mansour","Alaauddin Mansour",Uzbek,ltr,"translations/uzbek-mansour",false
-  302,uzbek-rwwad,"Uzbek translation - Rowwad Translation Center","Rowwad Translation Center",Uzbek,ltr,"translations/uzbek-rwwad",false
-  303,vietnamese-rwwad,"Vietnamese translation - Rowwad Translation Center","Rowwad Translation Center",Vietnamese,ltr,"translations/vietnamese-rwwad",false
-  304,yoruba-mikail,"Yoruba translation - Abu Rahima Mikael","Abu Rahima Mikael",Yoruba,ltr,"translations/yoruba-mikail",false
-  305,bengali-mufti-taqi-usmani,"Bengali Translation","Mufti Taqi Usmani",Bengali,ltr,"translations/bengali-mufti-taqi-usmani",true
+  245,afar-hamza,"Afri translation - Mahmoud Abdulqader Hamza","Mahmoud Abdulqader Hamza",Afar,ltr,"translations/afar-hamza",true
+  246,amharic-zain,"Amharic translation - Africa Academy","Africa Academy",Amharic,ltr,"translations/amharic-zain",true
+  248,ankobambara-dayyan,"N'ko translation - Baba Mamadi","Baba Mamadi",Ankobambara,rtl,"translations/ankobambara-dayyan",true
+  249,asante-harun,"Akan Translation (Asante)- Harun Ismail","Harun Ismail",Asante,ltr,"translations/asante-harun",true
+  250,assamese-rafeeq,"Assamese translation - Rafiqul Islam Habibur Rahman.","Rafiqul Islam Habibur Rahman.",Assamese,ltr,"translations/assamese-rafeeq",true
+  251,azeri-musayev,"Azerbaijani translation - Alikhan Musayev","Alikhan Musayev",Azerbaijani,ltr,"translations/azeri-musayev",true
+  252,bisayan-rwwad,"Filipino translation (Bisayan) - Rowwad Translation Center","Rowwad Translation Center",Bisayan,ltr,"translations/bisayan-rwwad",true
+  253,bosnian-rwwad,"Bosnian Translation - Rowwad Translation Centre","Rowwad Translation Center",Bosnian,ltr,"translations/bosnian-rwwad",true
+  254,croatian-rwwad,"Croatian translation - Rowwad Translation Center","Rowwad Translation Center",Croatian,ltr,"translations/croatian-rwwad",true
+  255,dutch-center,"Dutch translation - Rowwad Translation Center","Rowwad Translation Center",Dutch,ltr,"translations/dutch-center",true
+  256,english-rwwad,"English translation - Rowwad Translation Center","Rowwad Translation Center",English,ltr,"translations/english-rwwad",true
+  257,french-montada,"French translation - issued by Noor International","issued by Noor International",French,ltr,"translations/french-montada",true
+  258,french-rashid,"French translation - Rashid Maash","Rashid Maash",French,ltr,"translations/french-rashid",true
+  259,gujarati-omari,"Gujarati translation - Rabila Al-Omari","Omari",Gujarati,ltr,"translations/gujarati-omari",true
+  260,hausa-gummi,"Hausa translation - Abu Bakr Jomy","Abu Bakr Jomy",Hausa,ltr,"translations/hausa-gummi",true
+  261,hindi-omari,"Hindi translation - Azizul Haq Al-Omari","Omari",Hindi,ltr,"translations/hindi-omari",true
+  262,ikirundi-gehiti,"Kirundi translation - Yusuf Gheti","Yusuf Gheti",Ikirundi,ltr,"translations/ikirundi-gehiti",true
+  263,indonesian-affairs,"Indonesian translation - Ministry of Religious Affairs","Ministry of Religious Affairs Indonesia",Indonesian,ltr,"translations/indonesian-affairs",true
+  264,indonesian-complex,"Indonesian translation - The Assembly","The Assembly",Indonesian,ltr,"translations/indonesian-complex",true
+  265,indonesian-sabiq,"Indonesian Translation - Sabeq Company","Sabeq Company",Indonesian,ltr,"translations/indonesian-sabiq",true
+  266,japanese-saeedsato,"Japanese translation - Saeed Sato","Saeed Sato",Japanese,ltr,"translations/japanese-saeedsato",true
+  267,kannada-hamza,"Kannada translation - Hamza Butur","Hamza Butur",Kannada,ltr,"translations/kannada-hamza",true
+  268,khmer-cambodia,"Khmer translation - Islamic Community Development Association","Islamic Community Development Association",Khmer,ltr,"translations/khmer-cambodia",true
+  269,khmer-rwwad,"Khmer translation - Rowwad Translation Center","Rowwad Translation Center",Khmer,ltr,"translations/khmer-rwwad",true
+  270,kinyarwanda-assoc,"Kinyarwanda translation - Rwanda Muslim Association","Rwanda Muslim Association",Kinyarwanda,ltr,"translations/kinyarwanda-assoc",true
+  271,kyrgyz-hakimov,"Kyrgyz translation - Shamsuddin Hakimov","Shamsuddin Hakimov",Kyrgyz,ltr,"translations/kyrgyz-hakimov",true
+  272,lingala-zakaria,"Lingala translation - Mohammed Balangogo","Mohammed Balangogo",Lingala,ltr,"translations/lingala-zakaria",true
+  273,lithuanian-rwwad,"Lithuanian Translation - Rowwad Translation Center","Rowwad Translation Center",Lithuanian,ltr,"translations/lithuanian-rwwad",true
+  274,macedonian-group,"Macedonian translation - a group of Macedonian scholars","a group of Macedonian scholars",Macedonian,ltr,"translations/macedonian-group",true
+  275,malayalam-kunhi,"Malayalam translation - Abdulhamid Haidar Al-Madany & Kunhi Muhammad","Madany & Kunhi Muhammad",Malayalam,ltr,"translations/malayalam-kunhi",true
+  276,moore-rwwad,"Moore translation - Rowwad Translation Center","Rowwad Translation Center",Moore,ltr,"translations/moore-rwwad",true
+  277,oromo-ababor,"Oromo translation - Gali Ababor","Gali Ababor",Oromo,ltr,"translations/oromo-ababor",true
+  278,pashto-rwwad,"Pashto Translation - Rowwad Translation Center","Rowwad Translation Center",Pashto,rtl,"translations/pashto-rwwad",true
+  279,persian-ih,"Persian translation - Rowwad Translation Center","Rowwad Translation Center",Persian,rtl,"translations/persian-ih",true
+  280,portuguese-nasr,"Portuguese translation - Helmi Nasr","Helmi Nasr",Portuguese,ltr,"translations/portuguese-nasr",true
+  281,punjabi-arif,"Punjabi translation - Arif Halim","Arif Halim",Punjabi,ltr,"translations/punjabi-arif",true
+  282,romanian-project,"Romanian translation - Islam4ro.com","Islam4ro.com",Romanian,ltr,"translations/romanian-project",true
+  283,serbian-rwwad,"Serbian translation - Rowwad Translation Center","Rowwad Translation Center",Serbian,ltr,"translations/serbian-rwwad",true
+  284,sinhalese-mahir,"Sinhalese translation - Rowwad Translation Center","Rowwad Translation Center",Sinhalese,ltr,"translations/sinhalese-mahir",true
+  285,somali-yacob,"Somali Translation - Abdullah Hasan Yaqoub","Abdullah Hasan Yaqoub",Somali,ltr,"translations/somali-yacob",true
+  286,spanish-garcia,"Spanish Translation - Isa Garcia","Isa Garcia",Spanish,ltr,"translations/spanish-garcia",true
+  287,spanish-montada-eu,"Spanish translation - issued by Noor International","issued by Noor International",Spanish,ltr,"translations/spanish-montada-eu",true
+  288,spanish-montada-latin,"Spanish (Latin) translation - issued by Noor International","issued by Noor International",Spanish,ltr,"translations/spanish-montada-latin",true
+  289,swahili-barawani,"Swahili translation - Ali Muhsen Al-Berwani","Berwani",Swahili,ltr,"translations/swahili-barawani",true
+  290,swahili-rwwad,"Swahili translation - Rowad Translation Center","Rowwad Translation Center",Swahili,ltr,"translations/swahili-rwwad",true
+  291,tagalog-rwwad,"Filipino (Tagalog) translation- Rowwad Translation Center","Rowwad Translation Center",Tagalog,ltr,"translations/tagalog-rwwad",true
+  292,tajik-arifi,"Tajik translation - Rowwad Translation Center","Rowwad Translation Center",Tajik,ltr,"translations/tajik-arifi",true
+  293,tamil-omar,"Tamil translation - Omar Sharif","Omar Sharif",Tamil,ltr,"translations/tamil-omar",true
+  294,tamil-omar-brief,"Translation Tamil omar brief","Translation Tamil omar brief",Tamil,ltr,"translations/tamil-omar-brief",true
+  295,telugu-muhammad,"Telugu translation - Abdurrahim ibn Muhammad","Abdurrahim ibn Muhammad",Telugu,ltr,"translations/telugu-muhammad",true
+  296,turkish-rwwad,"Turkish translation - Rowwad Translation Center","Rowwad Translation Center",Turkish,ltr,"translations/turkish-rwwad",true
+  297,turkish-shaban,"Turkish Translation - Shaaban British","Shaaban British",Turkish,ltr,"translations/turkish-shaban",true
+  298,turkish-shahin,"Turkish translation - Dr. Ali Ozek and others","Dr. Ali Ozek and others",Turkish,ltr,"translations/turkish-shahin",true
+  299,urdu-junagarhi,"Urdu translation - Muhammad Junagarhi","Muhammad Junagarhi",Urdu,rtl,"translations/urdu-junagarhi",true
+  300,uyghur-saleh,"Uyghur translation - Muhammad Saleh","Muhammad Saleh",Uyghur,rtl,"translations/uyghur-saleh",true
+  301,uzbek-mansour,"Uzbek translation - Alaauddin Mansour","Alaauddin Mansour",Uzbek,ltr,"translations/uzbek-mansour",true
+  302,uzbek-rwwad,"Uzbek translation - Rowwad Translation Center","Rowwad Translation Center",Uzbek,ltr,"translations/uzbek-rwwad",true
+  303,vietnamese-rwwad,"Vietnamese translation - Rowwad Translation Center","Rowwad Translation Center",Vietnamese,ltr,"translations/vietnamese-rwwad",true
+  304,yoruba-mikail,"Yoruba translation - Abu Rahima Mikael","Abu Rahima Mikael",Yoruba,ltr,"translations/yoruba-mikail",true
+  305,bengali-mufti-taqi-usmani,"Bengali Translation","Mufti Taqi Usmani",Bengali,ltr,"translations/bengali-mufti-taqi-usmani",false
   306,bengali-mujibur-rahman,"Bengali Translation","Mujibur Rahman",Bengali,ltr,"translations/bengali-mujibur-rahman",false
   307,hebrew-bakurube,"Hebrew Translation","Abu Bakr Ibrahim Ali (Bakurube)",Hebrew,rtl,"translations/hebrew-bakurube",false
   308,n-ko-karamo-baba-mamadi-jani,"N’ko Translation","Karamo Baba Mamadi Jani",N’ko,ltr,"translations/n-ko-karamo-baba-mamadi-jani",false
