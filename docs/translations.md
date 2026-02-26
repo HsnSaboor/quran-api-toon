@@ -4,9 +4,9 @@
 The `translations` resource provides meaning translations of the Quran in 100+ languages. Like the Quran text, these are segmented by Page (1-604) to allow perfect synchronized scrolling with the Mushaf.
 
 ## Statistics (Verified)
-- **Total Translations**: 309
-- **RTL (Right-to-Left)**: 41 (Arabic, Urdu, Persian, Hebrew, Divehi, Dari, Sindhi, Shahmukhi Panjabi, etc.)
-- **LTR (Left-to-Right)**: 268 (English, Turkish, Indonesian, Urdu-Latin, etc.)
+- **Total Translations**: 395
+- **RTL (Right-to-Left)**: 34 (Arabic, Urdu, Persian, Hebrew, Divehi, Dari, Sindhi, Shahmukhi Panjabi, etc.)
+- **LTR (Left-to-Right)**: 361 (English, Turkish, Indonesian, Urdu-Latin, etc.)
 
 ## Structure
 Files are located at: `translations/{slug}/pages/{1..604}.toon`

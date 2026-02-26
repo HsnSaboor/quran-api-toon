@@ -4,8 +4,8 @@
 The `tafsirs` resource provides exegesis (detailed explanation) of the Quran verses. This includes famous works like Ibn Kathir, Jalalayn, and Tabari.
 
 ## Statistics (Verified)
-- **Total Tafsirs**: 90
-- **RTL (Right-to-Left)**: 64 (Arabic, Urdu, Persian, etc.)
+- **Total Tafsirs**: 176
+- **RTL (Right-to-Left)**: 150 (Arabic, Urdu, Persian, etc.)
 - **LTR (Left-to-Right)**: 26 (English, Turkish, Indonesian, etc.)
 
 ## Structure
