@@ -1,0 +1,100 @@
+quran[11]:
+  - c: 19
+    v: 1
+    rules[3]{s,e,r}:
+      0,2,madda_necessary
+      4,6,madda_necessary
+      6,8,madda_necessary
+  - c: 19
+    v: 2
+    rules[2]{s,e,r}:
+      26,28,qalaqah
+      32,33,madda_normal
+  - c: 19
+    v: 3
+    rules[2]{s,e,r}:
+      20,21,madda_normal
+      25,27,madda_obligatory
+  - c: 19
+    v: 4
+    rules[9]{s,e,r}:
+      14,16,ghunnah
+      26,27,ham_wasl
+      38,40,ghunnah
+      45,46,ham_wasl
+      55,56,ham_wasl
+      56,57,laam_shamsiyah
+      69,74,idgham_ghunnah
+      83,88,iqlab
+      92,94,madda_obligatory
+  - c: 19
+    v: 5
+    rules[10]{s,e,r}:
+      4,6,ghunnah
+      16,17,ham_wasl
+      22,24,madda_normal
+      30,34,idgham_ghunnah
+      36,38,madda_obligatory
+      53,54,ham_wasl
+      69,74,ikhafa
+      77,79,qalaqah
+      85,89,idgham_wo_ghunnah
+      93,95,ikhafa
+  - c: 19
+    v: 6
+    rules[2]{s,e,r}:
+      44,45,ham_wasl
+      45,47,qalaqah
+  - c: 19
+    v: 7
+    rules[10]{s,e,r}:
+      2,4,madda_normal
+      12,15,madda_obligatory
+      18,20,ghunnah
+      41,43,madda_normal
+      46,47,ham_wasl
+      53,54,madda_normal
+      71,73,qalaqah
+      82,83,madda_normal
+      86,89,ikhafa
+      90,92,qalaqah
+  - c: 19
+    v: 8
+    rules[7]{s,e,r}:
+      14,16,ghunnah
+      36,38,madda_normal
+      38,42,idgham_ghunnah
+      51,52,ham_wasl
+      67,72,idgham_ghunnah
+      75,77,qalaqah
+      92,93,ham_wasl
+  - c: 19
+    v: 9
+    rules[6]{s,e,r}:
+      9,11,madda_normal
+      48,52,idgham_ghunnah
+      55,57,qalaqah
+      62,64,qalaqah
+      71,74,ikhafa
+      75,77,qalaqah
+  - c: 19
+    v: 10
+    rules[9]{s,e,r}:
+      12,13,ham_wasl
+      13,15,qalaqah
+      21,24,madda_obligatory
+      30,36,ikhafa
+      68,69,ham_wasl
+      69,70,laam_shamsiyah
+      70,72,ghunnah
+      81,83,madda_normal
+      91,95,ikhafa
+  - c: 19
+    v: 11
+    rules[6]{s,e,r}:
+      23,25,madda_normal
+      31,32,ham_wasl
+      52,55,madda_obligatory
+      69,72,ikhafa
+      79,81,slnt
+      88,92,idgham_ghunnah

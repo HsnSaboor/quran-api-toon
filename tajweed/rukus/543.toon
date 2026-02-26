@@ -1,0 +1,62 @@
+quran[11]:
+  - c: 101
+    v: 1
+    rules[0]:
+  - c: 101
+    v: 2
+    rules[1]{s,e,r}:
+      4,5,ham_wasl
+  - c: 101
+    v: 3
+    rules[4]{s,e,r}:
+      3,6,madda_obligatory
+      9,11,qalaqah
+      13,15,madda_normal
+      22,23,ham_wasl
+  - c: 101
+    v: 4
+    rules[7]{s,e,r}:
+      15,16,ham_wasl
+      16,17,laam_shamsiyah
+      17,19,ghunnah
+      26,27,ham_wasl
+      37,38,ham_wasl
+      42,44,qalaqah
+      45,47,madda_permissible
+  - c: 101
+    v: 5
+    rules[5]{s,e,r}:
+      10,11,ham_wasl
+      23,24,ham_wasl
+      33,34,ham_wasl
+      38,40,ikhafa
+      40,42,madda_permissible
+  - c: 101
+    v: 6
+    rules[3]{s,e,r}:
+      4,6,ghunnah
+      11,14,ikhafa
+      25,27,madda_normal
+  - c: 101
+    v: 7
+    rules[1]{s,e,r}:
+      16,20,idgham_wo_ghunnah
+  - c: 101
+    v: 8
+    rules[2]{s,e,r}:
+      4,6,ghunnah
+      25,27,madda_normal
+  - c: 101
+    v: 9
+    rules[2]{s,e,r}:
+      4,6,ghunnah
+      9,10,madda_normal
+  - c: 101
+    v: 10
+    rules[3]{s,e,r}:
+      3,6,madda_obligatory
+      9,11,qalaqah
+      13,15,madda_normal
+  - c: 101
+    v: 11
+    rules[0]:

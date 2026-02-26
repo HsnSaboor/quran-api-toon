@@ -1,0 +1,125 @@
+quran[8]:
+  - c: 2
+    v: 62
+    rules[20]{s,e,r}:
+      2,4,ghunnah
+      6,7,ham_wasl
+      24,26,slnt
+      29,30,ham_wasl
+      45,47,slnt
+      50,51,ham_wasl
+      51,52,laam_shamsiyah
+      52,54,ghunnah
+      57,59,madda_normal
+      66,67,ham_wasl
+      67,68,laam_shamsiyah
+      71,73,madda_normal
+      98,99,ham_wasl
+      108,109,ham_wasl
+      118,119,ham_wasl
+      139,141,madda_normal
+      143,148,ikhafa
+      158,160,qalaqah
+      169,171,ikhafa
+      225,227,madda_permissible
+  - c: 2
+    v: 63
+    rules[11]{s,e,r}:
+      22,24,madda_normal
+      54,55,ham_wasl
+      55,56,laam_shamsiyah
+      68,70,slnt
+      72,75,madda_obligatory
+      85,87,madda_normal
+      88,92,ikhafa_shafawi
+      98,102,idgham_ghunnah
+      103,104,ham_wasl
+      111,113,slnt
+      142,144,madda_permissible
+  - c: 2
+    v: 64
+    rules[11]{s,e,r}:
+      2,4,ghunnah
+      16,20,idgham_shafawi
+      21,26,iqlab
+      33,35,madda_normal
+      59,60,ham_wasl
+      90,91,madda_normal
+      96,98,ikhafa
+      98,102,idgham_shafawi
+      107,108,ham_wasl
+      112,114,madda_normal
+      117,119,madda_permissible
+  - c: 2
+    v: 65
+    rules[11]{s,e,r}:
+      6,8,qalaqah
+      20,21,ham_wasl
+      30,31,ham_wasl
+      39,41,slnt
+      44,46,ikhafa
+      54,55,ham_wasl
+      55,56,laam_shamsiyah
+      59,61,qalaqah
+      87,89,slnt
+      101,103,madda_normal
+      108,110,madda_permissible
+  - c: 2
+    v: 66
+    rules[5]{s,e,r}:
+      10,12,madda_normal
+      20,22,madda_normal
+      23,27,idgham_wo_ghunnah
+      76,80,idgham_wo_ghunnah
+      90,92,madda_permissible
+  - c: 2
+    v: 67
+    rules[13]{s,e,r}:
+      30,33,madda_obligatory
+      36,38,ghunnah
+      40,41,ham_wasl
+      63,66,ikhafa
+      74,76,slnt
+      83,89,ikhafa
+      92,95,madda_obligatory
+      95,97,slnt
+      117,124,ikhafa
+      139,140,ham_wasl
+      165,166,ham_wasl
+      170,172,madda_normal
+      175,177,madda_permissible
+  - c: 2
+    v: 68
+    rules[14]{s,e,r}:
+      6,8,slnt
+      9,10,ham_wasl
+      10,12,qalaqah
+      35,39,idgham_wo_ghunnah
+      64,66,ghunnah
+      69,70,madda_normal
+      81,83,ghunnah
+      94,98,idgham_wo_ghunnah
+      107,111,idgham_ghunnah
+      128,133,iqlab
+      140,142,madda_normal
+      151,152,ham_wasl
+      159,161,slnt
+      173,175,madda_permissible
+  - c: 2
+    v: 69
+    rules[15]{s,e,r}:
+      6,8,slnt
+      9,10,ham_wasl
+      10,12,qalaqah
+      35,39,idgham_wo_ghunnah
+      69,71,ghunnah
+      74,75,madda_normal
+      86,88,ghunnah
+      99,103,ikhafa
+      107,109,madda_obligatory
+      118,122,idgham_wo_ghunnah
+      140,141,ham_wasl
+      141,142,laam_shamsiyah
+      142,144,ghunnah
+      145,147,madda_normal
+      150,152,madda_permissible

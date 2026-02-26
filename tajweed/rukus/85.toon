@@ -1,0 +1,107 @@
+quran[5]:
+  - c: 4
+    v: 172
+    rules[12]{s,e,r}:
+      2,6,idgham_ghunnah
+      11,13,ikhafa
+      17,18,ham_wasl
+      29,33,idgham_ghunnah
+      42,44,qalaqah
+      44,49,idgham_wo_ghunnah
+      63,64,ham_wasl
+      70,73,madda_obligatory
+      80,81,ham_wasl
+      101,105,idgham_ghunnah
+      110,112,ikhafa
+      131,133,madda_normal
+  - c: 4
+    v: 173
+    rules[23]{s,e,r}:
+      4,6,ghunnah
+      9,10,ham_wasl
+      27,29,slnt
+      39,41,slnt
+      42,43,ham_wasl
+      43,44,laam_shamsiyah
+      47,49,madda_normal
+      53,55,madda_normal
+      95,99,idgham_shafawi
+      101,104,ikhafa
+      110,112,madda_normal
+      119,121,ghunnah
+      124,125,ham_wasl
+      134,135,ham_wasl
+      139,141,ikhafa
+      145,147,slnt
+      150,151,ham_wasl
+      162,164,slnt
+      195,200,idgham_ghunnah
+      218,222,idgham_shafawi
+      224,227,ikhafa
+      232,233,ham_wasl
+      245,250,idgham_ghunnah
+  - c: 4
+    v: 174
+    rules[13]{s,e,r}:
+      2,5,madda_obligatory
+      14,15,ham_wasl
+      15,16,laam_shamsiyah
+      16,18,ghunnah
+      25,27,qalaqah
+      29,31,madda_obligatory
+      35,39,ikhafa_shafawi
+      44,46,madda_normal
+      46,50,idgham_ghunnah
+      51,55,idgham_wo_ghunnah
+      69,71,ikhafa
+      75,78,madda_obligatory
+      93,98,idgham_ghunnah
+  - c: 4
+    v: 175
+    rules[12]{s,e,r}:
+      4,6,ghunnah
+      9,10,ham_wasl
+      27,29,slnt
+      32,33,ham_wasl
+      42,43,ham_wasl
+      52,54,slnt
+      58,60,madda_normal
+      67,69,qalaqah
+      88,92,idgham_ghunnah
+      105,109,idgham_ghunnah
+      134,136,madda_normal
+      136,141,idgham_ghunnah
+  - c: 4
+    v: 176
+    rules[31]{s,e,r}:
+      21,22,ham_wasl
+      45,46,ham_wasl
+      52,54,madda_normal
+      66,67,ham_wasl
+      94,95,madda_normal
+      100,104,idgham_ghunnah
+      109,111,madda_obligatory
+      116,120,ikhafa
+      161,164,madda_obligatory
+      166,170,idgham_wo_ghunnah
+      178,182,idgham_wo_ghunnah
+      192,198,ikhafa
+      201,204,ikhafa
+      212,213,ham_wasl
+      234,235,ham_wasl
+      235,236,laam_shamsiyah
+      249,251,ghunnah
+      267,270,ikhafa
+      273,276,madda_obligatory
+      276,278,slnt
+      285,289,idgham_wo_ghunnah
+      295,299,idgham_ghunnah
+      303,305,madda_obligatory
+      306,310,ikhafa
+      335,336,ham_wasl
+      340,342,ikhafa
+      362,363,ham_wasl
+      379,382,ikhafa
+      389,393,slnt
+      396,397,ham_wasl
+      422,424,madda_permissible

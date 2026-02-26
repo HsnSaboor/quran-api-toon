@@ -1,0 +1,35 @@
+# System & Environment
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Logs & Temp
+*.log
+tmp/
+nohup.out
+push_status.log
+
+# Data Processing Artifacts
+batch_*
+file_batch_*
+turbo_batch_*
+remaining_files.txt
+info.toon.new
+
+# Old Data Directories (replaced with new toon-api versions)
+tafsirs-old/
+translations-old/
+tafsirs_json/
+temp_json/
+*_temp/
+*.zip
+
+# Scripts (Keep repo clean of dev scripts)
+scripts/
+*.py
+*.sh
+.open-engineer/
