@@ -2,581 +2,564 @@
 
 ## Translations
 
-| Name of Work | Full Author Name | Language | Script | Has Footnotes | Ayahs Count | Complete (6236) |
-|--------------|------------------|----------|--------|---------------|-------------|----------------|
-| acehnese-tg-k-h-mahjiddin-jusuf | Tg K H Mahjiddin Jusuf | acehnese | Latin | No | 81 | No |
-| afar-hamza | Hamza | afar | Latin | No | 6236 | Yes |
-| afar-shaikh-mahmud-abdulkader-hamza | Shaikh Mahmud Abdulkader Hamza | afar | Latin | No | 6236 | Yes |
-| afrikaans-imam-m-a-baker | Imam M A Baker | afrikaans | Latin | No | 4572 | No |
-| albanian-al-ahmeti | Al Ahmeti | albanian | Latin | No | 6236 | Yes |
-| albanian-feti-mehdiu | Feti Mehdiu | albanian | Latin | No | 4258 | No |
-| albanian-hasan-efendi-nahi | Hasan Efendi Nahi | albanian | Latin | No | 4792 | No |
-| albanian-sherif-ahmeti | Sherif Ahmeti | albanian | Latin | No | 4647 | No |
-| albanian-translation-albanian | Translation Albanian | albanian | Latin | No | 6236 | Yes |
-| albanian-translation-feti-mehdiu | Translation Feti Mehdiu | albanian | Latin | No | 6234 | Yes |
-| albanian-translation-ruwwad-center-es | Translation Ruwwad Center Es | albanian | Latin | No | 4281 | No |
-| amharic-muhammed-sadiq-and-sani | Muhammed Sadiq And Sani | amharic | Latin | No | 2 | No |
-| amharic-zain | Zain | amharic | Latin | No | 6237 | Yes |
-| amharic-zain-alt | Zain Alt | amharic | Latin | No | 6236 | Yes |
-| ankobambara-dayyan | Dayyan | ankobambara | Latin | No | 6236 | Yes |
-| arabic-asseraj | Asseraj | arabic | Latin | No | 3647 | No |
-| arabic-lubab-fi-ulum-al-kitab | Lubab Fi Ulum Al Kitab | arabic | Latin | No | 4330 | No |
-| assamese-rafeeq | Rafeeq | assamese | Latin | No | 6236 | Yes |
-| azerbaijani-translation-mammadaliyev | Translation Mammadaliyev | azerbaijani | Latin | No | 6236 | Yes |
-| azerbaijani-translation-musayev | Translation Musayev | azerbaijani | Latin | No | 6236 | Yes |
-| azerbaijani-vasim-mammadaliyev | Vasim Mammadaliyev | azerbaijani | Latin | No | 4703 | No |
-| bambara-baba-mamady-jani | Baba Mamady Jani | bambara | Latin | No | 6236 | Yes |
-| bambaranko-translation-suliman-kanti | Translation Suliman Kanti | bambaranko | Latin | No | 6236 | Yes |
-| bengali-abu-bakr-muhammad-zakaria | Abu Bakr Muhammad Zakaria | bengali | Latin | No | 5042 | No |
-| bengali-fathul-majid | Fathul Majid | bengali | Latin | No | 6236 | Yes |
-| bengali-mufti-taqi-usmani | Mufti Taqi Usmani | bengali | Latin | No | 6236 | Yes |
-| bengali-muhiuddin-khan | Muhiuddin Khan | bengali | Latin | No | 4003 | No |
-| bengali-mujibur-rahman | Mujibur Rahman | bengali | Latin | No | 6236 | Yes |
-| bengali-translation-abu-bakr-muhammad-zakaria | Translation Abu Bakr Muhammad Zakaria | bengali | Latin | No | 6236 | Yes |
-| bengali-translation-bengali | Translation Bengali | bengali | Latin | No | 6236 | Yes |
-| bengali-translation-hoque | Translation Hoque | bengali | Latin | No | 6236 | Yes |
-| bengali-translation-rawai-al-bayan | Translation Rawai Al Bayan | bengali | Latin | No | 6308 | Yes |
-| bengali-translation-taisirul-quran | Translation Taisirul Quran | bengali | Latin | No | 6236 | Yes |
-| bengali-zohurul-hoque | Zohurul Hoque | bengali | Latin | No | 3927 | No |
-| berber-ramdane-at-mansour | Ramdane At Mansour | berber | Latin | No | 5426 | No |
-| bisayan-rowwad-center | Rowwad Center | bisayan | Latin | No | 6236 | Yes |
-| bisayan-rwwad | Rwwad | bisayan | Latin | No | 6422 | Yes |
-| bosnian-besim-korkut | Besim Korkut | bosnian | Latin | No | 4435 | No |
-| bosnian-muhamed-mehanovi | Muhamed Mehanovi | bosnian | Latin | No | 4579 | No |
-| bosnian-translation-mlivo | Translation Mlivo | bosnian | Latin | No | 6236 | Yes |
-| bosnian-transliterim | Transliterim | bosnian | Latin | No | 1 | No |
-| bosnian-wwwislamhouseco | Wwwislamhouseco | bosnian | Latin | No | 4441 | No |
-| bulgarian-translation | Translation | bulgarian | Latin | No | 6236 | Yes |
-| burmese-hashim-tin-myint | Hashim Tin Myint | burmese | Latin | No | 4 | No |
-| catalan-youssef-lyoussi | Youssef Lyoussi | catalan | Latin | No | 4310 | No |
-| central-khmer-cambodianmuslim | Khmer Cambodianmuslim | central | Latin | No | 2 | No |
-| chechen-translation | Translation | chechen | Latin | Yes | 6032 | No |
-| chewa-al-haji-yusuf-muhammad | Al Haji Yusuf Muhammad | chewa | Latin | No | 3090 | No |
-| chewa-khaled-ibrahim-betala | Khaled Ibrahim Betala | chewa | Latin | No | 4037 | No |
-| chinese-ma-jian | Ma Jian | chinese | Latin | No | 41 | No |
-| chinese-ma-zhong-gang | Ma Zhong Gang | chinese | Latin | No | 4095 | No |
-| chinese-muhammad-makin | Muhammad Makin | chinese | Latin | No | 6236 | Yes |
-| chinese-translation-chinese-suliman | Translation Chinese Suliman | chinese | Latin | No | 6236 | Yes |
-| chinese-translation-chinese-translation-basair | Translation Chinese Translation Basair | chinese | Latin | No | 6236 | Yes |
-| croatian-mustafa-mlivo | Mustafa Mlivo | croatian | Latin | No | 4584 | No |
-| croatian-rwwad | Rwwad | croatian | Latin | No | 6242 | Yes |
-| croatian-translation-croatian-translation-rwwad | Translation Croatian Translation Rwwad | croatian | Latin | No | 6236 | Yes |
-| czech-arnykl | Arnykl | czech | Latin | No | 5013 | No |
-| czech-hadi-abdollahian | Hadi Abdollahian | czech | Latin | No | 229 | No |
-| czech-prekladihrbek | Prekladihrbek | czech | Latin | No | 4833 | No |
-| czech-translation-nykl | Translation Nykl | czech | Latin | No | 6236 | Yes |
-| dagbani-muhammad-baba-ghtani | Muhammad Baba Ghtani | dagbani | Latin | No | 5078 | No |
-| dagbani-muhammad-baba-gutubu | Muhammad Baba Gutubu | dagbani | Latin | No | 6236 | Yes |
-| danish-hadi-abdollahian | Hadi Abdollahian | danish | Latin | No | 196 | No |
-| dari-mawlawi-muhammad-anwar-badkhashani | Mawlawi Muhammad Anwar Badkhashani | dari | Latin | No | 1310 | No |
-| dayak-kanayatn-rowwad | Kanayatn Rowwad | dayak | Latin | No | 4172 | No |
-| dhivehi-shaikh-aboobakr-ibrahim-ali | Shaikh Aboobakr Ibrahim Ali | dhivehi | Latin | No | 6236 | Yes |
-| dhivehi-translation | Translation | dhivehi | Latin | No | 6236 | Yes |
-| divehi-officeofthepres | Officeofthepres | divehi | Latin | No | 612 | No |
-| dutch-center | Center | dutch | Latin | No | 6236 | Yes |
-| dutch-fred-leemhuis | Fred Leemhuis | dutch | Latin | No | 3437 | No |
-| dutch-islamic-center | Islamic Center | dutch | Latin | No | 6236 | Yes |
-| dutch-malak-faris-abdalsalaam | Malak Faris Abdalsalaam | dutch | Latin | No | 6235 | Yes |
-| dutch-salomo-keyzer | Salomo Keyzer | dutch | Latin | No | 5020 | No |
-| dutch-soedewo | Soedewo | dutch | Latin | No | 4258 | No |
-| dutch-sofian-s-siregar | Sofian S Siregar | dutch | Latin | No | 4432 | No |
-| dutch-translation-keyzer | Translation Keyzer | dutch | Latin | No | 6236 | Yes |
-| dutch-translation-leemhuis | Translation Leemhuis | dutch | Latin | No | 6236 | Yes |
-| english-a-j-arberry | A J Arberry | english | Latin | No | 4597 | No |
-| english-abdul-hye | Abdul Hye | english | Latin | No | 4490 | No |
-| english-abdul-majid-daryabadi | Abdul Majid Daryabadi | english | Latin | No | 4159 | No |
-| english-abdullah-yusuf-ali-original | Abdullah Yusuf Ali Original | english | Latin | No | 4848 | No |
-| english-abul-a-la-maududi | Abu Al Ala Maududi | english | Latin | No | 4007 | No |
-| english-ahmed-ali | Ahmed Ali | english | Latin | No | 3973 | No |
-| english-aisha-bewley | Aisha Bewley | english | Latin | No | 3348 | No |
-| english-al-bilal-muhammad | Al Bilal Muhammad | english | Latin | No | 4851 | No |
-| english-ali-bakhtiarinejad | Ali Bakhtiarinejad | english | Latin | No | 4247 | No |
-| english-ali-quli-qarai | Ali Quli Qarai | english | Latin | No | 4661 | No |
-| english-ali-unal | Ali Unal | english | Latin | No | 4774 | No |
-| english-almuntakhabfita | Almuntakhabfita | english | Latin | No | 4537 | No |
-| english-dr-kamal-omar | Dr Kamal Omar | english | Latin | No | 4756 | No |
-| english-dr-laleh-bakhtiar | Dr Laleh Bakhtiar | english | Latin | No | 4431 | No |
-| english-dr-munir-munshey | Dr Munir Munshey | english | Latin | No | 4709 | No |
-| english-edward-henry-palmer | Edward Henry Palmer | english | Latin | No | 4516 | No |
-| english-farook-malik | Farook Malik | english | Latin | No | 4147 | No |
-| english-george-sale | George Sale | english | Latin | No | 4949 | No |
-| english-hamid-s-aziz | Hamid S Aziz | english | Latin | No | 4492 | No |
-| english-hilali-khan | Hilali Khan | english | Latin | No | 6239 | Yes |
-| english-john-medows-rodwell | John Medows Rodwell | english | Latin | No | 4589 | No |
-| english-literal | Literal | english | Latin | No | 4925 | No |
-| english-m-a-s-abdel-haleem | M A S Abdel Haleem | english | Latin | No | 4314 | No |
-| english-mir-anees-original | Mir Anees Original | english | Latin | No | 4311 | No |
-| english-mohammad-habib-shakir | Mohammad Habib Shakir | english | Latin | No | 4155 | No |
-| english-mohammad-shafi | Mohammad Shafi | english | Latin | No | 4440 | No |
-| english-mufti-taqi-usmani | Mufti Taqi Usmani | english | Latin | No | 4798 | No |
-| english-mufti-taqi-usmani-alt | Mufti Taqi Usmani Alt | english | Latin | No | 6236 | Yes |
-| english-muhammad-asad | Muhammad Asad | english | Latin | No | 5607 | No |
-| english-muhammad-mahmoud | Muhammad Mahmoud | english | Latin | No | 4683 | No |
-| english-muhammad-sarwar | Muhammad Sarwar | english | Latin | No | 3289 | No |
-| english-mustafa-khattab-alt | Mustafa Khattab Alt | english | Latin | No | 4246 | No |
-| english-n-j-dawood | N J Dawood | english | Latin | No | 3940 | No |
-| english-rwwad | Rwwad | english | Latin | No | 6236 | Yes |
-| english-safi-kaskas | Safi Kaskas | english | Latin | No | 4538 | No |
-| english-safi-ur-rahman-al-mubarakpuri | Safi Ur Rahman Al Mubarakpuri | english | Latin | No | 4754 | No |
-| english-saheeh-international | Saheeh International | english | Latin | No | 6236 | Yes |
-| english-shabbir-ahmed | Shabbir Ahmed | english | Latin | No | 4896 | No |
-| english-syed-vickar-ahamed | Syed Vickar Ahamed | english | Latin | No | 5003 | No |
-| english-talal-itani | Talal Itani | english | Latin | No | 4542 | No |
-| english-the-monotheist-group | The Monotheist Group | english | Latin | No | 4499 | No |
-| english-the-study-quran | The Study Quran | english | Latin | No | 4318 | No |
-| english-translation-ahmedali | Translation Ahmedali | english | Latin | No | 6236 | Yes |
-| english-translation-ahmedraza | Translation Ahmedraza | english | Latin | No | 6236 | Yes |
-| english-translation-al-maududi | Abu Al Ala Maududi | english | Latin | Yes | 6236 | Yes |
-| english-translation-arberry | Translation Arberry | english | Latin | No | 6236 | Yes |
-| english-translation-daryabadi | Translation Daryabadi | english | Latin | No | 6236 | Yes |
-| english-translation-english-translation-pickthall | Translation English Translation Pickthall | english | Latin | No | 6236 | Yes |
-| english-translation-fadel-soliman-bridges-translation | Translation Fadel Soliman Bridges Translation | english | Latin | Yes | 6236 | Yes |
-| english-translation-ghali | Translation Ghali | english | Latin | No | 6236 | Yes |
-| english-translation-haleem | Translation Haleem | english | Latin | Yes | 6236 | Yes |
-| english-translation-maarif-ul-quran | Translation Maarif Ul Quran | english | Latin | No | 6231 | Yes |
-| english-translation-maulana-wahiduddin-khan | Translation Maulana Wahiduddin Khan | english | Latin | Yes | 6236 | Yes |
-| english-translation-qarai | Translation Qarai | english | Latin | No | 6236 | Yes |
-| english-translation-qaribullah | Translation Qaribullah | english | Latin | No | 6236 | Yes |
-| english-translation-ruwwad-center-ur | Translation Ruwwad Center Ur | english | Latin | No | 6236 | Yes |
-| english-translation-sarwar | Translation Sarwar | english | Latin | No | 6236 | Yes |
-| english-translation-shakir | Translation Shakir | english | Latin | No | 6236 | Yes |
-| english-translation-taqi-ud-din-al-hilali-muhsin-khan | Translation Taqi Ud Din Al Hilali Muhsin Khan | english | Latin | Yes | 6236 | Yes |
-| english-translation-transliteration | Translation Transliteration | english | Latin | No | 6236 | Yes |
-| english-wahiduddin-khan | Wahiduddin Khan | english | Latin | No | 4255 | No |
-| english-yusuf-ali-variant | Yusuf Ali Variant | english | Latin | No | 6236 | Yes |
-| esperanto-hadi-abdollahian | Hadi Abdollahian | esperanto | Latin | No | 179 | No |
-| filipino-abdullatif-eduardo-m-arceo | Abdullatif Eduardo M Arceo | filipino | Latin | No | 4912 | No |
-| filipino-tagalog-translation-filipino-iranionian-translation | Tagalog Translation Filipino Iranionian Translation | filipino | Latin | No | 6236 | Yes |
-| filipino-wwwislamhouseco | Wwwislamhouseco | filipino | Latin | No | 3653 | No |
-| finnish-ahsen-bore | Ahsen Bore | finnish | Latin | No | 4915 | No |
-| finnish-translation-finnish | Translation Finnish | finnish | Latin | No | 6236 | Yes |
-| french-abdullah-yusuf-ali | Abdullah Yusuf Ali | french | Latin | No | 6236 | Yes |
-| french-montada | Montada | french | Latin | No | 6237 | Yes |
-| french-montada-islamic-foundation | Montada Islamic Foundation | french | Latin | Yes | 6236 | Yes |
-| french-muhammad-hamidullah | Muhammad Hamidullah | french | Latin | No | 4529 | No |
-| french-rashid | Rashid | french | Latin | No | 6236 | Yes |
-| french-shahnaz-saidi-benbetka | Shahnaz Saidi Benbetka | french | Latin | No | 4459 | No |
-| fulah-rowadtranslatio | Rowadtranslatio | fulah | Latin | No | 4650 | No |
-| fulanifula-translation-fulani-translation | Translation Fulani Translation | fulanifula | Latin | No | 6236 | Yes |
-| ganda-african-development-foundation | African Development Foundation | ganda | Latin | No | 6234 | Yes |
-| ganda-fareeq-musa | Fareeq Musa | ganda | Latin | No | 3481 | No |
-| german-abu-rida-muhammad-ibn-ahmad | Abu Rida Muhammad Ibn e Ahmad | german | Latin | No | 5016 | No |
-| german-adel-theodor-khoury | Adel Theodor Khoury | german | Latin | No | 4939 | No |
-| german-amir-zaidan | Amir Zaidan | german | Latin | No | 5114 | No |
-| german-frank-bubenheim-and-nadeem | Frank Bubenheim And Nadeem | german | Latin | No | 4923 | No |
-| german-mohammed-marmaduke-pickthall | Mohammed Marmaduke Pickthall | german | Latin | No | 6236 | Yes |
-| german-translation-aburida | Translation Aburida | german | Latin | No | 6236 | Yes |
-| german-translation-frank-bubenheim-and-nadeem | Translation Frank Bubenheim And Nadeem | german | Latin | No | 6236 | Yes |
-| german-translation-khoury | Translation Khoury | german | Latin | No | 6236 | Yes |
-| german-translation-zaidan | Translation Zaidan | german | Latin | No | 6236 | Yes |
-| greek-translation-greek-translation | Translation Greek Translation | greek | Latin | No | 6236 | Yes |
-| gujarati-omari | Omari | gujarati | Latin | No | 6236 | Yes |
-| gujarati-rabila-al-umry | Rabila Al Umry | gujarati | Latin | No | 4073 | No |
-| gujarati-translation-rabila-al-umry | Translation Rabila Al Umry | gujarati | Latin | No | 6236 | Yes |
-| hausa-gummi | Gummi | hausa | Latin | No | 6236 | Yes |
-| hebrew-darusalam | Darusalam | hebrew | Latin | No | 4473 | No |
-| hebrew-darusalamhousei | Darusalamhousei | hebrew | Latin | No | 4423 | No |
-| hindi-maulana-azizul-haque | Maulana Azizul Haque | hindi | Latin | No | 4723 | No |
-| hindi-maulana-azizul-haque-al-umari | Maulana Azizul Haque Al Umari | hindi | Latin | No | 6236 | Yes |
-| hindi-maulana-azizul-haque-alt | Maulana Azizul Haque Alt | hindi | Latin | Yes | 6236 | Yes |
-| hindi-muhammad-farooq-khan | Muhammad Farooq Khan | hindi | Latin | No | 3819 | No |
-| hindi-omari | Omari | hindi | Latin | No | 6239 | Yes |
-| hindi-suhel-farooq-khan | Suhel Farooq Khan | hindi | Latin | No | 162 | No |
-| hindi-translation-farooq | Translation Farooq | hindi | Latin | No | 6236 | Yes |
-| hindi-translation-hindi | Translation Hindi | hindi | Latin | No | 6236 | Yes |
-| hungarian-dr-ahmed-abdel-rahman-al-hity | Dr Ahmed Abdel Rahman Al Hity | hungarian | Latin | No | 4798 | No |
-| ikirundi-gehiti | Gehiti | ikirundi | Latin | No | 6238 | Yes |
-| indonesian-complex | Complex | indonesian | Latin | No | 6236 | Yes |
-| indonesian-jalal-ad-din-al-mahalli | Jalal Ad Din Al Mahalli | indonesian | Latin | No | 4568 | No |
-| indonesian-king-fahad-alt | King Fahad Alt | indonesian | Latin | Yes | 6236 | Yes |
-| indonesian-king-fahad-complex | King Fahad Complex | indonesian | Latin | No | 3943 | No |
-| indonesian-king-fahad-simple | King Fahad Simple | indonesian | Latin | No | 6236 | Yes |
-| indonesian-muhammadquraish | Muhammadquraish | indonesian | Latin | No | 5240 | No |
-| indonesian-sabiq | Sabiq | indonesian | Latin | No | 6236 | Yes |
-| indonesian-sabiq-company | Sabiq Company | indonesian | Latin | Yes | 6236 | Yes |
-| indonesian-translation-abdullah-basamia | Translation Abdullah Basamia | indonesian | Latin | No | 6236 | Yes |
-| indonesian-translation-indonesian | Translation Indonesian | indonesian | Latin | No | 6236 | Yes |
-| iranun-abdul-aziz-groaal | Abdul Aziz Groaal | iranun | Latin | No | 4880 | No |
-| italian-hamzarobertopic | Hamzarobertopic | italian | Latin | No | 4482 | No |
-| italian-othman-al-sharif | Othman Al Sharif | italian | Latin | No | 6236 | Yes |
-| italian-translation-hamza-roberto-piccardo | Translation Hamza Roberto Piccardo | italian | Latin | No | 6236 | Yes |
-| japanese-ryoichi-mita | Ryoichi Mita | japanese | Latin | No | 1 | No |
-| japanese-saeedsato | Saeedsato | japanese | Latin | No | 6236 | Yes |
-| japanese-translation-ryoichi-mita | Translation Ryoichi Mita | japanese | Latin | No | 6236 | Yes |
-| japanese-translation-saeed-sato | Translation Saeed Sato | japanese | Latin | No | 6236 | Yes |
-| javanese-muhammad-adnan | Muhammad Adnan | javanese | Latin | No | 4312 | No |
-| kannada-abdussalam-puthige | Abdussalam Puthige | kannada | Latin | No | 2978 | No |
-| kannada-hamza | Hamza | kannada | Latin | No | 6236 | Yes |
-| kannada-muhammad-hamza-battur | Muhammad Hamza Battur | kannada | Latin | No | 6236 | Yes |
-| kannada-translation-kannada-quran | Translation Kannada Quran | kannada | Latin | Yes | 6174 | No |
-| kannada-translation-kannada-translation | Translation Kannada Translation | kannada | Latin | No | 6171 | No |
-| kannada-translation-kannada-translation-bashir-missouri | Translation Kannada Translation Bashir Missouri | kannada | Latin | No | 6236 | Yes |
-| kashmiri-bayanul-furqan | Bayanul Furqan | kashmiri | Latin | No | 6236 | Yes |
-| kazakh-khalifa-altay | Khalifa Altay | kazakh | Latin | No | 4530 | No |
-| khmer-cambodia | Cambodia | khmer | Latin | No | 6236 | Yes |
-| khmer-cambodian-muslim-community | Cambodian Muslim Community | khmer | Latin | No | 6236 | Yes |
-| khmer-rwwad | Rwwad | khmer | Latin | No | 6236 | Yes |
-| khmer-translation-khmer-translation-rwwad-translation-center | Translation Khmer Translation Rwwad Translation Center | khmer | Latin | No | 6236 | Yes |
-| kinyarwanda-rwandamuslimsas | Rwandamuslimsas | kinyarwanda | Latin | No | 3893 | No |
-| kinyarwanda-translation-the-rwanda-muslims-association-team | Translation The Rwanda Muslims Association Team | kinyarwanda | Latin | Yes | 6236 | Yes |
-| kirundi-gehiti-alt | Gehiti Alt | kirundi | Latin | No | 6236 | Yes |
-| korean-hamid-choi-complex | Hamid Choi Complex | korean | Latin | No | 9 | No |
-| kurdish-muhammad-saleh-bamoki | Muhammad Saleh Bamoki | kurdish | Latin | No | 495 | No |
-| kurdish-sorani-burhan-muhammad | Sorani Burhan Muhammad | kurdish | Latin | No | 6235 | Yes |
-| kurdish-sorani-translation-kurdish-kurmanji-translation | Sorani Translation Kurdish Kurmanji Translation | kurdish | Latin | No | 6236 | Yes |
-| kurdish-sorani-translation-kurdish-translation-salahuddin | Sorani Translation Kurdish Translation Salahuddin | kurdish | Latin | No | 6236 | Yes |
-| kurmanji-abdullah-varli | Abdullah Varli | kurmanji | Latin | No | 4191 | No |
-| kyrgyz-hakimov | Hakimov | kyrgyz | Latin | No | 6238 | Yes |
-| kyrgyz-shams-al-din-hakim | Shams Al Din Hakim | kyrgyz | Latin | No | 4447 | No |
-| kyrgyz-translation-kyrgyz-hakimov | Translation Kyrgyz Hakimov | kyrgyz | Latin | No | 6236 | Yes |
-| latin-hadi-abdollahian | Hadi Abdollahian | latin | Latin | No | 152 | No |
-| lingala-alt | Alt | lingala | Latin | No | 6236 | Yes |
-| lingala-zakaria | Zakaria | lingala | Latin | No | 6236 | Yes |
-| lithuanian-rwwad | Rwwad | lithuanian | Latin | No | 6237 | Yes |
-| lithuanian-translation | Translation | lithuanian | Latin | Yes | 6236 | Yes |
-| luhya-translation | Translation | luhya | Latin | No | 6236 | Yes |
-| luyia-mohammad-ramadhaan | Mohammad Ramadhaan | luyia | Latin | No | 4124 | No |
-| macedonian-group | Group | macedonian | Latin | No | 6236 | Yes |
-| macedonian-macedonianschol | Macedonianschol | macedonian | Latin | No | 4462 | No |
-| macedonian-scholars | Scholars | macedonian | Latin | Yes | 6236 | Yes |
-| macedonian-sheikhhassangil | Sheikhhassangil | macedonian | Latin | No | 4917 | No |
-| maguindanao-rwwad | Rwwad | maguindanao | Latin | No | 6236 | Yes |
-| makonde-abdul-hamid-silika | Abdul Hamid Silika | makonde | Latin | Yes | 6236 | Yes |
-| malagasy-translation-malagasy-translation-rowad | Translation Malagasy Translation Rowad | malagasy | Latin | No | 6236 | Yes |
-| malay-abdullah-muhammad-basmeih | Abdullah Muhammad Basmeih | malay | Latin | No | 4941 | No |
-| malayalam-kunhi | Kunhi | malayalam | Latin | No | 6237 | Yes |
-| malayalam-ml-abdul-hameed | Ml Abdul Hameed | malayalam | Latin | No | 6236 | Yes |
-| malayalam-muhammad-karakunnu | Muhammad Karakunnu | malayalam | Latin | No | 2134 | No |
-| maltese-martin-r-zammit | Martin R Zammit | maltese | Latin | No | 4591 | No |
-| maltese-qoran-imqaddes | Qoran Imqaddes | maltese | Latin | No | 6236 | Yes |
-| maranao-guro-alim-saromantang | Guro Alim Saromantang | maranao | Latin | No | 4916 | No |
-| maranao-translation-maranao | Translation Maranao | maranao | Latin | No | 6236 | Yes |
-| marathi-muhammad-shafi-ansari-alt | Muhammad Shafi Ansari Alt | marathi | Latin | No | 6236 | Yes |
-| marathi-muhammad-shafi-i-ansari | Muhammad Shafi I Ansari | marathi | Latin | No | 4025 | No |
-| moore-rwwad | Rwwad | moore | Latin | No | 6236 | Yes |
-| moore-rwwad-alt | Rwwad Alt | moore | Latin | No | 6236 | Yes |
-| n-ko-karamo-baba-mamadi-jani | Ko Karamo Baba Mamadi Jani | n | Latin | No | 5952 | No |
-| nepali-ahl-al-hadith-central-society-of-nepal | Ahl Al Hadith Central Society Of Nepal | nepali | Latin | No | 3152 | No |
-| norwegian-einar-berg | Einar Berg | norwegian | Latin | No | 4565 | No |
-| oromo-ababor | Ababor | oromo | Latin | No | 6244 | Yes |
-| oromo-ghali-apapur-apaghuna | Ghali Apapur Apaghuna | oromo | Latin | No | 3279 | No |
-| panjabi-sharif-kunjahi | Sharif Kunjahi | panjabi | Latin | No | 26 | No |
-| pashto-abdul-wali-khan | Abdul Wali Khan | pashto | Latin | No | 1224 | No |
-| pashto-rowwad-center | Rowwad Center | pashto | Latin | No | 6236 | Yes |
-| pashto-rwwad | Rwwad | pashto | Latin | No | 6240 | Yes |
-| pashto-sarfaraz | Sarfaraz | pashto | Latin | No | 6236 | Yes |
-| pashto-zakaria-abulsalam | Zakaria Abulsalam | pashto | Latin | No | 6236 | Yes |
-| persian-ih | Ih | persian | Latin | No | 6236 | Yes |
-| persian-mohsen-gharaati | Mohsen Gharaati | persian | Latin | No | 4126 | No |
-| persian-sayyed-jalaloddin-mojtabavi | Sayyed Jalaloddin Mojtabavi | persian | Latin | No | 2844 | No |
-| persiandari-translation-hussein-taji-kal-dari | Translation Hussein Taji Kal Dari | persiandari | Latin | No | 6236 | Yes |
-| polish-j-zef-bielawski | J Zef Bielawski | polish | Latin | No | 5023 | No |
-| polish-translation-j-zef-bielawski | Translation J Zef Bielawski | polish | Latin | No | 6236 | Yes |
-| portuguese-nasr | Nasr | portuguese | Latin | No | 6236 | Yes |
-| portuguese-samir-el-hayek | Samir El Hayek | portuguese | Latin | No | 5197 | No |
-| portuguese-translation-helmi-nasr | Translation Helmi Nasr | portuguese | Latin | No | 6236 | Yes |
-| portuguese-translation-portuguese-translation-samir | Translation Portuguese Translation Samir | portuguese | Latin | No | 6236 | Yes |
-| punjabi-arif | Arif | punjabi | Latin | No | 6236 | Yes |
-| punjabi-translation-punjabi-arif | Translation Punjabi Arif | punjabi | Latin | No | 6236 | Yes |
-| romanian-george-grigore | George Grigore | romanian | Latin | No | 3990 | No |
-| romanian-hadi-abdollahian | Hadi Abdollahian | romanian | Latin | No | 219 | No |
-| romanian-liga-islamica | Liga Islamica | romanian | Latin | No | 4493 | No |
-| romanian-project | Project | romanian | Latin | No | 6236 | Yes |
-| romanian-translation-grigore | Translation Grigore | romanian | Latin | No | 6236 | Yes |
-| romanian-translation-romanian-translation | Translation Romanian Translation | romanian | Latin | No | 6236 | Yes |
-| rundi-sheikh-amisi-radjabu | Sheikh Amisi Radjabu | rundi | Latin | No | 4221 | No |
-| russian-abu-adel | Abu Adel | russian | Latin | No | 5955 | No |
-| russian-elmir-kuliev | Elmir Kuliev | russian | Latin | No | 5025 | No |
-| russian-gordy-semyonovich-sablukov | Gordy Semyonovich Sablukov | russian | Latin | No | 5213 | No |
-| russian-ignaty-yulianovich-krachkovsky | Ignaty Yulianovich Krachkovsky | russian | Latin | No | 5098 | No |
-| russian-magomed-nuri-osmanovich-osmanov | Magomed Nuri Osmanovich Osmanov | russian | Latin | No | 5513 | No |
-| russian-ministry-of-awqaf-egypt | Ministry Of Awqaf Egypt | russian | Latin | No | 5762 | No |
-| russian-translation-abu-adel | Translation Abu Adel | russian | Latin | No | 6236 | Yes |
-| russian-translation-gordy-semyonovich-sablukov | Translation Gordy Semyonovich Sablukov | russian | Latin | No | 6236 | Yes |
-| russian-translation-ministry-of-awqaf | Translation Ministry Of Awqaf | russian | Latin | No | 6236 | Yes |
-| russian-translation-russian-translation-aboadel | Translation Russian Translation Aboadel | russian | Latin | No | 6236 | Yes |
-| russian-valeriya-porokhova | Valeriya Porokhova | russian | Latin | No | 5232 | No |
-| serbian-dar-al-salam-center | Dar Al Salam Center | serbian | Latin | No | 6236 | Yes |
-| serbian-rwwad | Rwwad | serbian | Latin | No | 6236 | Yes |
-| shona-abdullah-j-madini | Abdullah J Madini | shona | Latin | No | 4692 | No |
-| sindhi-taj-mehmood-amroti | Taj Mehmood Amroti | sindhi | Latin | No | 1 | No |
-| sindhi-taj-mehmood-amroti-alt | Taj Mehmood Amroti Alt | sindhi | Latin | No | 6236 | Yes |
-| sinhala-naseem-ismail-and-l-m-m-mansoor | Naseem Ismail And L M M Mansoor | sinhala | Latin | No | 3667 | No |
-| sinhala-translation-ruwwad-center-en | Translation Ruwwad Center En | sinhala | Latin | No | 6236 | Yes |
-| sinhala-wwwislamhouseco | Wwwislamhouseco | sinhala | Latin | No | 956 | No |
-| slovak-hadi-abdollahian | Hadi Abdollahian | slovak | Latin | No | 145 | No |
-| somali-abdullah-hasan-jacob | Abdullah Hasan Jacob | somali | Latin | No | 4388 | No |
-| somali-abdullah-hassan-yacoub | Abdullah Hassan Yacoub | somali | Latin | Yes | 6236 | Yes |
-| somali-shaykh-mahmood-muhammad-abduh | Shaykh Mahmood Muhammad Abduh | somali | Latin | No | 2776 | No |
-| somali-yacob | Yacob | somali | Latin | No | 6270 | Yes |
-| southern-sotho-sheikh-elias-keke | Sotho Sheikh Elias Keke | southern | Latin | No | 4612 | No |
-| spanish-abdul-qader-mouheddine | Abdul Qader Mouheddine | spanish | Latin | No | 4896 | No |
-| spanish-garcia | Garcia | spanish | Latin | No | 6244 | Yes |
-| spanish-julio-cortes | Julio Cortes | spanish | Latin | No | 4299 | No |
-| spanish-montada-latin | Montada Latin | spanish | Latin | No | 6236 | Yes |
-| spanish-muhammad-asad | Muhammad Asad | spanish | Latin | No | 5532 | No |
-| spanish-raul-gonzalez-bornez | Raul Gonzalez Bornez | spanish | Latin | No | 4067 | No |
-| spanish-translation-isa-garcia | Translation Isa Garcia | spanish | Latin | Yes | 6236 | Yes |
-| spanish-translation-noor-international-center | Translation Noor International Center | spanish | Latin | Yes | 6236 | Yes |
-| spanish-translation-spanish-translation-cortes | Translation Spanish Translation Cortes | spanish | Latin | No | 6236 | Yes |
-| swahili-abdullah-muhammad-abu-bakr-nasir-khamis | Abdullah Muhammad Abu Bakr Nasir Khamis | swahili | Latin | No | 6236 | Yes |
-| swahili-abdullah-muhammad-basmeih | Abdullah Muhammad Basmeih | swahili | Latin | No | 5301 | No |
-| swahili-alimuhsinalbarw | Alimuhsinalbarw | swahili | Latin | No | 3830 | No |
-| swahili-barawani | Barawani | swahili | Latin | No | 6236 | Yes |
-| swahili-rwwad | Rwwad | swahili | Latin | No | 6236 | Yes |
-| swedish-knutbernstrom | Knutbernstrom | swedish | Latin | No | 5017 | No |
-| tagalog-dar-al-salam-center | Dar Al Salam Center | tagalog | Latin | No | 6236 | Yes |
-| tagalog-rwwad | Rwwad | tagalog | Latin | No | 6236 | Yes |
-| tajik-abdol-mohammad-ayati | Abdol Mohammad Ayati | tajik | Latin | No | 4635 | No |
-| tajik-arifi | Arifi | tajik | Latin | No | 6236 | Yes |
-| tajik-khawaja-mir | Khawaja Mir | tajik | Latin | Yes | 6236 | Yes |
-| tajik-khojamirov | Khojamirov | tajik | Latin | No | 5462 | No |
-| tajik-translation-pioneers-of-translation-center | Translation Pioneers Of Translation Center | tajik | Latin | No | 6236 | Yes |
-| tajik-translation-tajik | Translation Tajik | tajik | Latin | No | 6236 | Yes |
-| tamazightberber-translation-mensur | Translation Mensur | tamazightberber | Latin | No | 6236 | Yes |
-| tamil-abdulhameedbaqa | Abdulhameedbaqa | tamil | Latin | No | 3860 | No |
-| tamil-janturstfoundat | Janturstfoundat | tamil | Latin | No | 4613 | No |
-| tamil-omar-brief | Omar Brief | tamil | Latin | No | 6236 | Yes |
-| tamil-translation-sheikh-omar-sharif-bin-abdul-salam | Translation Sheikh Omar Sharif Bin Abdul Salam | tamil | Latin | No | 6236 | Yes |
-| tatar-yakubibnnugman | Yakubibnnugman | tatar | Latin | No | 5037 | No |
-| telugu-abdulraheemmoha | Abdulraheemmoha | telugu | Latin | No | 4326 | No |
-| telugu-maulana-abder-rahim | Maulana Abder Rahim | telugu | Latin | No | 6236 | Yes |
-| telugu-muhammad | Muhammad | telugu | Latin | No | 6236 | Yes |
-| telugu-muhammadazizurr | Muhammadazizurr | telugu | Latin | No | 3469 | No |
-| thai-king-fahad-quran-complex | King Fahad Quran Complex | thai | Latin | No | 17 | No |
-| turkish-abdulbakigolpin | Abdulbakigolpin | turkish | Latin | No | 4924 | No |
-| turkish-alifikriyavuz | Alifikriyavuz | turkish | Latin | No | 5265 | No |
-| turkish-celalyldrm | Celalyldrm | turkish | Latin | No | 4471 | No |
-| turkish-dar-al-salam-center | Dar Al Salam Center | turkish | Latin | No | 6236 | Yes |
-| turkish-diyanetisleri | Diyanetisleri | turkish | Latin | No | 4964 | No |
-| turkish-diyanetvakfi | Diyanetvakfi | turkish | Latin | No | 4390 | No |
-| turkish-edipyuksel | Edipyuksel | turkish | Latin | No | 3772 | No |
-| turkish-elmallsadelesti | Elmallsadelesti | turkish | Latin | No | 4401 | No |
-| turkish-fizilalilkuran | Fizilalilkuran | turkish | Latin | No | 3769 | No |
-| turkish-hasanbasricanta | Hasanbasricanta | turkish | Latin | No | 4340 | No |
-| turkish-ibnikesir | Ibnikesir | turkish | Latin | No | 4252 | No |
-| turkish-iskenderalimihr | Iskenderalimihr | turkish | Latin | No | 4850 | No |
-| turkish-muhammedesed | Muhammedesed | turkish | Latin | No | 4693 | No |
-| turkish-muhammetabay | Muhammetabay | turkish | Latin | No | 1 | No |
-| turkish-rwwad | Rwwad | turkish | Latin | No | 6237 | Yes |
-| turkish-sabanpiris | Sabanpiris | turkish | Latin | No | 4302 | No |
-| turkish-shaban | Shaban | turkish | Latin | No | 6236 | Yes |
-| turkish-shahin | Shahin | turkish | Latin | No | 6236 | Yes |
-| turkish-suatyildirim | Suatyildirim | turkish | Latin | No | 4967 | No |
-| turkish-suleymanates | Suleymanates | turkish | Latin | No | 4609 | No |
-| turkish-tefhimulkuran | Tefhimulkuran | turkish | Latin | No | 4919 | No |
-| turkish-translation-hamdi | Translation Hamdi | turkish | Latin | No | 6236 | Yes |
-| turkish-translation-muslim-shahin | Translation Muslim Shahin | turkish | Latin | No | 6236 | Yes |
-| turkish-translation-shaban-britch | Translation Shaban Britch | turkish | Latin | No | 6236 | Yes |
-| turkish-translation-turkish-translation-diyanet | Translation Turkish Translation Diyanet | turkish | Latin | No | 6236 | Yes |
-| turkish-wwwislamhouseco | Wwwislamhouseco | turkish | Latin | No | 4176 | No |
-| turkish-yasarnuriozturk | Yasarnuriozturk | turkish | Latin | No | 4718 | No |
-| twi-sheikhharounism | Sheikhharounism | twi | Latin | No | 4695 | No |
-| twiakan-translation-sheikh-haroun-ismaeel | Translation Sheikh Haroun Ismaeel | twiakan | Latin | No | 6236 | Yes |
-| uighur-shaykhmuhammads | Shaykhmuhammads | uighur | Latin | No | 1546 | No |
-| ukrainian-drmikhailoyaqub | Drmikhailoyaqub | ukrainian | Latin | No | 5056 | No |
-| ukrainian-hadi-abdollahian | Hadi Abdollahian | ukrainian | Latin | No | 4595 | No |
-| urdu-bayan-ul-quran | Bayan Ul Quran | urdu | Latin | No | 6236 | Yes |
-| urdu-junagarhi | Junagarhi | urdu | Latin | No | 6236 | Yes |
-| urdu-maulana-muhammad-junagarhi | Maulana Muhammad Junagarhi | urdu | Latin | No | 6236 | Yes |
-| urdu-shaykh-al-hind-mahmud-al-hasan | Shaykh Al Hind Mahmud Al Hasan | urdu | Latin | No | 5027 | No |
-| urdu-translation-al-maududi | Abu Al Ala Maududi | urdu | Latin | Yes | 6236 | Yes |
-| urdu-translation-fatah-muhammad-jalandhari | Translation Fatah Muhammad Jalandhari | urdu | Latin | No | 6236 | Yes |
-| urdu-translation-junagarri | Translation Junagarri | urdu | Latin | Yes | 6236 | Yes |
-| urdu-translation-maulana-wahiduddin-khan | Translation Maulana Wahiduddin Khan | urdu | Latin | No | 6236 | Yes |
-| urdu-translation-urdu-sayyid-qatab | Translation Urdu Sayyid Qatab | urdu | Latin | No | 6235 | Yes |
-| urdu-zeeshan-jawadi | Zeeshan Jawadi | urdu | Latin | No | 116 | No |
-| uyghur-saleh | Saleh | uyghur | Latin | No | 6236 | Yes |
-| uzbek-alauddin-mansour | Alauddin Mansour | uzbek | Latin | No | 4812 | No |
-| uzbek-alauddin-mansour-footnotes | Alauddin Mansour Footnotes | uzbek | Latin | Yes | 6236 | Yes |
-| uzbek-muhammad-sodik-muhammad-yusuf | Muhammad Sodik Muhammad Yusuf | uzbek | Latin | No | 4804 | No |
-| uzbek-rwwad | Rwwad | uzbek | Latin | No | 6237 | Yes |
-| vietnamese-hasan-abdul-karim | Hasan Abdul Karim | vietnamese | Latin | No | 3717 | No |
-| vietnamese-rwwad | Rwwad | vietnamese | Latin | No | 6236 | Yes |
-| vietnamese-translation-ruwwad-center-fr | Translation Ruwwad Center Fr | vietnamese | Latin | Yes | 6236 | Yes |
-| xhosa-imaam-ismaaeel-ngqoyiyana | Imaam Ismaaeel Ngqoyiyana | xhosa | Latin | No | 4156 | No |
-| yau-muhammad-bin-abdul-hamid-silika | Muhammad Bin Abdul Hamid Silika | yau | Latin | No | 4527 | No |
-| yoruba-mikail | Mikail | yoruba | Latin | No | 6236 | Yes |
-| yoruba-shaykh-abu-rahimah-mikael-aykyuni | Shaykh Abu Rahimah Mikael Aykyuni | yoruba | Latin | No | 4194 | No |
-| zulu-iqembu-lezifundiswa | Iqembu Lezifundiswa | zulu | Latin | No | 2423 | No |
+| Name of Work | Author (Canonical) | Language | Script | Type | Has Footnotes | Ayahs Count | Complete (6236) |
+|--------------|-------------------|----------|--------|------|---------------|-------------|----------------|
+| acehnese-tg-k-h-mahjiddin-jusuf | Acehnese Tg K H Mahjiddin Jusuf | Acehnese | Latin | Ind | False | 6236 | Yes |
+| afar-hamza | Afar Hamza | Afar | Latin | Ind | False | 6236 | Yes |
+| afar-shaikh-mahmud-abdulkader-hamza | Afar Shaikh Mahmud Abdulkader Hamza | Afar | Latin | Ind | False | 6236 | Yes |
+| afrikaans-imam-m-a-baker | Afrikaans Imam M A Baker | Afrikaans | Latin | Ind | False | 6236 | Yes |
+| albanian-al-ahmeti | Albanian Al Ahmeti | Albanian | Latin | Ind | False | 6236 | Yes |
+| albanian-feti-mehdiu | Feti Mehdiu | Albanian | Latin | Ind | False | 6236 | Yes |
+| albanian-hasan-efendi-nahi | Albanian Hasan Efendi Nahi | Albanian | Latin | Ind | False | 6236 | Yes |
+| albanian-sherif-ahmeti | Sherif Ahmeti | Albanian | Latin | Ind | False | 6236 | Yes |
+| albanian-translation | Albanian Translation | Albanian | Latin | Ind | False | 6236 | Yes |
+| albanian-translation-rwwad-center-es | Rwwad Translation Center | Albanian | Latin | Org | False | 6236 | No |
+| amharic-muhammed-sadiq-and-sani | Amharic Muhammed Sadiq And Sani | Amharic | Ge'ez | Ind | False | 6236 | Yes |
+| amharic-zain | Zain | Amharic | Ge'ez | Ind | True | 6236 | Yes |
+| ankobambara-dayyan | Ankobambara Dayyan | Ankobambara | Latin | Ind | False | 6236 | Yes |
+| arabic-asseraj | Arabic Asseraj | Arabic | Arabic | Ind | False | 6236 | Yes |
+| arabic-lubab-fi-ulum-al-kitab | Arabic Lubab Fi Ulum Al Kitab | Arabic | Arabic | Ind | False | 6236 | No |
+| asante-harun | Asante Harun | Asante | Latin | Ind | False | 6236 | Yes |
+| assamese-rafeeq | Assamese Rafeeq | Assamese | Latin | Ind | True | 6236 | Yes |
+| assamese-shaykh-rafeequl-islam-habibur-rahman | Assamese Shaykh Rafeequl Islam Habibur Rahman | Assamese | Latin | Ind | False | 6236 | Yes |
+| azerbaijani-translation-mammadaliyev | Vasim Mammadaliyev | Azerbaijani | Latin | Ind | False | 6236 | Yes |
+| azeri-musayev | Musayev | Azeri | Latin | Ind | True | 6236 | Yes |
+| bambara-baba-mamady-jani | Baba Mamady Jani | Bambara | Latin | Ind | False | 6236 | Yes |
+| bambara-deen-muhammad | Bambara Deen Muhammad | Bambara | Latin | Ind | False | 6236 | Yes |
+| bambaranko-translation-suliman-kanti | Suliman Kanti | Bambaranko | Latin | Ind | False | 6236 | Yes |
+| bengali-abu-bakr-muhammad-zakaria | Abu Bakr Muhammad Zakaria | Bengali | Bengali | Ind | False | 6236 | Yes |
+| bengali-fathul-majid | Bengali Fathul Majid | Bengali | Bengali | Ind | False | 6236 | Yes |
+| bengali-mufti-taqi-usmani | Muhammad Taqi Usmani | Bengali | Bengali | Ind | False | 6236 | Yes |
+| bengali-muhiuddin-khan | Bengali Muhiuddin Khan | Bengali | Bengali | Ind | False | 6236 | Yes |
+| bengali-mujibur-rahman | Bengali Mujibur Rahman | Bengali | Bengali | Ind | False | 6236 | Yes |
+| bengali-translation | Bengali Translation | Bengali | Bengali | Ind | False | 6236 | Yes |
+| bengali-translation-hoque | Zohurul Hoque | Bengali | Bengali | Ind | False | 6236 | Yes |
+| bengali-translation-rawai-al-bayan | Bengali Translation Rawai Al Bayan | Bengali | Bengali | Ind | False | 6236 | Yes |
+| bengali-translation-taisirul-quran | Bengali Translation Taisirul Quran | Bengali | Bengali | Ind | False | 6236 | Yes |
+| berber-ramdane-at-mansour | Alauddin Mansour | Berber | Latin | Ind | False | 6236 | Yes |
+| bisayan-rwwad | Rwwad Translation Center | Bisayan | Latin | Org | True | 6236 | Yes |
+| bosnian-besim-korkut | Bosnian Besim Korkut | Bosnian | Latin | Ind | False | 6236 | Yes |
+| bosnian-muhamed-mehanovi | Bosnian Muhamed Mehanovi | Bosnian | Latin | Ind | False | 6236 | Yes |
+| bosnian-rwwad | Rwwad Translation Center | Bosnian | Latin | Org | True | 6236 | Yes |
+| bosnian-translation-mlivo | Mustafa Mlivo | Bosnian | Latin | Ind | False | 6236 | Yes |
+| bosnian-transliterim | Bosnian Transliterim | Bosnian | Latin | Ind | False | 6236 | Yes |
+| bosnian-wwwislamhouseco | IslamHouse | Bosnian | Latin | Org | False | 6236 | Yes |
+| bulgarian-translation | Bulgarian Translation | Bulgarian | Latin | Ind | False | 6236 | Yes |
+| bulgarian-tzvetan-theophanov | Bulgarian Tzvetan Theophanov | Bulgarian | Latin | Ind | False | 6236 | Yes |
+| burmese-ali-nuyin | Burmese Ali Nuyin | Burmese | Latin | Ind | False | 6236 | Yes |
+| burmese-basein | Burmese Basein | Burmese | Latin | Ind | False | 6236 | Yes |
+| burmese-ghazi-muhammad-hashim | Burmese Ghazi Muhammad Hashim | Burmese | Latin | Ind | False | 6236 | Yes |
+| catalan-youssef-lyoussi | Catalan Youssef Lyoussi | Catalan | Latin | Ind | False | 6236 | Yes |
+| central-khmer-cambodianmuslim | Central Khmer Cambodianmuslim | Central | Latin | Ind | False | 6236 | Yes |
+| chechen-translation | Chechen Translation | Chechen | Latin | Ind | False | 6236 | No |
+| chewa-al-haji-yusuf-muhammad | Chewa Al Haji Yusuf Muhammad | Chewa | Latin | Ind | False | 6236 | Yes |
+| chewa-khaled-ibrahim-betala | Chewa Khaled Ibrahim Betala | Chewa | Latin | Ind | False | 6236 | Yes |
+| chinese-ma-jian | Chinese Ma Jian | Chinese | Chinese | Ind | False | 6236 | No |
+| chinese-ma-zhong-gang | Chinese Ma Zhong Gang | Chinese | Chinese | Ind | False | 6236 | No |
+| chinese-muhammad-makin | Chinese Muhammad Makin | Chinese | Chinese | Ind | False | 6236 | Yes |
+| chinese-translation-chinese-suliman | Chinese Translation Chinese Suliman | Chinese | Chinese | Ind | False | 6236 | Yes |
+| croatian-mustafa-mlivo | Mustafa Mlivo | Croatian | Latin | Ind | False | 6236 | Yes |
+| croatian-rwwad | Rwwad Translation Center | Croatian | Latin | Org | True | 6236 | Yes |
+| czech-arnykl | Czech Arnykl | Czech | Latin | Ind | False | 6236 | Yes |
+| czech-hadi-abdollahian | Hadi Abdollahian | Czech | Latin | Ind | False | 6236 | Yes |
+| czech-prekladihrbek | Czech Prekladihrbek | Czech | Latin | Ind | False | 6236 | Yes |
+| dagbani-muhammad-baba-ghtani | Dagbani Muhammad Baba Ghtani | Dagbani | Latin | Ind | False | 6236 | Yes |
+| dagbani-muhammad-baba-gutubu | Dagbani Muhammad Baba Gutubu | Dagbani | Latin | Ind | False | 6236 | Yes |
+| danish-hadi-abdollahian | Hadi Abdollahian | Danish | Latin | Ind | False | 6236 | Yes |
+| danish-vandetaal | Danish Vandetaal | Danish | Latin | Ind | False | 6236 | Yes |
+| dari-mawlawi-muhammad-anwar-badkhashani | Dari Mawlawi Muhammad Anwar Badkhashani | Dari | Latin | Ind | False | 6236 | Yes |
+| dayak-kanayatn-rwwad | Rwwad Translation Center | Dayak | Latin | Org | False | 6236 | Yes |
+| dhivehi-shaikh-aboobakr-ibrahim-ali | Dhivehi Shaikh Aboobakr Ibrahim Ali | Dhivehi | Latin | Ind | False | 6236 | Yes |
+| dhivehi-translation | Dhivehi Translation | Dhivehi | Latin | Ind | False | 6236 | Yes |
+| divehi-officeofthepres | Divehi Officeofthepres | Divehi | Latin | Ind | False | 6236 | Yes |
+| dutch-center | Dutch Center | Dutch | Latin | Org | True | 6236 | Yes |
+| dutch-islamic-center | Dutch Islamic Center | Dutch | Latin | Org | False | 6236 | Yes |
+| dutch-malak-faris-abdalsalaam | Dutch Malak Faris Abdalsalaam | Dutch | Latin | Ind | False | 6236 | No |
+| dutch-soedewo | Dutch Soedewo | Dutch | Latin | Ind | False | 6236 | Yes |
+| dutch-sofian-s-siregar | Dutch Sofian S Siregar | Dutch | Latin | Ind | False | 6236 | Yes |
+| dutch-translation-keyzer | Dutch Translation Keyzer | Dutch | Latin | Ind | False | 6236 | Yes |
+| dutch-translation-leemhuis | Dutch Translation Leemhuis | Dutch | Latin | Ind | False | 6236 | Yes |
+| english-abdul-hye | English Abdul Hye | English | Latin | Ind | False | 6236 | Yes |
+| english-abdullah-yusuf-ali-original | Abdullah Yusuf Ali | English | Latin | Ind | False | 6236 | Yes |
+| english-aisha-bewley | English Aisha Bewley | English | Latin | Ind | False | 6236 | Yes |
+| english-al-bilal-muhammad | English Al Bilal Muhammad | English | Latin | Ind | False | 6236 | Yes |
+| english-ali-bakhtiarinejad | English Ali Bakhtiarinejad | English | Latin | Ind | False | 6236 | Yes |
+| english-ali-quli-qarai | Ali Quli Qarai | English | Latin | Ind | False | 6236 | Yes |
+| english-ali-unal | English Ali Unal | English | Latin | Ind | False | 6236 | Yes |
+| english-almuntakhabfita | English Almuntakhabfita | English | Latin | Ind | False | 6236 | Yes |
+| english-dr-kamal-omar | English Dr Kamal Omar | English | Latin | Ind | False | 6236 | Yes |
+| english-dr-laleh-bakhtiar | English Dr Laleh Bakhtiar | English | Latin | Ind | False | 6236 | Yes |
+| english-dr-munir-munshey | English Dr Munir Munshey | English | Latin | Ind | False | 6236 | Yes |
+| english-edward-henry-palmer | English Edward Henry Palmer | English | Latin | Ind | False | 6236 | Yes |
+| english-farook-malik | English Farook Malik | English | Latin | Ind | False | 6236 | Yes |
+| english-george-sale | English George Sale | English | Latin | Ind | False | 6236 | Yes |
+| english-hamid-s-aziz | English Hamid S Aziz | English | Latin | Ind | False | 6236 | Yes |
+| english-hilali-khan | Hilali and Khan | English | Latin | Ind | True | 6236 | Yes |
+| english-john-medows-rodwell | English John Medows Rodwell | English | Latin | Ind | False | 6236 | Yes |
+| english-literal | English Literal | English | Latin | Ind | False | 6236 | Yes |
+| english-m-a-s-abdel-haleem | M. A. S. Abdel Haleem | English | Latin | Ind | False | 6236 | Yes |
+| english-mir-anees-original | English Mir Anees Original | English | Latin | Ind | False | 6236 | Yes |
+| english-mohammad-shafi | English Mohammad Shafi | English | Latin | Ind | False | 6236 | Yes |
+| english-mufti-taqi-usmani-alt | Muhammad Taqi Usmani | English | Latin | Ind | False | 6236 | Yes |
+| english-muhammad-asad | Muhammad Asad | English | Latin | Ind | False | 6236 | Yes |
+| english-muhammad-mahmoud | English Muhammad Mahmoud | English | Latin | Ind | False | 6236 | Yes |
+| english-mustafa-khattab-alt | Mustafa Khattab | English | Latin | Ind | False | 6236 | Yes |
+| english-n-j-dawood | English N J Dawood | English | Latin | Ind | False | 6236 | Yes |
+| english-pickthall | Mohammed Marmaduke Pickthall | English | Latin | Ind | False | 6236 | Yes |
+| english-rwwad | Rwwad Translation Center | English | Latin | Org | True | 6236 | Yes |
+| english-safi-kaskas | English Safi Kaskas | English | Latin | Ind | False | 6236 | Yes |
+| english-safi-ur-rahman-al-mubarakpuri | English Safi Ur Rahman Al Mubarakpuri | English | Latin | Ind | False | 6236 | Yes |
+| english-saheeh-international | Saheeh International | English | Latin | Ind | True | 6236 | Yes |
+| english-shabbir-ahmed | English Shabbir Ahmed | English | Latin | Ind | False | 6236 | Yes |
+| english-syed-vickar-ahamed | English Syed Vickar Ahamed | English | Latin | Ind | False | 6236 | Yes |
+| english-t-b-irving | English T B Irving | English | Latin | Ind | False | 6236 | Yes |
+| english-talal-itani | Talal Itani | English | Latin | Ind | False | 6236 | Yes |
+| english-the-monotheist-group | English The Monotheist Group | English | Latin | Ind | False | 6236 | Yes |
+| english-the-study-quran | English The Study Quran | English | Latin | Ind | False | 6236 | Yes |
+| english-translation-ahmedali | English Translation Ahmedali | English | Latin | Ind | False | 6236 | Yes |
+| english-translation-ahmedraza | English Translation Ahmedraza | English | Latin | Ind | False | 6236 | Yes |
+| english-translation-al-maududi | Abul A'la Maududi | English | Latin | Ind | False | 6236 | Yes |
+| english-translation-arberry | English Translation Arberry | English | Latin | Ind | False | 6236 | Yes |
+| english-translation-daryabadi | English Translation Daryabadi | English | Latin | Ind | False | 6236 | Yes |
+| english-translation-fadel-soliman-bridges-translation | English Translation Fadel Soliman Bridges Translation | English | Latin | Ind | False | 6236 | Yes |
+| english-translation-ghali | Muhammad Mahmoud Ghali | English | Latin | Ind | False | 6236 | Yes |
+| english-translation-maarif-ul-quran | English Translation Maarif Ul Quran | English | Latin | Ind | False | 6236 | No |
+| english-translation-maulana-wahiduddin-khan | Wahiduddin Khan | English | Latin | Ind | False | 6236 | Yes |
+| english-translation-qaribullah | English Translation Qaribullah | English | Latin | Ind | False | 6236 | Yes |
+| english-translation-rwwad-center-ur | Rwwad Translation Center | English | Latin | Org | False | 6236 | Yes |
+| english-translation-sarwar | Muhammad Sarwar | English | Latin | Ind | False | 6236 | Yes |
+| english-translation-shakir | Mohammad Habib Shakir | English | Latin | Ind | False | 6236 | Yes |
+| english-translation-taqi-ud-din-al-hilali-muhsin-khan | Hilali and Khan | English | Latin | Ind | False | 6236 | Yes |
+| english-translation-transliteration | English Translation Transliteration | English | Latin | Ind | False | 6236 | Yes |
+| esperanto-hadi-abdollahian | Hadi Abdollahian | Esperanto | Latin | Ind | False | 6236 | Yes |
+| filipino-abdullatif-eduardo-m-arceo | Filipino Abdullatif Eduardo M Arceo | Filipino | Latin | Ind | False | 6236 | Yes |
+| filipino-tagalog-translation-filipino-iranionian-translation | Filipino Tagalog Translation Filipino Iranionian Translation | Filipino | Latin | Ind | False | 6236 | Yes |
+| filipino-wwwislamhouseco | IslamHouse | Filipino | Latin | Org | False | 6236 | Yes |
+| finnish-ahsen-bore | Finnish Ahsen Bore | Finnish | Latin | Ind | False | 6236 | Yes |
+| finnish-translation | Finnish Translation | Finnish | Latin | Ind | False | 6236 | Yes |
+| french-abdullah-yusuf-ali | Abdullah Yusuf Ali | French | Latin | Ind | False | 6236 | Yes |
+| french-islamic-foundation | Islamic Foundation UK | French | Latin | Org | False | 6236 | Yes |
+| french-montada | French Montada | French | Latin | Ind | True | 6236 | Yes |
+| french-montada-islamic-foundation | Islamic Foundation UK | French | Latin | Org | False | 6236 | Yes |
+| french-muhammad-hamidullah | Muhammad Hamidullah | French | Latin | Ind | False | 6236 | Yes |
+| french-rashid | French Rashid | French | Latin | Ind | True | 6236 | Yes |
+| french-shahnaz-saidi-benbetka | French Shahnaz Saidi Benbetka | French | Latin | Ind | False | 6236 | Yes |
+| fulah-rwwad-center | Rwwad Translation Center | Fulah | Latin | Org | False | 6236 | Yes |
+| fulanifula-translation-fulani-translation | Fulanifula Translation Fulani Translation | Fulanifula | Latin | Ind | False | 6236 | Yes |
+| ganda-african-development-foundation | Ganda African Development Foundation | Ganda | Latin | Org | False | 6236 | No |
+| ganda-fareeq-musa | Ganda Fareeq Musa | Ganda | Latin | Ind | False | 6236 | Yes |
+| german-adel-theodor-khoury | German Adel Theodor Khoury | German | Latin | Ind | False | 6236 | Yes |
+| german-frank-bubenheim-and-nadeem | Frank Bubenheim & Nadeem Elyas | German | Latin | Ind | False | 6236 | Yes |
+| german-mohammed-marmaduke-pickthall | Mohammed Marmaduke Pickthall | German | Latin | Ind | False | 6236 | Yes |
+| german-translation-aburida | German Translation Aburida | German | Latin | Ind | False | 6236 | Yes |
+| german-translation-zaidan | German Translation Zaidan | German | Latin | Ind | False | 6236 | Yes |
+| greek-translation | Greek Translation | Greek | Latin | Ind | False | 6236 | Yes |
+| gujarati-omari | Gujarati Omari | Gujarati | Gujarati | Ind | True | 6236 | Yes |
+| gujarati-translation-rabila-al-umry | Gujarati Translation Rabila Al Umry | Gujarati | Gujarati | Ind | False | 6236 | Yes |
+| hausa-gummi | Hausa Gummi | Hausa | Latin | Ind | True | 6236 | Yes |
+| hebrew-bakurube | Hebrew Bakurube | Hebrew | Hebrew | Ind | False | 6236 | Yes |
+| hebrew-darusalam | Hebrew Darusalam | Hebrew | Hebrew | Ind | False | 6236 | Yes |
+| hebrew-darusalamhousei | Hebrew Darusalamhousei | Hebrew | Hebrew | Ind | False | 6236 | Yes |
+| hindi-maulana-azizul-haque-alt | Hindi Maulana Azizul Haque Alt | Hindi | Devanagari | Ind | False | 6236 | Yes |
+| hindi-muhammad-farooq-khan | Hindi Muhammad Farooq Khan | Hindi | Devanagari | Ind | False | 6236 | Yes |
+| hindi-omari | Hindi Omari | Hindi | Devanagari | Ind | True | 6236 | Yes |
+| hindi-suhel-farooq-khan | Hindi Suhel Farooq Khan | Hindi | Devanagari | Ind | False | 6236 | Yes |
+| hindi-translation-farooq | Hindi Translation Farooq | Hindi | Devanagari | Ind | False | 6236 | Yes |
+| hindi-translation-hindi | Hindi Translation Hindi | Hindi | Devanagari | Ind | False | 6236 | Yes |
+| hungarian-dr-ahmed-abdel-rahman-al-hity | Hungarian Dr Ahmed Abdel Rahman Al Hity | Hungarian | Latin | Ind | False | 6236 | Yes |
+| ikirundi-gehiti | Ikirundi Gehiti | Ikirundi | Latin | Ind | True | 6236 | Yes |
+| indonesian-affairs | Indonesian Affairs | Indonesian | Latin | Ind | True | 6236 | Yes |
+| indonesian-complex | Indonesian Complex | Indonesian | Latin | Org | True | 6236 | Yes |
+| indonesian-jalal-ad-din-al-mahalli | Indonesian Jalal Ad Din Al Mahalli | Indonesian | Latin | Ind | False | 6236 | Yes |
+| indonesian-king-fahad-alt | King Fahd Complex for the Printing of the Holy Qur'an | Indonesian | Latin | Org | False | 6236 | Yes |
+| indonesian-ministry-of-religious-affairs | Indonesian Ministry Of Religious Affairs | Indonesian | Latin | Ind | False | 6236 | Yes |
+| indonesian-muhammadquraish | Indonesian Muhammadquraish | Indonesian | Latin | Ind | False | 6236 | Yes |
+| indonesian-sabiq | Indonesian Sabiq | Indonesian | Latin | Ind | True | 6236 | Yes |
+| indonesian-translation | Indonesian Translation | Indonesian | Latin | Ind | False | 6236 | Yes |
+| indonesian-translation-abdullah-basamia | Indonesian Translation Abdullah Basamia | Indonesian | Latin | Ind | False | 6236 | Yes |
+| iranun-abdul-aziz-guro-al-mansour | Iranun Abdul Aziz Groaal | Iranun | Latin | Ind | False | 6236 | Yes |
+| italian-hamzarobertopic | Hamza Roberto Piccardo | Italian | Latin | Ind | False | 6236 | Yes |
+| italian-othman-al-sharif | Italian Othman Al Sharif | Italian | Latin | Ind | False | 6236 | Yes |
+| japanese-saeedsato | Japanese Saeedsato | Japanese | Japanese | Ind | True | 6236 | Yes |
+| japanese-translation-ryoichi-mita | Japanese Translation Ryoichi Mita | Japanese | Japanese | Ind | False | 6236 | Yes |
+| javanese-muhammad-adnan | Javanese Muhammad Adnan | Javanese | Latin | Ind | False | 6236 | Yes |
+| kannada-abdussalam-puthige | Kannada Abdussalam Puthige | Kannada | Kannada | Ind | False | 6236 | Yes |
+| kannada-bashir-missouri | Kannada Bashir Missouri | Kannada | Kannada | Ind | False | 6236 | Yes |
+| kannada-hamza | Kannada Hamza | Kannada | Kannada | Ind | True | 6236 | Yes |
+| kannada-muhammad-hamza-battur | Kannada Muhammad Hamza Battur | Kannada | Kannada | Ind | False | 6236 | Yes |
+| kashmiri-bayanul-furqan | Kashmiri Bayanul Furqan | Kashmiri | Latin | Ind | False | 6236 | Yes |
+| kazakh-khalifa-altay | Kazakh Khalifa Altay | Kazakh | Cyrillic | Ind | False | 6236 | Yes |
+| khmer-cambodia | Khmer Cambodia | Khmer | Latin | Ind | False | 6236 | Yes |
+| khmer-cambodian-muslim-community | Khmer Cambodian Muslim Community | Khmer | Latin | Ind | False | 6236 | Yes |
+| khmer-rwwad | Rwwad Translation Center | Khmer | Latin | Org | False | 6236 | Yes |
+| kinyarwanda-assoc | Kinyarwanda Assoc | Kinyarwanda | Latin | Ind | True | 6236 | Yes |
+| kinyarwanda-rmc-rwanda | Kinyarwanda Rmc Rwanda | Kinyarwanda | Latin | Ind | False | 6236 | Yes |
+| kinyarwanda-rwandamuslimsas | Kinyarwanda Rwandamuslimsas | Kinyarwanda | Latin | Ind | False | 6236 | Yes |
+| kinyarwanda-translation-the-rwanda-muslims-association-team | Kinyarwanda Translation The Rwanda Muslims Association Team | Kinyarwanda | Latin | Org | False | 6236 | Yes |
+| kirundi-gehiti-alt | Kirundi Gehiti Alt | Kirundi | Latin | Ind | False | 6236 | Yes |
+| korean-hamid-choi | Hamid Choi | Korean | Latin | Ind | False | 6236 | Yes |
+| korean-hamid-choi-complex | Hamid Choi | Korean | Latin | Org | False | 6236 | Yes |
+| kurdish-burhan-muhammad-amin | Kurdish Burhan Muhammad Amin | Kurdish | Arabic | Ind | False | 6236 | Yes |
+| kurdish-kurmanji-translation | Kurdish Kurmanji Translation | Kurdish | Arabic | Ind | False | 6236 | Yes |
+| kurdish-muhammad-saleh-bamoki | Kurdish Muhammad Saleh Bamoki | Kurdish | Arabic | Ind | False | 6236 | Yes |
+| kurdish-salahuddin | Kurdish Salahuddin | Kurdish | Arabic | Ind | False | 6236 | Yes |
+| kurmanji-abdullah-varli | Kurmanji Abdullah Varli | Kurmanji | Latin | Ind | False | 6236 | Yes |
+| kyrgyz-hakimov | Kyrgyz Hakimov | Kyrgyz | Cyrillic | Ind | True | 6236 | Yes |
+| kyrgyz-shams-al-din-hakim | Kyrgyz Shams Al Din Hakim | Kyrgyz | Cyrillic | Ind | False | 6236 | Yes |
+| kyrgyz-translation-kyrgyz-hakimov | Kyrgyz Translation Kyrgyz Hakimov | Kyrgyz | Cyrillic | Ind | False | 6236 | Yes |
+| latin-hadi-abdollahian | Hadi Abdollahian | Latin | Latin | Ind | False | 6236 | Yes |
+| lingala-alt | Lingala Alt | Lingala | Latin | Ind | False | 6236 | Yes |
+| lingala-zakaria | Lingala Zakaria | Lingala | Latin | Ind | True | 6236 | Yes |
+| lithuanian-rwwad | Rwwad Translation Center | Lithuanian | Latin | Org | True | 6236 | Yes |
+| lithuanian-translation | Lithuanian Translation | Lithuanian | Latin | Ind | False | 6236 | Yes |
+| luhya-translation | Luhya Translation | Luhya | Latin | Ind | False | 6236 | Yes |
+| luyia-mohammad-ramadhaan | Luyia Mohammad Ramadhaan | Luyia | Latin | Ind | False | 6236 | Yes |
+| macedonian-group | Macedonian Group | Macedonian | Latin | Ind | True | 6236 | Yes |
+| macedonian-macedonianschol | Macedonian Macedonianschol | Macedonian | Latin | Ind | False | 6236 | Yes |
+| macedonian-scholars | Macedonian Scholars | Macedonian | Latin | Ind | False | 6236 | Yes |
+| macedonian-sheikhhassangil | Macedonian Sheikhhassangil | Macedonian | Latin | Ind | False | 6236 | Yes |
+| maguindanao-rwwad | Rwwad Translation Center | Maguindanao | Latin | Org | False | 6236 | Yes |
+| makonde-abdul-hamid-silika | Abdul Hamid Silika | Makonde | Latin | Ind | False | 6236 | Yes |
+| malagasy-rwwad | Rwwad Translation Center | Malagasy | Latin | Org | False | 6236 | Yes |
+| malay-abdullah-muhammad-basmeih | Abdullah Muhammad Basmeih | Malay | Latin | Ind | False | 6236 | Yes |
+| malayalam-kunhi | Malayalam Kunhi | Malayalam | Malayalam | Ind | True | 6236 | Yes |
+| malayalam-ml-abdul-hameed | Malayalam Ml Abdul Hameed | Malayalam | Malayalam | Ind | False | 6236 | Yes |
+| malayalam-muhammad-karakunnu | Malayalam Muhammad Karakunnu | Malayalam | Malayalam | Ind | False | 6236 | Yes |
+| maltese-martin-r-zammit | Maltese Martin R Zammit | Maltese | Latin | Ind | False | 6236 | Yes |
+| maltese-qoran-imqaddes | Maltese Qoran Imqaddes | Maltese | Latin | Ind | False | 6236 | Yes |
+| maranao-guro-alim-saromantang | Maranao Guro Alim Saromantang | Maranao | Latin | Ind | False | 6236 | Yes |
+| maranao-translation-maranao | Maranao Translation Maranao | Maranao | Latin | Ind | False | 6236 | Yes |
+| marathi-muhammad-shafi-i-ansari | Marathi Muhammad Shafi I Ansari | Marathi | Devanagari | Ind | False | 6236 | Yes |
+| moore-rwwad | Rwwad Translation Center | Moore | Latin | Org | True | 6236 | Yes |
+| nepali-ahl-al-hadith-central-society-of-nepal | Nepali Ahl Al Hadith Central Society Of Nepal | Nepali | Latin | Ind | False | 6236 | Yes |
+| norwegian-einar-berg | Norwegian Einar Berg | Norwegian | Latin | Ind | False | 6236 | Yes |
+| oromo-ababor | Oromo Ababor | Oromo | Latin | Ind | True | 6236 | Yes |
+| oromo-ghali-apapur-apaghuna | Muhammad Mahmoud Ghali | Oromo | Latin | Ind | False | 6236 | Yes |
+| panjabi-dr-muhammad-habib-shakir | Mohammad Habib Shakir | Panjabi | Latin | Ind | False | 6236 | Yes |
+| panjabi-roshan-khan-kakar | Panjabi Roshan Khan Kakar | Panjabi | Latin | Ind | False | 6236 | Yes |
+| panjabi-sharif-kunjahi | Panjabi Sharif Kunjahi | Panjabi | Latin | Ind | False | 6236 | Yes |
+| pashto-abdul-wali-khan | Pashto Abdul Wali Khan | Pashto | Arabic | Ind | False | 6236 | Yes |
+| pashto-rwwad | Rwwad Translation Center | Pashto | Arabic | Org | True | 6236 | Yes |
+| pashto-rwwad-center | Rwwad Translation Center | Pashto | Arabic | Org | False | 6236 | Yes |
+| pashto-sarfaraz | Pashto Sarfaraz | Pashto | Arabic | Ind | False | 6236 | Yes |
+| pashto-zakaria-abulsalam | Pashto Zakaria Abulsalam | Pashto | Arabic | Ind | False | 6236 | Yes |
+| persian-abdol-mohammad-ayati | Abdol Mohammad Ayati | Persian | Arabic | Ind | False | 6236 | Yes |
+| persian-abolfazl-bahrampour | Persian Abolfazl Bahrampour | Persian | Arabic | Ind | False | 6236 | Yes |
+| persian-bahaoddin-khorramshahi | Persian Bahaoddin Khorramshahi | Persian | Arabic | Ind | False | 6236 | Yes |
+| persian-hussain-ansarian | Persian Hussain Ansarian | Persian | Arabic | Ind | False | 6236 | Yes |
+| persian-ih | IslamHouse | Persian | Arabic | Org | False | 6236 | Yes |
+| persian-mahdi-elahi-ghomshei | Persian Mahdi Elahi Ghomshei | Persian | Arabic | Ind | False | 6236 | Yes |
+| persian-mohammad-kazem-moezzi | Persian Mohammad Kazem Moezzi | Persian | Arabic | Ind | False | 6236 | Yes |
+| persian-mohammad-mahdi-fooladvand | Persian Mohammad Mahdi Fooladvand | Persian | Arabic | Ind | False | 6236 | Yes |
+| persian-mohammad-sadeqi-tehrani | Persian Mohammad Sadeqi Tehrani | Persian | Arabic | Ind | False | 6236 | Yes |
+| persian-mohsen-gharaati | Persian Mohsen Gharaati | Persian | Arabic | Ind | False | 6236 | Yes |
+| persian-mostafa-khorramdel | Persian Mostafa Khorramdel | Persian | Arabic | Ind | False | 6236 | Yes |
+| persian-naser-makarem-shirazi | Persian Naser Makarem Shirazi | Persian | Arabic | Ind | False | 6236 | Yes |
+| persian-sayyed-jalaloddin-mojtabavi | Persian Sayyed Jalaloddin Mojtabavi | Persian | Arabic | Ind | False | 6236 | Yes |
+| persiandari-translation-hussein-taji-kal-dari | Persiandari Translation Hussein Taji Kal Dari | Persiandari | Latin | Ind | False | 6236 | Yes |
+| polish-translation-j-zef-bielawski | Polish Translation J Zef Bielawski | Polish | Latin | Ind | False | 6236 | Yes |
+| portuguese-nasr | Portuguese Nasr | Portuguese | Latin | Ind | True | 6236 | Yes |
+| portuguese-samir | Portuguese Samir | Portuguese | Latin | Ind | False | 6236 | Yes |
+| portuguese-samir-el-hayek | Portuguese Samir El Hayek | Portuguese | Latin | Ind | False | 6236 | Yes |
+| punjabi-arif | Punjabi Arif | Punjabi | Gurmukhi | Ind | True | 6236 | Yes |
+| romanian-hadi-abdollahian | Hadi Abdollahian | Romanian | Latin | Ind | False | 6236 | Yes |
+| romanian-liga-islamica | Romanian Liga Islamica | Romanian | Latin | Ind | False | 6236 | Yes |
+| romanian-project | Romanian Project | Romanian | Latin | Ind | True | 6236 | Yes |
+| romanian-translation | Romanian Translation | Romanian | Latin | Ind | False | 6236 | Yes |
+| romanian-translation-grigore | Romanian Translation Grigore | Romanian | Latin | Ind | False | 6236 | Yes |
+| rundi-sheikh-amisi-radjabu | Rundi Sheikh Amisi Radjabu | Rundi | Latin | Ind | False | 6236 | Yes |
+| russian-abu-adel | Russian Abu Adel | Russian | Cyrillic | Ind | False | 6236 | Yes |
+| russian-elmir-kuliev | Russian Elmir Kuliev | Russian | Cyrillic | Ind | False | 6236 | Yes |
+| russian-ignaty-yulianovich-krachkovsky | Russian Ignaty Yulianovich Krachkovsky | Russian | Cyrillic | Ind | False | 6236 | Yes |
+| russian-magomed-nuri-osmanovich-osmanov | Russian Magomed Nuri Osmanovich Osmanov | Russian | Cyrillic | Ind | False | 6236 | Yes |
+| russian-ministry-of-awqaf-egypt | Russian Ministry Of Awqaf Egypt | Russian | Cyrillic | Ind | False | 6236 | Yes |
+| russian-translation-gordy-semyonovich-sablukov | Russian Translation Gordy Semyonovich Sablukov | Russian | Cyrillic | Ind | False | 6236 | Yes |
+| russian-translation-ministry-of-awqaf | Russian Translation Ministry Of Awqaf | Russian | Cyrillic | Ind | False | 6236 | Yes |
+| russian-valeriya-porokhova | Russian Valeriya Porokhova | Russian | Cyrillic | Ind | False | 6236 | Yes |
+| serbian-dar-al-salam-center | Serbian Dar Al Salam Center | Serbian | Latin | Org | False | 6236 | Yes |
+| serbian-rwwad | Rwwad Translation Center | Serbian | Latin | Org | True | 6236 | Yes |
+| shona-abdullah-j-madini | Shona Abdullah J Madini | Shona | Latin | Ind | False | 6236 | Yes |
+| sindhi-taj-mehmood-amroti-alt | Sindhi Taj Mehmood Amroti Alt | Sindhi | Latin | Ind | False | 6236 | Yes |
+| sinhala-naseem-ismail-and-l-m-m-mansoor | Sinhala Naseem Ismail And L M M Mansoor | Sinhala | Latin | Ind | False | 6236 | Yes |
+| sinhala-translation-rwwad-center-en | Rwwad Translation Center | Sinhala | Latin | Org | False | 6236 | Yes |
+| sinhala-wwwislamhouseco | IslamHouse | Sinhala | Latin | Org | False | 6236 | Yes |
+| sinhalese-mahir | Sinhalese Mahir | Sinhalese | Latin | Ind | True | 6236 | Yes |
+| slovak-hadi-abdollahian | Hadi Abdollahian | Slovak | Latin | Ind | False | 6236 | Yes |
+| somali-shaykh-mahmood-muhammad-abduh | Somali Shaykh Mahmood Muhammad Abduh | Somali | Latin | Ind | False | 6236 | Yes |
+| somali-yacob | Somali Yacob | Somali | Latin | Ind | True | 6236 | Yes |
+| southern-sotho-sheikh-elias-keke | Southern Sotho Sheikh Elias Keke | Southern | Latin | Ind | False | 6236 | Yes |
+| spanish-abdul-qader-mouheddine | Spanish Abdul Qader Mouheddine | Spanish | Latin | Ind | False | 6236 | Yes |
+| spanish-cortes | Spanish Cortes | Spanish | Latin | Ind | False | 6236 | Yes |
+| spanish-garcia | Spanish Garcia | Spanish | Latin | Ind | True | 6236 | Yes |
+| spanish-islamic-foundation | Islamic Foundation UK | Spanish | Latin | Org | False | 6236 | Yes |
+| spanish-montada-eu | Spanish Montada Eu | Spanish | Latin | Ind | True | 6236 | Yes |
+| spanish-muhammad-asad | Muhammad Asad | Spanish | Latin | Ind | False | 6236 | Yes |
+| spanish-raul-gonzalez-bornez | Spanish Raul Gonzalez Bornez | Spanish | Latin | Ind | False | 6236 | Yes |
+| spanish-translation-isa-garcia | Spanish Translation Isa Garcia | Spanish | Latin | Ind | False | 6236 | Yes |
+| spanish-translation-noor-international-center | Spanish Translation Noor International Center | Spanish | Latin | Org | False | 6236 | Yes |
+| swahili-abdullah-muhammad-abu-bakr-nasir-khamis | Swahili Abdullah Muhammad Abu Bakr Nasir Khamis | Swahili | Latin | Ind | False | 6236 | Yes |
+| swahili-abdullah-muhammad-basmeih | Abdullah Muhammad Basmeih | Swahili | Latin | Ind | False | 6236 | Yes |
+| swahili-alimuhsinalbarw | Swahili Alimuhsinalbarw | Swahili | Latin | Ind | False | 6236 | Yes |
+| swahili-barawani | Swahili Barawani | Swahili | Latin | Ind | True | 6236 | Yes |
+| swahili-rwwad | Rwwad Translation Center | Swahili | Latin | Org | True | 6236 | Yes |
+| swedish-knutbernstrom | Swedish Knutbernstrom | Swedish | Latin | Ind | False | 6236 | Yes |
+| tagalog-dar-al-salam-center | Tagalog Dar Al Salam Center | Tagalog | Latin | Org | False | 6236 | Yes |
+| tagalog-rwwad | Rwwad Translation Center | Tagalog | Latin | Org | True | 6236 | Yes |
+| tajik-abdol-mohammad-ayati | Abdol Mohammad Ayati | Tajik | Cyrillic | Ind | False | 6236 | Yes |
+| tajik-arifi | Tajik Arifi | Tajik | Cyrillic | Ind | True | 6236 | Yes |
+| tajik-khawaja-mir | Tajik Khawaja Mir | Tajik | Cyrillic | Ind | False | 6236 | Yes |
+| tajik-khojamirov | Tajik Khojamirov | Tajik | Cyrillic | Ind | False | 6236 | Yes |
+| tajik-translation | Tajik Translation | Tajik | Cyrillic | Ind | False | 6236 | Yes |
+| tajik-translation-pioneers-of-translation-center | Tajik Translation Pioneers Of Translation Center | Tajik | Cyrillic | Org | False | 6236 | Yes |
+| tamazightberber-translation-mensur | Tamazightberber Translation Mensur | Tamazightberber | Latin | Ind | False | 6236 | Yes |
+| tamil-abdulhameedbaqa | Tamil Abdulhameedbaqa | Tamil | Tamil | Ind | False | 6236 | Yes |
+| tamil-janturstfoundat | Tamil Janturstfoundat | Tamil | Tamil | Ind | False | 6236 | Yes |
+| tamil-mufti-omar-sheriff | Tamil Mufti Omar Sheriff | Tamil | Tamil | Ind | False | 6236 | Yes |
+| tamil-omar | Tamil Omar | Tamil | Tamil | Ind | True | 6236 | Yes |
+| tamil-omar-brief | Tamil Omar Brief | Tamil | Tamil | Ind | True | 6236 | Yes |
+| tamil-omar-sharif | Tamil Omar Sharif | Tamil | Tamil | Ind | False | 6236 | Yes |
+| tatar-yakubibnnugman | Tatar Yakubibnnugman | Tatar | Latin | Ind | False | 6236 | Yes |
+| telugu-abdulraheemmoha | Telugu Abdulraheemmoha | Telugu | Telugu | Ind | False | 6236 | Yes |
+| telugu-maulana-abder-rahim | Telugu Maulana Abder Rahim | Telugu | Telugu | Ind | False | 6236 | Yes |
+| telugu-muhammad | Telugu Muhammad | Telugu | Telugu | Ind | True | 6236 | Yes |
+| telugu-muhammadazizurr | Telugu Muhammadazizurr | Telugu | Telugu | Ind | False | 6236 | Yes |
+| thai-king-fahad-quran-complex | King Fahd Complex for the Printing of the Holy Qur'an | Thai | Thai | Org | False | 6236 | Yes |
+| turkish-abdulbakigolpin | Turkish Abdulbakigolpin | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-alibulac | Turkish Alibulac | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-alifikriyavuz | Turkish Alifikriyavuz | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-celalyldrm | Turkish Celalyldrm | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-dar-al-salam-center | Turkish Dar Al Salam Center | Turkish | Latin | Org | False | 6236 | Yes |
+| turkish-diyanet | Diyanet İşleri Başkanlığı | Turkish | Latin | Org | False | 6236 | Yes |
+| turkish-diyanetisleri | Diyanet İşleri Başkanlığı | Turkish | Latin | Org | False | 6236 | No |
+| turkish-diyanetvakfi | Diyanet İşleri Başkanlığı | Turkish | Latin | Org | False | 6236 | No |
+| turkish-edipyuksel | Turkish Edipyuksel | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-elmalili-sadelestirilmis | Turkish Elmalili Sadelestirilmis | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-elmalilihamdiya | Turkish Elmalilihamdiya | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-fi-zilal-il-quran | Turkish Fi Zilal Il Quran | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-gultekinonan | Turkish Gultekinonan | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-hasanbasricanta | Turkish Hasanbasricanta | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-iskenderalimihr | Turkish Iskenderalimihr | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-latinalphabet-la | Turkish Latinalphabet La | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-muhammedesed | Muhammad Asad | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-muhammetabay | Turkish Muhammetabay | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-rwwad | Rwwad Translation Center | Turkish | Latin | Org | True | 6236 | Yes |
+| turkish-sabanpiris | Turkish Sabanpiris | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-shaban | Turkish Shaban | Turkish | Latin | Ind | False | 6236 | Yes |
+| turkish-shahin | Turkish Shahin | Turkish | Latin | Ind | False | 6236 | Yes |
+| turkish-suatyildirim | Turkish Suatyildirim | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-suleymanates | Turkish Suleymanates | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-tefhimulkuran | Turkish Tefhimulkuran | Turkish | Latin | Ind | False | 6236 | No |
+| turkish-translation-hamdi | Turkish Translation Hamdi | Turkish | Latin | Ind | False | 6236 | Yes |
+| turkish-translation-muslim-shahin | Turkish Translation Muslim Shahin | Turkish | Latin | Ind | False | 6236 | Yes |
+| turkish-translation-shaban-britch | Turkish Translation Shaban Britch | Turkish | Latin | Ind | False | 6236 | Yes |
+| turkish-wwwislamhouseco | IslamHouse | Turkish | Latin | Org | False | 6236 | No |
+| turkish-yasarnuriozturk | Turkish Yasarnuriozturk | Turkish | Latin | Ind | False | 6236 | No |
+| twi-haroun-ismaeel | Twi Haroun Ismaeel | Twi | Latin | Ind | False | 6236 | Yes |
+| twi-sheikhharounism | Twi Sheikhharounism | Twi | Latin | Ind | False | 6236 | No |
+| uighur-shaykh-muhammad-saleh | Uighur Shaykhmuhammads | Uighur | Arabic | Ind | False | 6236 | No |
+| ukrainian-dr-mikhailo-yaqub | Ukrainian Drmikhailoyaqub | Ukrainian | Latin | Ind | False | 6236 | No |
+| ukrainian-hadi-abdollahian | Hadi Abdollahian | Ukrainian | Latin | Ind | False | 6236 | No |
+| urdu-ahmed-ali | Ahmed Ali | Urdu | Arabic | Ind | False | 6236 | No |
+| urdu-bayan-ul-quran | Dr Israr Ahmed | Urdu | Arabic | Ind | False | 6236 | Yes |
+| urdu-junagarhi | Muhammad Junagarhi | Urdu | Arabic | Ind | True | 6236 | Yes |
+| urdu-mufti-taqi-usmani | Muhammad Taqi Usmani | Urdu | Arabic | Ind | False | 6236 | No |
+| urdu-muhammad-hussain | Urdu Muhammad Hussain | Urdu | Arabic | Ind | False | 6236 | No |
+| urdu-muhammad-karam-shah | Urdu Muhammad Karam Shah | Urdu | Arabic | Ind | False | 6236 | No |
+| urdu-muhammad-tahir-ul-qadri | Urdu Muhammad Tahir Ul Qadri | Urdu | Arabic | Ind | False | 6236 | No |
+| urdu-shaykh-al-hind-mahmud-al-hasan | Urdu Shaykh Al Hind Mahmud Al Hasan | Urdu | Arabic | Ind | False | 6236 | No |
+| urdu-translation-al-maududi | Abul A'la Maududi | Urdu | Arabic | Ind | False | 6236 | Yes |
+| urdu-translation-fatah-muhammad-jalandhari | Fateh Muhammad Jalandhari | Urdu | Arabic | Ind | False | 6236 | Yes |
+| urdu-translation-maulana-wahiduddin-khan | Wahiduddin Khan | Urdu | Arabic | Ind | False | 6236 | Yes |
+| urdu-translation-urdu-sayyid-qatab | Urdu Translation Urdu Sayyid Qatab | Urdu | Arabic | Ind | False | 6236 | No |
+| urdu-zeeshan-jawadi | Urdu Zeeshan Jawadi | Urdu | Arabic | Ind | False | 6236 | No |
+| uyghur-saleh | Uyghur Saleh | Uyghur | Latin | Ind | False | 6236 | Yes |
+| uzbek-mansour | Alauddin Mansour | Uzbek | Cyrillic | Ind | True | 6236 | Yes |
+| uzbek-muhammad-sodik-muhammad-yusuf | Uzbek Muhammad Sodik Muhammad Yusuf | Uzbek | Cyrillic | Ind | False | 6236 | No |
+| uzbek-rwwad | Rwwad Translation Center | Uzbek | Cyrillic | Org | False | 6236 | Yes |
+| vietnamese-hasan-abdul-karim | Vietnamese Hasan Abdul Karim | Vietnamese | Latin | Ind | False | 6236 | No |
+| vietnamese-rwwad | Rwwad Translation Center | Vietnamese | Latin | Org | True | 6236 | Yes |
+| vietnamese-translation-rwwad-center-fr | Rwwad Translation Center | Vietnamese | Latin | Org | False | 6236 | Yes |
+| xhosa-imaam-ismaaeel-ngqoyiyana | Xhosa Imaam Ismaaeel Ngqoyiyana | Xhosa | Latin | Ind | False | 6236 | No |
+| yau-muhammad-bin-abdul-hamid-silika | Abdul Hamid Silika | Yau | Latin | Ind | False | 6236 | No |
+| yoruba-mikail | Yoruba Mikail | Yoruba | Latin | Ind | True | 6236 | Yes |
+| yoruba-shaykh-abu-rahimah-mikael-aykyuni | Yoruba Shaykh Abu Rahimah Mikael Aykyuni | Yoruba | Latin | Ind | False | 6236 | No |
+| zulu-iqembu-lezifundiswa | Zulu Iqembu Lezifundiswa | Zulu | Latin | Ind | False | 6236 | No |
 
 ## Tafsirs
 
-| Name of Work | Full Author Name | Language | Script |
-|--------------|------------------|----------|--------|
-| albanian-tafsir-as-saadi | Tafsir As Saadi | albanian | Arabic |
-| albanian-tafsir-tafsir-as-saadi | Tafsir Tafsir As Saadi | albanian | Arabic |
-| arabic-abu-bakr-jabir-al-jazairi | Abu Bakr Jabir Al Jazairi | arabic | Arabic |
-| arabic-adwa-al-bayan-muhammad-al-amin-al-shinqiti | Adwa Al Bayan Muhammad Al Amin Al Shinqiti | arabic | Arabic |
-| arabic-al-bahr-al-muhit-abu-hayyan-al-gharnati | Al Bahr Al Muhit Abu Hayyan Al Gharnati | arabic | Arabic |
-| arabic-al-basit-al-wahidi | Al Basit Al Wahidi | arabic | Arabic |
-| arabic-al-dur-al-masun-lil-samin-al-halabi-al-samin-al-halabi | Al Dur Al Masun Lil Samin Al Halabi Al Samin Al Halabi | arabic | Arabic |
-| arabic-al-durr-al-manthur-jalal-ad-din-as-suyuti | Al Durr Al Manthur Jalal Ad Din As Suyuti | arabic | Arabic |
-| arabic-al-jadwal-fi-i-rab-al-quran-mahmoud-bin-al-sharif-al-safi | Al Jadwal Fi I Rab Al Quran Mahmoud Bin Al Sharif Al Safi | arabic | Arabic |
-| arabic-al-kashshaf-al-zamakhshari | Al Kashshaf Al Zamakhshari | arabic | Arabic |
-| arabic-al-lubab-fi-ulum-al-kitab-ibn-adil-al-hanbali | Lubab Fi Ulum Kitab Ibn e Adil Hanbali | arabic | Arabic |
-| arabic-al-muharrar-al-wajiz-ibn-atiyyah | Muharrar Wajiz Ibn e Atiyyah | arabic | Arabic |
-| arabic-al-mukhtasar-in-interpreting-the-noble-quran | Al Mukhtasar In Interpreting The Noble Quran | arabic | Arabic |
-| arabic-al-muyassar-fi-al-gharib-king-fahd-complex | Al Muyassar Fi Al Gharib King Fahd Complex | arabic | Arabic |
-| arabic-al-nashr-li-ibn-al-jazari | Nashr Li Ibn e Jazari | arabic | Arabic |
-| arabic-al-qira-at-al-mawsoo-ah-al-qur-aniyyah | Al Qira At Al Mawsoo Ah Al Qur Aniyyah | arabic | Arabic |
-| arabic-al-wajiz-wahidi-al-wahidi | Al Wajiz Wahidi Al Wahidi | arabic | Arabic |
-| arabic-alrab-al-quran-li-da-as | Alrab Al Quran Li Da As | arabic | Arabic |
-| arabic-asseraj-fi-bayan-gharib-alquran | Asseraj Fi Bayan Gharib Alquran | arabic | Arabic |
-| arabic-ayah-dependency-graphs | Ayah Dependency Graphs | arabic | Arabic |
-| arabic-betaqat-suwar | Betaqat Suwar | arabic | Arabic |
-| arabic-fath-al-bayan-li-al-qanuji-siddiq-hasan-khan | Fath Al Bayan Li Al Qanuji Siddiq Hasan Khan | arabic | Arabic |
-| arabic-fath-al-qadir-al-shawkani | Fath Al Qadir Al Shawkani | arabic | Arabic |
-| arabic-i-rab-al-quran-li-al-darwish | I Rab Al Quran Li Al Darwish | arabic | Arabic |
-| arabic-iraab-al-muyassar-king-fahd-complex | Iraab Al Muyassar King Fahd Complex | arabic | Arabic |
-| arabic-mahasin-al-ta-wil-al-qasimi | Mahasin Al Ta Wil Al Qasimi | arabic | Arabic |
-| arabic-mawsoo-at-al-tafsir-al-ma-thoor | Mawsoo At Al Tafsir Al Ma Thoor | arabic | Arabic |
-| arabic-nazam-al-durar-al-biqa-i | Nazam Al Durar Al Biqa I | arabic | Arabic |
-| arabic-tafseer-al-baghawi | Tafseer Al Baghawi | arabic | Arabic |
-| arabic-tafseer-al-qurtubi | Al-Qurtubi | arabic | Arabic |
-| arabic-tafsir-abi-al-suaood | Tafsir Abi Al Suaood | arabic | Arabic |
-| arabic-tafsir-abu-bakr-jabir-al-jazairi | Tafsir Abu Bakr Jabir Al Jazairi | arabic | Arabic |
-| arabic-tafsir-al-alusi | Tafsir Al Alusi | arabic | Arabic |
-| arabic-tafsir-al-bahr-al-muhit | Tafsir Al Bahr Al Muhit | arabic | Arabic |
-| arabic-tafsir-al-basit | Tafsir Al Basit | arabic | Arabic |
-| arabic-tafsir-al-baydawi | Tafsir Al Baydawi | arabic | Arabic |
-| arabic-tafsir-al-dur-al-masun-lil-samin-al-halabi | Tafsir Al Dur Al Masun Lil Samin Al Halabi | arabic | Arabic |
-| arabic-tafsir-al-durr-al-manthur | Tafsir Al Durr Al Manthur | arabic | Arabic |
-| arabic-tafsir-al-jadwal-fi-i-rab-al-quran | Tafsir Al Jadwal Fi I Rab Al Quran | arabic | Arabic |
-| arabic-tafsir-al-kashshaf-al-zamakhshari | Tafsir Al Kashshaf Al Zamakhshari | arabic | Arabic |
-| arabic-tafsir-al-lubab-fi-ulum-al-kitab | Tafsir Al Lubab Fi Ulum Al Kitab | arabic | Arabic |
-| arabic-tafsir-al-mawardi | Tafsir Al Mawardi | arabic | Arabic |
-| arabic-tafsir-al-muharrar-al-wajiz-ibn-atiyyah | Ibn Atiyyah | arabic | Arabic |
-| arabic-tafsir-al-muyassar-fi-al-gharib | Tafsir Al Muyassar Fi Al Gharib | arabic | Arabic |
-| arabic-tafsir-al-nasafi | Tafsir Al Nasafi | arabic | Arabic |
-| arabic-tafsir-al-nashr-li-ibn-al-jazari | Tafsir Nashr Li Ibn e Jazari | arabic | Arabic |
-| arabic-tafsir-al-qira-at-al-mawsoo-ah-al-qur-aniyyah | Tafsir Al Qira At Al Mawsoo Ah Al Qur Aniyyah | arabic | Arabic |
-| arabic-tafsir-al-razi-fakhr-al-din-al-razi | Tafsir Al Razi Fakhr Al Din Al Razi | arabic | Arabic |
-| arabic-tafsir-al-sam-ani | Tafsir Al Sam Ani | arabic | Arabic |
-| arabic-tafsir-al-samarqandi | Tafsir Al Samarqandi | arabic | Arabic |
-| arabic-tafsir-al-tabari-ibn-jarir-al-tabari | Ibn Jarir al-Tabari | arabic | Arabic |
-| arabic-tafsir-al-tahrir-wa-al-tanwir-ibn-ashur | Tafsir Tahrir Wa Tanwir Ibn e Ashur | arabic | Arabic |
-| arabic-tafsir-al-tha-alibi | Tafsir Al Tha Alibi | arabic | Arabic |
-| arabic-tafsir-al-wajiz-wahidi | Tafsir Al Wajiz Wahidi | arabic | Arabic |
-| arabic-tafsir-al-wasit-muhammad-sayyid-tantawy | Tafsir Al Wasit Muhammad Sayyid Tantawy | arabic | Arabic |
-| arabic-tafsir-alrab-al-quran-li-da-as | Tafsir Alrab Al Quran Li Da As | arabic | Arabic |
-| arabic-tafsir-as-saadi | Tafsir As Saadi | arabic | Arabic |
-| arabic-tafsir-assamese-abridged-explanation-of-the-quran | Tafsir Assamese Abridged Explanation Of The Quran | arabic | Arabic |
-| arabic-tafsir-asseraj-fi-bayan-gharib-alquran | Tafsir Asseraj Fi Bayan Gharib Alquran | arabic | Arabic |
-| arabic-tafsir-ayah-dependency-graphs | Tafsir Ayah Dependency Graphs | arabic | Arabic |
-| arabic-tafsir-bengali-abridged-explanation-of-the-quran | Tafsir Bengali Abridged Explanation Of The Quran | arabic | Arabic |
-| arabic-tafsir-bosnian-abridged-explanation-of-the-quran | Tafsir Bosnian Abridged Explanation Of The Quran | arabic | Arabic |
-| arabic-tafsir-chinese-abridged-explanation-of-the-quran | Tafsir Chinese Abridged Explanation Of The Quran | arabic | Arabic |
-| arabic-tafsir-fath-al-bayan-li-al-qanuji | Tafsir Fath Al Bayan Li Al Qanuji | arabic | Arabic |
-| arabic-tafsir-fath-al-qadir-al-shawkani | Tafsir Fath Al Qadir Al Shawkani | arabic | Arabic |
-| arabic-tafsir-fi-zilal-al-quran | Tafsir Fi Zilal Al Quran | arabic | Arabic |
-| arabic-tafsir-filipino-tagalog-al-mukhtasar-in-interpreting-the-noble-quran | Tafsir Filipino Tagalog Al Mukhtasar In Interpreting The Noble Quran | arabic | Arabic |
-| arabic-tafsir-fulani-mokhtasar | Tafsir Fulani Mokhtasar | arabic | Arabic |
-| arabic-tafsir-hindi-mokhtasar | Tafsir Hindi Mokhtasar | arabic | Arabic |
-| arabic-tafsir-i-rab-al-quran-li-al-darwish | Tafsir I Rab Al Quran Li Al Darwish | arabic | Arabic |
-| arabic-tafsir-ibn-abi-hatim | Ibn Abi Hatim | arabic | Arabic |
-| arabic-tafsir-ibn-abi-zamanin | Ibn Abi Zamanin | arabic | Arabic |
-| arabic-tafsir-ibn-al-jawzi | Ibn al-Jawzi | arabic | Arabic |
-| arabic-tafsir-ibn-al-qayyim | Ibn al-Qayyim | arabic | Arabic |
-| arabic-tafsir-ibn-juzay | Ibn Juzay | arabic | Arabic |
-| arabic-tafsir-ibn-kathir | Ibn e Kathir | arabic | Arabic |
-| arabic-tafsir-indoniesua-al-mukhtasar-in-interpreting-the-noble-quran | Tafsir Indoniesua Al Mukhtasar In Interpreting The Noble Quran | arabic | Arabic |
-| arabic-tafsir-italian-al-mukhtasar-in-interpreting-the-noble-quran | Tafsir Italian Al Mukhtasar In Interpreting The Noble Quran | arabic | Arabic |
-| arabic-tafsir-jalalayn | Jalalayn | arabic | Arabic |
-| arabic-tafsir-jamia-al-bayan-aliji | Tafsir Jamia Al Bayan Aliji | arabic | Arabic |
-| arabic-tafsir-japanese-abridged-explanation-of-the-quran | Tafsir Japanese Abridged Explanation Of The Quran | arabic | Arabic |
-| arabic-tafsir-khmer-abridged-explanation-of-the-quran | Tafsir Khmer Abridged Explanation Of The Quran | arabic | Arabic |
-| arabic-tafsir-kurdish-mokhtasar | Tafsir Kurdish Mokhtasar | arabic | Arabic |
-| arabic-tafsir-kyrgyz-mokhtasar | Tafsir Kyrgyz Mokhtasar | arabic | Arabic |
-| arabic-tafsir-mahasin-al-ta-wil-al-qasimi | Tafsir Mahasin Al Ta Wil Al Qasimi | arabic | Arabic |
-| arabic-tafsir-makhi | Tafsir Makhi | arabic | Arabic |
-| arabic-tafsir-malayalam-abridged-explanation-of-the-quran | Tafsir Malayalam Abridged Explanation Of The Quran | arabic | Arabic |
-| arabic-tafsir-mawsoo-at-al-tafsir-al-ma-thoor | Tafsir Mawsoo At Al Tafsir Al Ma Thoor | arabic | Arabic |
-| arabic-tafsir-muyassar-king-fahd-complex | Tafsir Muyassar King Fahd Complex | arabic | Arabic |
-| arabic-tafsir-nazam-al-durar-al-biqa-i | Tafsir Nazam Al Durar Al Biqa I | arabic | Arabic |
-| arabic-tafsir-pashto-mokhtasar | Tafsir Pashto Mokhtasar | arabic | Arabic |
-| arabic-tafsir-persian-al-mukhtasar-in-interpreting-the-noble-quran | Tafsir Persian Al Mukhtasar In Interpreting The Noble Quran | arabic | Arabic |
-| arabic-tafsir-sinhalese-mokhtasar | Tafsir Sinhalese Mokhtasar | arabic | Arabic |
-| arabic-tafsir-spanish-abridged-explanation-of-the-quran | Tafsir Spanish Abridged Explanation Of The Quran | arabic | Arabic |
-| arabic-tafsir-tadabbur-wa-amal | Tafsir Tadabbur Wa Amal | arabic | Arabic |
-| arabic-tafsir-tafseer-al-baghawi | Tafsir Tafseer Al Baghawi | arabic | Arabic |
-| arabic-tafsir-tafseer-al-saddi | Tafsir Tafseer Al Saddi | arabic | Arabic |
-| arabic-tafsir-tafsir-abi-al-suaood | Tafsir Tafsir Abi Al Suaood | arabic | Arabic |
-| arabic-tafsir-tafsir-al-alusi | Tafsir Tafsir Al Alusi | arabic | Arabic |
-| arabic-tafsir-tafsir-al-baydawi | Tafsir Tafsir Al Baydawi | arabic | Arabic |
-| arabic-tafsir-tafsir-al-mawardi | Tafsir Tafsir Al Mawardi | arabic | Arabic |
-| arabic-tafsir-tafsir-al-nasafi | Tafsir Tafsir Al Nasafi | arabic | Arabic |
-| arabic-tafsir-tafsir-al-razi | Tafsir Tafsir Al Razi | arabic | Arabic |
-| arabic-tafsir-tafsir-al-sam-ani | Tafsir Tafsir Al Sam Ani | arabic | Arabic |
-| arabic-tafsir-tafsir-al-samarqandi | Tafsir Tafsir Al Samarqandi | arabic | Arabic |
-| arabic-tafsir-tafsir-al-tabari | Ibn Jarir al-Tabari | arabic | Arabic |
-| arabic-tafsir-tafsir-al-tahrir-wa-al-tanwir | Tafsir Tafsir Al Tahrir Wa Al Tanwir | arabic | Arabic |
-| arabic-tafsir-tafsir-al-tha-alibi | Tafsir Tafsir Al Tha Alibi | arabic | Arabic |
-| arabic-tafsir-tafsir-al-wasit | Tafsir Tafsir Al Wasit | arabic | Arabic |
-| arabic-tafsir-tafsir-ibn-abi-hatim | Tafsir Tafsir Ibn e Abi Hatim | arabic | Arabic |
-| arabic-tafsir-tafsir-ibn-abi-zamanin | Tafsir Tafsir Ibn e Abi Zamanin | arabic | Arabic |
-| arabic-tafsir-tafsir-ibn-al-jawzi | Tafsir Tafsir Ibn e Jawzi | arabic | Arabic |
-| arabic-tafsir-tafsir-ibn-juzay | Tafsir Tafsir Ibn e Juzay | arabic | Arabic |
-| arabic-tafsir-tafsir-ibn-kathir | Ibn e Kathir | arabic | Arabic |
-| arabic-tafsir-tafsir-ibn-uthaymeen | Tafsir Tafsir Ibn e Uthaymeen | arabic | Arabic |
-| arabic-tafsir-tafsir-jalalayn | Jalalayn | arabic | Arabic |
-| arabic-tafsir-tafsir-makhi | Tafsir Tafsir Makhi | arabic | Arabic |
-| arabic-tafsir-tahlil-kalimat-al-qur-an | Tafsir Tahlil Kalimat Al Qur An | arabic | Arabic |
-| arabic-tafsir-tamil-mokhtasar | Tafsir Tamil Mokhtasar | arabic | Arabic |
-| arabic-tafsir-tazkirul-quran-maulana-wahiduddin-khan | Tafsir Tazkirul Quran Maulana Wahiduddin Khan | arabic | Arabic |
-| arabic-tafsir-telugu-mokhtasar | Tafsir Telugu Mokhtasar | arabic | Arabic |
-| arabic-tafsir-thai-mokhtasar | Tafsir Thai Mokhtasar | arabic | Arabic |
-| arabic-tafsir-turkish-al-mukhtasar-in-interpreting-the-noble-quran | Tafsir Turkish Al Mukhtasar In Interpreting The Noble Quran | arabic | Arabic |
-| arabic-tafsir-uyghur-mokhtasar | Tafsir Uyghur Mokhtasar | arabic | Arabic |
-| arabic-tafsir-uzbek-mokhtasar | Tafsir Uzbek Mokhtasar | arabic | Arabic |
-| arabic-tahlil-kalimat-al-qur-an | Tahlil Kalimat Al Qur An | arabic | Arabic |
-| azerbaijani-mokhtasar | Mokhtasar | azerbaijani | Arabic |
-| bengali-abridged-explanation-of-the-quran | Abridged Explanation Of The Quran | bengali | Arabic |
-| bengali-tafsir-abu-bakr-zakaria | Tafsir Abu Bakr Zakaria | bengali | Arabic |
-| bengali-tafsir-ahsanul-bayaan | Tafsir Ahsanul Bayaan | bengali | Arabic |
-| bengali-tafsir-tafsir-abu-bakr-zakaria | Tafsir Tafsir Abu Bakr Zakaria | bengali | Arabic |
-| bengali-tafsir-tafsir-ahsanul-bayaan | Tafsir Tafsir Ahsanul Bayaan | bengali | Arabic |
-| bengali-tafsir-tafsir-fathul-majid | Tafsir Tafsir Fathul Majid | bengali | Arabic |
-| central-khmer-khmer-abridged-explanation-of-the-quran | Khmer Khmer Abridged Explanation Of The Quran | central | Arabic |
-| dutch-leemhuis | Leemhuis | dutch | Arabic |
-| dutch-siregar | Siregar | dutch | Arabic |
-| english-al-mukhtasar | Al Mukhtasar | english | Arabic |
-| english-al-qushairi-tafsir | Al Qushairi Tafsir | english | Arabic |
-| english-tafsir-ibn-kathir | Ibn e Kathir | english | Arabic |
-| english-tafsir-jalalayn | Jalalayn | english | Arabic |
-| english-tafsir-maarif-ul-quran | Tafsir Maarif Ul Quran | english | Arabic |
-| english-tafsir-saadi | Tafsir Saadi | english | Arabic |
-| english-tafsir-tafsir-ibne-kathir | Ibn e Kathir | english | Arabic |
-| english-tanwir-al-miqbas-english | Tanwir Al Miqbas English | english | Arabic |
-| fulah-fulani-mokhtasar | Fulani Mokhtasar | fulah | Arabic |
-| indonesian-tafsir-kemenag-ri | Tafsir Kemenag Ri | indonesian | Arabic |
-| kurdish-mokhtasar | Mokhtasar | kurdish | Arabic |
-| kurdish-rebar-kurdish-tafsir | Rebar Kurdish Tafsir | kurdish | Arabic |
-| kurdish-sorani-tafsir-rebar-kurdish-tafsir | Sorani Tafsir Rebar Kurdish Tafsir | kurdish | Arabic |
-| malayalam-tafsir-amani | Tafsir Amani | malayalam | Arabic |
-| pashto-mokhtasar | Mokhtasar | pashto | Arabic |
-| persian-al-mukhtasar-in-interpreting-the-noble-quran | Al Mukhtasar In Interpreting The Noble Quran | persian | Arabic |
-| persian-tafsir-as-saadi | Tafsir As Saadi | persian | Arabic |
-| russian-al-mukhtasar | Al Mukhtasar | russian | Arabic |
-| russian-tafsir-ibn-kathir | Ibn e Kathir | russian | Arabic |
-| russian-tafsir-russian-al-mukhtasar | Tafsir Russian Al Mukhtasar | russian | Arabic |
-| russian-tafsir-tafsir-ibne-kahtir | Ibn e Kathir | russian | Arabic |
-| serbian-mokhtasar | Mokhtasar | serbian | Arabic |
-| serbian-tafsir-serbian-mokhtasar | Tafsir Serbian Mokhtasar | serbian | Arabic |
-| sinhala-sinhalese-mokhtasar | Sinhalese Mokhtasar | sinhala | Arabic |
-| tamil-mokhtasar | Mokhtasar | tamil | Arabic |
-| telugu-mokhtasar | Mokhtasar | telugu | Arabic |
-| tgl-filipino-tagalog-al-mukhtasar-in-interpreting-the-noble-quran | Filipino Tagalog Al Mukhtasar In Interpreting The Noble Quran | tgl | Arabic |
-| thai-mokhtasar | Mokhtasar | thai | Arabic |
-| turkish-tafsir-ibn-kathir | Ibn e Kathir | turkish | Arabic |
-| uighur-uyghur-mokhtasar | Uyghur Mokhtasar | uighur | Arabic |
-| urdu-fi-zilal-al-quran-sayyid-qutb | Fi Zilal Al Quran Sayyid Qutb | urdu | Arabic |
-| urdu-tafheem-ul-quran-maududi | Abu Al Ala Maududi | urdu | Arabic |
-| urdu-tafsir-bayan-ul-quran-maulana-ashraf-ali-thanvi | Tafsir Bayan Ul Quran Maulana Ashraf Ali Thanvi | urdu | Arabic |
-| urdu-tafsir-e-usmani | Tafsir E Usmani | urdu | Arabic |
-| urdu-tafsir-ibn-kathir | Ibn e Kathir | urdu | Arabic |
-| urdu-tafsir-shaykh-al-hind-mahmud-al-hasan-with-tafsir-e-usmani | Tafsir Shaykh Al Hind Mahmud Al Hasan With Tafsir E Usmani | urdu | Arabic |
-| urdu-tafsir-tafseer-al-qurtubi | Al-Qurtubi | urdu | Arabic |
-| urdu-tafsir-tafsir-bayan-ul-quran | Tafsir Tafsir Bayan Ul Quran | urdu | Arabic |
-| urdu-tazkirul-quran-maulana-wahiduddin-khan | Tazkirul Quran Maulana Wahiduddin Khan | urdu | Arabic |
-| uzbek-mokhtasar | Mokhtasar | uzbek | Arabic |
+| Name of Work | Author (Canonical) | Language | Script | Path |
+|--------------|-------------------|----------|--------|------|
+| albanian-tafsir-as-saadi | Abdurrahman bin Nasir as-Sa'di | Albanian | Latin | tafsirs/albanian-tafsir-as-saadi |
+| arabic-abu-bakr-jabir-al-jazairi | Arabic Abu Bakr Jabir Al Jazairi | Arabic | Arabic | tafsirs/arabic-abu-bakr-jabir-al-jazairi |
+| arabic-adwa-al-bayan-muhammad-al-amin-al-shinqiti | Arabic Adwa Al Bayan Muhammad Al Amin Al Shinqiti | Arabic | Arabic | tafsirs/arabic-adwa-al-bayan-muhammad-al-amin-al-shinqiti |
+| arabic-al-bahr-al-muhit-abu-hayyan-al-gharnati | Arabic Al Bahr Al Muhit Abu Hayyan Al Gharnati | Arabic | Arabic | tafsirs/arabic-al-bahr-al-muhit-abu-hayyan-al-gharnati |
+| arabic-al-basit-al-wahidi | Arabic Al Basit Al Wahidi | Arabic | Arabic | tafsirs/arabic-al-basit-al-wahidi |
+| arabic-al-dur-al-masun-lil-samin-al-halabi-al-samin-al-halabi | Arabic Al Dur Al Masun Lil Samin Al Halabi Al Samin Al Halabi | Arabic | Arabic | tafsirs/arabic-al-dur-al-masun-lil-samin-al-halabi-al-samin-al-halabi |
+| arabic-al-durr-al-manthur-jalal-ad-din-as-suyuti | Arabic Al Durr Al Manthur Jalal Ad Din As Suyuti | Arabic | Arabic | tafsirs/arabic-al-durr-al-manthur-jalal-ad-din-as-suyuti |
+| arabic-al-jadwal-fi-i-rab-al-quran-mahmoud-bin-al-sharif-al-safi | Arabic Al Jadwal Fi I Rab Al Quran Mahmoud Bin Al Sharif Al Safi | Arabic | Arabic | tafsirs/arabic-al-jadwal-fi-i-rab-al-quran-mahmoud-bin-al-sharif-al-safi |
+| arabic-al-kashshaf-al-zamakhshari | Arabic Al Kashshaf Al Zamakhshari | Arabic | Arabic | tafsirs/arabic-al-kashshaf-al-zamakhshari |
+| arabic-al-lubab-fi-ulum-al-kitab-ibn-adil-al-hanbali | Arabic Al Lubab Fi Ulum Al Kitab Ibn Adil Al Hanbali | Arabic | Arabic | tafsirs/arabic-al-lubab-fi-ulum-al-kitab-ibn-adil-al-hanbali |
+| arabic-al-muharrar-al-wajiz-ibn-atiyyah | Arabic Al Muharrar Al Wajiz Ibn Atiyyah | Arabic | Arabic | tafsirs/arabic-al-muharrar-al-wajiz-ibn-atiyyah |
+| arabic-al-mukhtasar-in-interpreting-the-noble-quran | Arabic Al Mukhtasar In Interpreting The Noble Quran | Arabic | Arabic | tafsirs/arabic-al-mukhtasar-in-interpreting-the-noble-quran |
+| arabic-al-muyassar-fi-al-gharib-king-fahd-complex | Arabic Al Muyassar Fi Al Gharib King Fahd Complex | Arabic | Arabic | tafsirs/arabic-al-muyassar-fi-al-gharib-king-fahd-complex |
+| arabic-al-nashr-li-ibn-al-jazari | Arabic Al Nashr Li Ibn Al Jazari | Arabic | Arabic | tafsirs/arabic-al-nashr-li-ibn-al-jazari |
+| arabic-al-qira-at-al-mawsoo-ah-al-qur-aniyyah | Arabic Al Qira At Al Mawsoo Ah Al Qur Aniyyah | Arabic | Arabic | tafsirs/arabic-al-qira-at-al-mawsoo-ah-al-qur-aniyyah |
+| arabic-al-wajiz-wahidi-al-wahidi | Arabic Al Wajiz Wahidi Al Wahidi | Arabic | Arabic | tafsirs/arabic-al-wajiz-wahidi-al-wahidi |
+| arabic-alrab-al-quran-li-da-as | Arabic Alrab Al Quran Li Da As | Arabic | Arabic | tafsirs/arabic-alrab-al-quran-li-da-as |
+| arabic-asseraj-fi-bayan-gharib-alquran | Arabic Asseraj Fi Bayan Gharib Alquran | Arabic | Arabic | tafsirs/arabic-asseraj-fi-bayan-gharib-alquran |
+| arabic-ayah-dependency-graphs | Arabic Ayah Dependency Graphs | Arabic | Arabic | tafsirs/arabic-ayah-dependency-graphs |
+| arabic-betaqat-suwar | Arabic Betaqat Suwar | Arabic | Arabic | tafsirs/arabic-betaqat-suwar |
+| arabic-fath-al-bayan-li-al-qanuji-siddiq-hasan-khan | Arabic Fath Al Bayan Li Al Qanuji Siddiq Hasan Khan | Arabic | Arabic | tafsirs/arabic-fath-al-bayan-li-al-qanuji-siddiq-hasan-khan |
+| arabic-fath-al-qadir-al-shawkani | Arabic Fath Al Qadir Al Shawkani | Arabic | Arabic | tafsirs/arabic-fath-al-qadir-al-shawkani |
+| arabic-i-rab-al-quran-li-al-darwish | Arabic I Rab Al Quran Li Al Darwish | Arabic | Arabic | tafsirs/arabic-i-rab-al-quran-li-al-darwish |
+| arabic-iraab-al-muyassar-king-fahd-complex | Arabic Iraab Al Muyassar King Fahd Complex | Arabic | Arabic | tafsirs/arabic-iraab-al-muyassar-king-fahd-complex |
+| arabic-mahasin-al-ta-wil-al-qasimi | Arabic Mahasin Al Ta Wil Al Qasimi | Arabic | Arabic | tafsirs/arabic-mahasin-al-ta-wil-al-qasimi |
+| arabic-mawsoo-at-al-tafsir-al-ma-thoor | Arabic Mawsoo At Al Tafsir Al Ma Thoor | Arabic | Arabic | tafsirs/arabic-mawsoo-at-al-tafsir-al-ma-thoor |
+| arabic-nazam-al-durar-al-biqa-i | Arabic Nazam Al Durar Al Biqa I | Arabic | Arabic | tafsirs/arabic-nazam-al-durar-al-biqa-i |
+| arabic-tafseer-al-baghawi | Arabic Tafseer Al Baghawi | Arabic | Arabic | tafsirs/arabic-tafseer-al-baghawi |
+| arabic-tafseer-al-qurtubi | Arabic Tafseer Al Qurtubi | Arabic | Arabic | tafsirs/arabic-tafseer-al-qurtubi |
+| arabic-tafsir-abi-al-suaood | Arabic Tafsir Abi Al Suaood | Arabic | Arabic | tafsirs/arabic-tafsir-abi-al-suaood |
+| arabic-tafsir-abu-bakr-jabir-al-jazairi | Arabic Tafsir Abu Bakr Jabir Al Jazairi | Arabic | Arabic | tafsirs/arabic-tafsir-abu-bakr-jabir-al-jazairi |
+| arabic-tafsir-al-alusi | Arabic Tafsir Al Alusi | Arabic | Arabic | tafsirs/arabic-tafsir-al-alusi |
+| arabic-tafsir-al-bahr-al-muhit | Arabic Tafsir Al Bahr Al Muhit | Arabic | Arabic | tafsirs/arabic-tafsir-al-bahr-al-muhit |
+| arabic-tafsir-al-basit | Arabic Tafsir Al Basit | Arabic | Arabic | tafsirs/arabic-tafsir-al-basit |
+| arabic-tafsir-al-baydawi | Arabic Tafsir Al Baydawi | Arabic | Arabic | tafsirs/arabic-tafsir-al-baydawi |
+| arabic-tafsir-al-dur-al-masun-lil-samin-al-halabi | Arabic Tafsir Al Dur Al Masun Lil Samin Al Halabi | Arabic | Arabic | tafsirs/arabic-tafsir-al-dur-al-masun-lil-samin-al-halabi |
+| arabic-tafsir-al-durr-al-manthur | Arabic Tafsir Al Durr Al Manthur | Arabic | Arabic | tafsirs/arabic-tafsir-al-durr-al-manthur |
+| arabic-tafsir-al-jadwal-fi-i-rab-al-quran | Arabic Tafsir Al Jadwal Fi I Rab Al Quran | Arabic | Arabic | tafsirs/arabic-tafsir-al-jadwal-fi-i-rab-al-quran |
+| arabic-tafsir-al-kashshaf-al-zamakhshari | Arabic Tafsir Al Kashshaf Al Zamakhshari | Arabic | Arabic | tafsirs/arabic-tafsir-al-kashshaf-al-zamakhshari |
+| arabic-tafsir-al-lubab-fi-ulum-al-kitab | Arabic Tafsir Al Lubab Fi Ulum Al Kitab | Arabic | Arabic | tafsirs/arabic-tafsir-al-lubab-fi-ulum-al-kitab |
+| arabic-tafsir-al-mawardi | Arabic Tafsir Al Mawardi | Arabic | Arabic | tafsirs/arabic-tafsir-al-mawardi |
+| arabic-tafsir-al-muharrar-al-wajiz-ibn-atiyyah | Arabic Tafsir Al Muharrar Al Wajiz Ibn Atiyyah | Arabic | Arabic | tafsirs/arabic-tafsir-al-muharrar-al-wajiz-ibn-atiyyah |
+| arabic-tafsir-al-muyassar-fi-al-gharib | Arabic Tafsir Al Muyassar Fi Al Gharib | Arabic | Arabic | tafsirs/arabic-tafsir-al-muyassar-fi-al-gharib |
+| arabic-tafsir-al-nasafi | Arabic Tafsir Al Nasafi | Arabic | Arabic | tafsirs/arabic-tafsir-al-nasafi |
+| arabic-tafsir-al-nashr-li-ibn-al-jazari | Arabic Tafsir Al Nashr Li Ibn Al Jazari | Arabic | Arabic | tafsirs/arabic-tafsir-al-nashr-li-ibn-al-jazari |
+| arabic-tafsir-al-qira-at-al-mawsoo-ah-al-qur-aniyyah | Arabic Tafsir Al Qira At Al Mawsoo Ah Al Qur Aniyyah | Arabic | Arabic | tafsirs/arabic-tafsir-al-qira-at-al-mawsoo-ah-al-qur-aniyyah |
+| arabic-tafsir-al-razi-fakhr-al-din-al-razi | Arabic Tafsir Al Razi Fakhr Al Din Al Razi | Arabic | Arabic | tafsirs/arabic-tafsir-al-razi-fakhr-al-din-al-razi |
+| arabic-tafsir-al-sam-ani | Arabic Tafsir Al Sam Ani | Arabic | Arabic | tafsirs/arabic-tafsir-al-sam-ani |
+| arabic-tafsir-al-samarqandi | Arabic Tafsir Al Samarqandi | Arabic | Arabic | tafsirs/arabic-tafsir-al-samarqandi |
+| arabic-tafsir-al-tahrir-wa-al-tanwir-ibn-ashur | Arabic Tafsir Al Tahrir Wa Al Tanwir Ibn Ashur | Arabic | Arabic | tafsirs/arabic-tafsir-al-tahrir-wa-al-tanwir-ibn-ashur |
+| arabic-tafsir-al-tha-alibi | Arabic Tafsir Al Tha Alibi | Arabic | Arabic | tafsirs/arabic-tafsir-al-tha-alibi |
+| arabic-tafsir-al-wajiz-wahidi | Arabic Tafsir Al Wajiz Wahidi | Arabic | Arabic | tafsirs/arabic-tafsir-al-wajiz-wahidi |
+| arabic-tafsir-al-wasit-muhammad-sayyid-tantawy | Arabic Tafsir Al Wasit Muhammad Sayyid Tantawy | Arabic | Arabic | tafsirs/arabic-tafsir-al-wasit-muhammad-sayyid-tantawy |
+| arabic-tafsir-alrab-al-quran-li-da-as | Arabic Tafsir Alrab Al Quran Li Da As | Arabic | Arabic | tafsirs/arabic-tafsir-alrab-al-quran-li-da-as |
+| arabic-tafsir-as-saadi | Abdurrahman bin Nasir as-Sa'di | Arabic | Arabic | tafsirs/arabic-tafsir-as-saadi |
+| arabic-tafsir-assamese-abridged-explanation-of-the-quran | Arabic Tafsir Assamese Abridged Explanation Of The Quran | Arabic | Arabic | tafsirs/arabic-tafsir-assamese-abridged-explanation-of-the-quran |
+| arabic-tafsir-asseraj-fi-bayan-gharib-alquran | Arabic Tafsir Asseraj Fi Bayan Gharib Alquran | Arabic | Arabic | tafsirs/arabic-tafsir-asseraj-fi-bayan-gharib-alquran |
+| arabic-tafsir-ayah-dependency-graphs | Arabic Tafsir Ayah Dependency Graphs | Arabic | Arabic | tafsirs/arabic-tafsir-ayah-dependency-graphs |
+| arabic-tafsir-bengali-abridged-explanation-of-the-quran | Arabic Tafsir Bengali Abridged Explanation Of The Quran | Arabic | Arabic | tafsirs/arabic-tafsir-bengali-abridged-explanation-of-the-quran |
+| arabic-tafsir-bosnian-abridged-explanation-of-the-quran | Arabic Tafsir Bosnian Abridged Explanation Of The Quran | Arabic | Arabic | tafsirs/arabic-tafsir-bosnian-abridged-explanation-of-the-quran |
+| arabic-tafsir-chinese-abridged-explanation-of-the-quran | Arabic Tafsir Chinese Abridged Explanation Of The Quran | Arabic | Arabic | tafsirs/arabic-tafsir-chinese-abridged-explanation-of-the-quran |
+| arabic-tafsir-fath-al-bayan-li-al-qanuji | Arabic Tafsir Fath Al Bayan Li Al Qanuji | Arabic | Arabic | tafsirs/arabic-tafsir-fath-al-bayan-li-al-qanuji |
+| arabic-tafsir-fath-al-qadir-al-shawkani | Arabic Tafsir Fath Al Qadir Al Shawkani | Arabic | Arabic | tafsirs/arabic-tafsir-fath-al-qadir-al-shawkani |
+| arabic-tafsir-fi-zilal-al-quran | Arabic Tafsir Fi Zilal Al Quran | Arabic | Arabic | tafsirs/arabic-tafsir-fi-zilal-al-quran |
+| arabic-tafsir-filipino-tagalog-al-mukhtasar-in-interpreting-the-noble-quran | Arabic Tafsir Filipino Tagalog Al Mukhtasar In Interpreting The Noble Quran | Arabic | Arabic | tafsirs/arabic-tafsir-filipino-tagalog-al-mukhtasar-in-interpreting-the-noble-quran |
+| arabic-tafsir-fulani-mokhtasar | Arabic Tafsir Fulani Mokhtasar | Arabic | Arabic | tafsirs/arabic-tafsir-fulani-mokhtasar |
+| arabic-tafsir-hindi-mokhtasar | Arabic Tafsir Hindi Mokhtasar | Arabic | Arabic | tafsirs/arabic-tafsir-hindi-mokhtasar |
+| arabic-tafsir-i-rab-al-quran-li-al-darwish | Arabic Tafsir I Rab Al Quran Li Al Darwish | Arabic | Arabic | tafsirs/arabic-tafsir-i-rab-al-quran-li-al-darwish |
+| arabic-tafsir-ibn-abi-hatim | Arabic Tafsir Ibn Abi Hatim | Arabic | Arabic | tafsirs/arabic-tafsir-ibn-abi-hatim |
+| arabic-tafsir-ibn-abi-zamanin | Arabic Tafsir Ibn Abi Zamanin | Arabic | Arabic | tafsirs/arabic-tafsir-ibn-abi-zamanin |
+| arabic-tafsir-ibn-al-jawzi | Arabic Tafsir Ibn Al Jawzi | Arabic | Arabic | tafsirs/arabic-tafsir-ibn-al-jawzi |
+| arabic-tafsir-ibn-al-qayyim | Arabic Tafsir Ibn Al Qayyim | Arabic | Arabic | tafsirs/arabic-tafsir-ibn-al-qayyim |
+| arabic-tafsir-ibn-juzay | Arabic Tafsir Ibn Juzay | Arabic | Arabic | tafsirs/arabic-tafsir-ibn-juzay |
+| arabic-tafsir-ibn-kathir | Ibn Kathir | Arabic | Arabic | tafsirs/arabic-tafsir-ibn-kathir |
+| arabic-tafsir-ibn-uthaymeen | Arabic Tafsir Ibn Uthaymeen | Arabic | Arabic | tafsirs/arabic-tafsir-ibn-uthaymeen |
+| arabic-tafsir-indoniesua-al-mukhtasar-in-interpreting-the-noble-quran | Arabic Tafsir Indoniesua Al Mukhtasar In Interpreting The Noble Quran | Arabic | Arabic | tafsirs/arabic-tafsir-indoniesua-al-mukhtasar-in-interpreting-the-noble-quran |
+| arabic-tafsir-italian-al-mukhtasar-in-interpreting-the-noble-quran | Arabic Tafsir Italian Al Mukhtasar In Interpreting The Noble Quran | Arabic | Arabic | tafsirs/arabic-tafsir-italian-al-mukhtasar-in-interpreting-the-noble-quran |
+| arabic-tafsir-jalalayn | Jalal ad-Din al-Mahalli & Jalal ad-Din as-Suyuti | Arabic | Arabic | tafsirs/arabic-tafsir-jalalayn |
+| arabic-tafsir-jamia-al-bayan-aliji | Arabic Tafsir Jamia Al Bayan Aliji | Arabic | Arabic | tafsirs/arabic-tafsir-jamia-al-bayan-aliji |
+| arabic-tafsir-japanese-abridged-explanation-of-the-quran | Arabic Tafsir Japanese Abridged Explanation Of The Quran | Arabic | Arabic | tafsirs/arabic-tafsir-japanese-abridged-explanation-of-the-quran |
+| arabic-tafsir-khmer-abridged-explanation-of-the-quran | Arabic Tafsir Khmer Abridged Explanation Of The Quran | Arabic | Arabic | tafsirs/arabic-tafsir-khmer-abridged-explanation-of-the-quran |
+| arabic-tafsir-kurdish-mokhtasar | Arabic Tafsir Kurdish Mokhtasar | Arabic | Arabic | tafsirs/arabic-tafsir-kurdish-mokhtasar |
+| arabic-tafsir-kyrgyz-mokhtasar | Arabic Tafsir Kyrgyz Mokhtasar | Arabic | Arabic | tafsirs/arabic-tafsir-kyrgyz-mokhtasar |
+| arabic-tafsir-mahasin-al-ta-wil-al-qasimi | Arabic Tafsir Mahasin Al Ta Wil Al Qasimi | Arabic | Arabic | tafsirs/arabic-tafsir-mahasin-al-ta-wil-al-qasimi |
+| arabic-tafsir-makhi | Arabic Tafsir Makhi | Arabic | Arabic | tafsirs/arabic-tafsir-makhi |
+| arabic-tafsir-malayalam-abridged-explanation-of-the-quran | Arabic Tafsir Malayalam Abridged Explanation Of The Quran | Arabic | Arabic | tafsirs/arabic-tafsir-malayalam-abridged-explanation-of-the-quran |
+| arabic-tafsir-mawsoo-at-al-tafsir-al-ma-thoor | Arabic Tafsir Mawsoo At Al Tafsir Al Ma Thoor | Arabic | Arabic | tafsirs/arabic-tafsir-mawsoo-at-al-tafsir-al-ma-thoor |
+| arabic-tafsir-muyassar-king-fahd-complex | Arabic Tafsir Muyassar King Fahd Complex | Arabic | Arabic | tafsirs/arabic-tafsir-muyassar-king-fahd-complex |
+| arabic-tafsir-nazam-al-durar-al-biqa-i | Arabic Tafsir Nazam Al Durar Al Biqa I | Arabic | Arabic | tafsirs/arabic-tafsir-nazam-al-durar-al-biqa-i |
+| arabic-tafsir-pashto-mokhtasar | Arabic Tafsir Pashto Mokhtasar | Arabic | Arabic | tafsirs/arabic-tafsir-pashto-mokhtasar |
+| arabic-tafsir-persian-al-mukhtasar-in-interpreting-the-noble-quran | Arabic Tafsir Persian Al Mukhtasar In Interpreting The Noble Quran | Arabic | Arabic | tafsirs/arabic-tafsir-persian-al-mukhtasar-in-interpreting-the-noble-quran |
+| arabic-tafsir-sinhalese-mokhtasar | Arabic Tafsir Sinhalese Mokhtasar | Arabic | Arabic | tafsirs/arabic-tafsir-sinhalese-mokhtasar |
+| arabic-tafsir-spanish-abridged-explanation-of-the-quran | Arabic Tafsir Spanish Abridged Explanation Of The Quran | Arabic | Arabic | tafsirs/arabic-tafsir-spanish-abridged-explanation-of-the-quran |
+| arabic-tafsir-tadabbur-wa-amal | Arabic Tafsir Tadabbur Wa Amal | Arabic | Arabic | tafsirs/arabic-tafsir-tadabbur-wa-amal |
+| arabic-tafsir-tafseer-al-baghawi | Arabic Tafsir Tafseer Al Baghawi | Arabic | Arabic | tafsirs/arabic-tafsir-tafseer-al-baghawi |
+| arabic-tafsir-tafseer-al-saddi | Arabic Tafsir Tafseer Al Saddi | Arabic | Arabic | tafsirs/arabic-tafsir-tafseer-al-saddi |
+| arabic-tafsir-tafsir-abi-al-suaood | Arabic Tafsir Tafsir Abi Al Suaood | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-abi-al-suaood |
+| arabic-tafsir-tafsir-al-alusi | Arabic Tafsir Tafsir Al Alusi | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-al-alusi |
+| arabic-tafsir-tafsir-al-baydawi | Arabic Tafsir Tafsir Al Baydawi | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-al-baydawi |
+| arabic-tafsir-tafsir-al-mawardi | Arabic Tafsir Tafsir Al Mawardi | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-al-mawardi |
+| arabic-tafsir-tafsir-al-nasafi | Arabic Tafsir Tafsir Al Nasafi | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-al-nasafi |
+| arabic-tafsir-tafsir-al-razi | Arabic Tafsir Tafsir Al Razi | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-al-razi |
+| arabic-tafsir-tafsir-al-sam-ani | Arabic Tafsir Tafsir Al Sam Ani | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-al-sam-ani |
+| arabic-tafsir-tafsir-al-samarqandi | Arabic Tafsir Tafsir Al Samarqandi | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-al-samarqandi |
+| arabic-tafsir-tafsir-al-tabari | Arabic Tafsir Tafsir Al Tabari | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-al-tabari |
+| arabic-tafsir-tafsir-al-tahrir-wa-al-tanwir | Arabic Tafsir Tafsir Al Tahrir Wa Al Tanwir | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-al-tahrir-wa-al-tanwir |
+| arabic-tafsir-tafsir-al-tha-alibi | Arabic Tafsir Tafsir Al Tha Alibi | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-al-tha-alibi |
+| arabic-tafsir-tafsir-al-wasit | Arabic Tafsir Tafsir Al Wasit | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-al-wasit |
+| arabic-tafsir-tafsir-ibn-abi-hatim | Arabic Tafsir Tafsir Ibn Abi Hatim | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-ibn-abi-hatim |
+| arabic-tafsir-tafsir-ibn-abi-zamanin | Arabic Tafsir Tafsir Ibn Abi Zamanin | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-ibn-abi-zamanin |
+| arabic-tafsir-tafsir-ibn-al-jawzi | Arabic Tafsir Tafsir Ibn Al Jawzi | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-ibn-al-jawzi |
+| arabic-tafsir-tafsir-ibn-juzay | Arabic Tafsir Tafsir Ibn Juzay | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-ibn-juzay |
+| arabic-tafsir-tafsir-ibn-kathir | Ibn Kathir | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-ibn-kathir |
+| arabic-tafsir-tafsir-ibn-uthaymeen | Arabic Tafsir Tafsir Ibn Uthaymeen | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-ibn-uthaymeen |
+| arabic-tafsir-tafsir-makhi | Arabic Tafsir Tafsir Makhi | Arabic | Arabic | tafsirs/arabic-tafsir-tafsir-makhi |
+| arabic-tafsir-tahlil-kalimat-al-qur-an | Arabic Tafsir Tahlil Kalimat Al Qur An | Arabic | Arabic | tafsirs/arabic-tafsir-tahlil-kalimat-al-qur-an |
+| arabic-tafsir-tamil-mokhtasar | Arabic Tafsir Tamil Mokhtasar | Arabic | Arabic | tafsirs/arabic-tafsir-tamil-mokhtasar |
+| arabic-tafsir-tazkirul-quran-maulana-wahiduddin-khan | Wahiduddin Khan | Arabic | Arabic | tafsirs/arabic-tafsir-tazkirul-quran-maulana-wahiduddin-khan |
+| arabic-tafsir-telugu-mokhtasar | Arabic Tafsir Telugu Mokhtasar | Arabic | Arabic | tafsirs/arabic-tafsir-telugu-mokhtasar |
+| arabic-tafsir-thai-mokhtasar | Arabic Tafsir Thai Mokhtasar | Arabic | Arabic | tafsirs/arabic-tafsir-thai-mokhtasar |
+| arabic-tafsir-turkish-al-mukhtasar-in-interpreting-the-noble-quran | Arabic Tafsir Turkish Al Mukhtasar In Interpreting The Noble Quran | Arabic | Arabic | tafsirs/arabic-tafsir-turkish-al-mukhtasar-in-interpreting-the-noble-quran |
+| arabic-tafsir-uyghur-mokhtasar | Arabic Tafsir Uyghur Mokhtasar | Arabic | Arabic | tafsirs/arabic-tafsir-uyghur-mokhtasar |
+| arabic-tafsir-uzbek-mokhtasar | Arabic Tafsir Uzbek Mokhtasar | Arabic | Arabic | tafsirs/arabic-tafsir-uzbek-mokhtasar |
+| arabic-tahlil-kalimat-al-qur-an | Arabic Tahlil Kalimat Al Qur An | Arabic | Arabic | tafsirs/arabic-tahlil-kalimat-al-qur-an |
+| azerbaijani-mokhtasar | Azerbaijani Mokhtasar | Azerbaijani | Latin | tafsirs/azerbaijani-mokhtasar |
+| bengali-abridged-explanation-of-the-quran | Bengali Abridged Explanation Of The Quran | Bengali | Bengali | tafsirs/bengali-abridged-explanation-of-the-quran |
+| bengali-tafsir-abu-bakr-zakaria | Bengali Tafsir Abu Bakr Zakaria | Bengali | Bengali | tafsirs/bengali-tafsir-abu-bakr-zakaria |
+| bengali-tafsir-ahsanul-bayaan | Bengali Tafsir Ahsanul Bayaan | Bengali | Bengali | tafsirs/bengali-tafsir-ahsanul-bayaan |
+| bengali-tafsir-tafsir-abu-bakr-zakaria | Bengali Tafsir Tafsir Abu Bakr Zakaria | Bengali | Bengali | tafsirs/bengali-tafsir-tafsir-abu-bakr-zakaria |
+| bengali-tafsir-tafsir-ahsanul-bayaan | Bengali Tafsir Tafsir Ahsanul Bayaan | Bengali | Bengali | tafsirs/bengali-tafsir-tafsir-ahsanul-bayaan |
+| bengali-tafsir-tafsir-fathul-majid | Bengali Tafsir Tafsir Fathul Majid | Bengali | Bengali | tafsirs/bengali-tafsir-tafsir-fathul-majid |
+| central-khmer-khmer-abridged-explanation-of-the-quran | Central Khmer Khmer Abridged Explanation Of The Quran | Central | Latin | tafsirs/central-khmer-khmer-abridged-explanation-of-the-quran |
+| dutch-leemhuis | Dutch Leemhuis | Dutch | Latin | tafsirs/dutch-leemhuis |
+| dutch-siregar | Dutch Siregar | Dutch | Latin | tafsirs/dutch-siregar |
+| english-al-mukhtasar | English Al Mukhtasar | English | Latin | tafsirs/english-al-mukhtasar |
+| english-al-qushairi-tafsir | English Al Qushairi Tafsir | English | Latin | tafsirs/english-al-qushairi-tafsir |
+| english-tafsir-ibn-kathir | Ibn Kathir | English | Latin | tafsirs/english-tafsir-ibn-kathir |
+| english-tafsir-jalalayn | Jalal ad-Din al-Mahalli & Jalal ad-Din as-Suyuti | English | Latin | tafsirs/english-tafsir-jalalayn |
+| english-tafsir-maarif-ul-quran | English Tafsir Maarif Ul Quran | English | Latin | tafsirs/english-tafsir-maarif-ul-quran |
+| english-tafsir-saadi | English Tafsir Saadi | English | Latin | tafsirs/english-tafsir-saadi |
+| english-tanwir-al-miqbas-english | English Tanwir Al Miqbas English | English | Latin | tafsirs/english-tanwir-al-miqbas-english |
+| fulah-fulani-mokhtasar | Fulah Fulani Mokhtasar | Fulah | Latin | tafsirs/fulah-fulani-mokhtasar |
+| indonesian-tafsir-kemenag-ri | Indonesian Tafsir Kemenag Ri | Indonesian | Latin | tafsirs/indonesian-tafsir-kemenag-ri |
+| kurdish-mokhtasar | Kurdish Mokhtasar | Kurdish | Arabic | tafsirs/kurdish-mokhtasar |
+| kurdish-rebar-kurdish-tafsir | Kurdish Rebar Kurdish Tafsir | Kurdish | Arabic | tafsirs/kurdish-rebar-kurdish-tafsir |
+| kurdish-sorani-tafsir-rebar-kurdish-tafsir | Kurdish Sorani Tafsir Rebar Kurdish Tafsir | Kurdish | Arabic | tafsirs/kurdish-sorani-tafsir-rebar-kurdish-tafsir |
+| malayalam-tafsir-amani | Malayalam Tafsir Amani | Malayalam | Malayalam | tafsirs/malayalam-tafsir-amani |
+| pashto-mokhtasar | Pashto Mokhtasar | Pashto | Arabic | tafsirs/pashto-mokhtasar |
+| persian-al-mukhtasar-in-interpreting-the-noble-quran | Persian Al Mukhtasar In Interpreting The Noble Quran | Persian | Arabic | tafsirs/persian-al-mukhtasar-in-interpreting-the-noble-quran |
+| persian-tafsir-as-saadi | Abdurrahman bin Nasir as-Sa'di | Persian | Arabic | tafsirs/persian-tafsir-as-saadi |
+| russian-al-mukhtasar | Russian Al Mukhtasar | Russian | Cyrillic | tafsirs/russian-al-mukhtasar |
+| russian-tafsir-ibn-kathir | Ibn Kathir | Russian | Cyrillic | tafsirs/russian-tafsir-ibn-kathir |
+| russian-tafsir-russian-al-mukhtasar | Russian Tafsir Russian Al Mukhtasar | Russian | Cyrillic | tafsirs/russian-tafsir-russian-al-mukhtasar |
+| serbian-mokhtasar | Serbian Mokhtasar | Serbian | Latin | tafsirs/serbian-mokhtasar |
+| serbian-tafsir-serbian-mokhtasar | Serbian Tafsir Serbian Mokhtasar | Serbian | Latin | tafsirs/serbian-tafsir-serbian-mokhtasar |
+| sinhala-sinhalese-mokhtasar | Sinhala Sinhalese Mokhtasar | Sinhala | Latin | tafsirs/sinhala-sinhalese-mokhtasar |
+| tamil-mokhtasar | Tamil Mokhtasar | Tamil | Tamil | tafsirs/tamil-mokhtasar |
+| telugu-mokhtasar | Telugu Mokhtasar | Telugu | Telugu | tafsirs/telugu-mokhtasar |
+| tgl-filipino-tagalog-al-mukhtasar-in-interpreting-the-noble-quran | Tgl Filipino Tagalog Al Mukhtasar In Interpreting The Noble Quran | Tgl | Latin | tafsirs/tgl-filipino-tagalog-al-mukhtasar-in-interpreting-the-noble-quran |
+| thai-mokhtasar | Thai Mokhtasar | Thai | Thai | tafsirs/thai-mokhtasar |
+| turkish-ibnikesir | Ibn Kathir | Turkish | Latin | tafsirs/turkish-ibnikesir |
+| turkish-tafsir-ibn-kathir | Ibn Kathir | Turkish | Latin | tafsirs/turkish-tafsir-ibn-kathir |
+| uighur-uyghur-mokhtasar | Uighur Uyghur Mokhtasar | Uighur | Arabic | tafsirs/uighur-uyghur-mokhtasar |
+| urdu-fi-zilal-al-quran-sayyid-qutb | Urdu Fi Zilal Al Quran Sayyid Qutb | Urdu | Arabic | tafsirs/urdu-fi-zilal-al-quran-sayyid-qutb |
+| urdu-tafheem-ul-quran-maududi | Abul A'la Maududi | Urdu | Arabic | tafsirs/urdu-tafheem-ul-quran-maududi |
+| urdu-tafsir-as-saadi | Abdurrahman bin Nasir as-Sa'di | Urdu | Arabic | tafsirs/urdu-tafsir-as-saadi |
+| urdu-tafsir-bayan-ul-quran-maulana-ashraf-ali-thanvi | Urdu Tafsir Bayan Ul Quran Maulana Ashraf Ali Thanvi | Urdu | Arabic | tafsirs/urdu-tafsir-bayan-ul-quran-maulana-ashraf-ali-thanvi |
+| urdu-tafsir-e-usmani | Urdu Tafsir E Usmani | Urdu | Arabic | tafsirs/urdu-tafsir-e-usmani |
+| urdu-tafsir-ibn-kathir | Ibn Kathir | Urdu | Arabic | tafsirs/urdu-tafsir-ibn-kathir |
+| urdu-tafsir-shaykh-al-hind-mahmud-al-hasan-with-tafsir-e-usmani | Urdu Tafsir Shaykh Al Hind Mahmud Al Hasan With Tafsir E Usmani | Urdu | Arabic | tafsirs/urdu-tafsir-shaykh-al-hind-mahmud-al-hasan-with-tafsir-e-usmani |
+| urdu-tafsir-tafseer-al-qurtubi | Urdu Tafsir Tafseer Al Qurtubi | Urdu | Arabic | tafsirs/urdu-tafsir-tafseer-al-qurtubi |
+| urdu-tafsir-tafsir-bayan-ul-quran | Urdu Tafsir Tafsir Bayan Ul Quran | Urdu | Arabic | tafsirs/urdu-tafsir-tafsir-bayan-ul-quran |
+| urdu-tazkirul-quran-maulana-wahiduddin-khan | Wahiduddin Khan | Urdu | Arabic | tafsirs/urdu-tazkirul-quran-maulana-wahiduddin-khan |
+| uzbek-mokhtasar | Uzbek Mokhtasar | Uzbek | Cyrillic | tafsirs/uzbek-mokhtasar |
