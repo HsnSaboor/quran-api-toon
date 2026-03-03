@@ -106,7 +106,7 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 112,pashto-badkhashani,Zakaria Abulsalam,Zakaria Abulsalam,pashto,Arabic,rtl,translations/pashto-badkhashani,false
 113,pashto-rwwad,Rwwad,Rwwad Centre for Translation,pashto,Arabic,rtl,translations/pashto-rwwad,false
 114,pashto-sarfaraz,Sarfaraz,Sarfaraz,pashto,Arabic,rtl,translations/pashto-sarfaraz,false
-115,persian-hamza,Hussein Taji Kal Dari,Hussein Taji Kal Dari,afar,Latin,ltr,translations/persian-hamza,false
+115,persian-hamza,Hussein Taji Kal Dari,Hussein Taji Kal Dari,persian,Latin,ltr,translations/persian-hamza,false
 116,polish-bielawski,Józef Bielawski,Józef Bielawski,polish,Latin,ltr,translations/polish-bielawski,false
 117,portuguese-nasr,Helmi Nasr,Helmi Nasr,portuguese,Latin,ltr,translations/portuguese-nasr,false
 118,portuguese-samir,Portuguese Translation( Samir ),Samir El-Hayek,portuguese,Latin,ltr,translations/portuguese-samir,false
@@ -116,7 +116,7 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 122,rundi-gehiti,Gehiti (Notes),Gehiti,rundi,Latin,ltr,translations/rundi-gehiti,false
 123,russian-aboadel,Abu Adel,Abu Adel,russian,Cyrillic,ltr,translations/russian-aboadel,false
 124,russian-abu-adel,Abu Adel (Notes),Abu Adel,russian,Cyrillic,ltr,translations/russian-abu-adel,false
-125,russian-awqaf-egypt,"Ministry of Awqaf, Egypt","Ministry of Awqaf, Egypt",russian,Cyrillic,ltr,Cyrillic,ltr,translations/russian-awqaf-egypt,true
+125,russian-awqaf-egypt,"Ministry of Awqaf, Egypt","Ministry of Awqaf, Egypt",russian,Cyrillic,ltr,translations/russian-awqaf-egypt,true
 126,russian-kuliev,Russian Translation ( Elmir Kuliev ),Elmir Kuliev,russian,Cyrillic,ltr,translations/russian-kuliev,false
 127,russian-osmanov,Osmanov (Notes),Osmanov,russian,Cyrillic,ltr,translations/russian-osmanov,false
 128,russian-sablukov,Sablukov (Notes),Sablukov,russian,Cyrillic,ltr,translations/russian-sablukov,false
@@ -125,11 +125,11 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 131,sindhi-amroti,Taj Mehmood Amroti,Taj Mehmood Amroti,sindhi,Arabic,rtl,translations/sindhi-amroti,false
 132,somali-yacoub,Yacoub (Notes),Yacoub,somali,Latin,ltr,translations/somali-yacoub,true
 133,spanish-cortes,Julio Cortes (Notes),Julio Cortes,spanish,Latin,ltr,translations/spanish-cortes,false
-134,spanish-garcia,Sheikh Isa Garcia,Sheikh Isa Garcia,spanish,Arabic,rtl,translations/spanish-garcia,true
-135,spanish-ismaeel,Ismaeel,Ismaeel,twi,Latin,ltr,translations/spanish-ismaeel,false
+134,spanish-garcia,Sheikh Isa Garcia,Sheikh Isa Garcia,spanish,Latin,ltr,translations/spanish-garcia,true
+135,spanish-ismaeel,Ismaeel,Ismaeel,spanish,Latin,ltr,translations/spanish-ismaeel,false
 136,spanish-rwwad,Rwwad,Rwwad Centre for Translation,spanish,Latin,ltr,translations/spanish-rwwad,false
 137,swahili-barwani,Ali Muhsin Al-Barwani,Ali Muhsin Al-Barwani,swahili,Latin,ltr,translations/swahili-barwani,false
-138,swahili-ghali,Ghali,Ghali,oromo,Latin,ltr,translations/swahili-ghali,false
+138,swahili-ghali,Ghali,Ghali,swahili,Latin,ltr,translations/swahili-ghali,false
 139,swahili-rwwad,Rwwad,Rwwad Centre for Translation,swahili,Latin,ltr,translations/swahili-rwwad,false
 140,swedish-bernstrom,Knut Bernström,Knut Bernström,swedish,Latin,ltr,translations/swedish-bernstrom,false
 141,tajik-khawaja-mir,Khawaja Mirof & Khawaja Mir,Khawaja Mirof & Khawaja Mir,tajik,Cyrillic,ltr,translations/tajik-khawaja-mir,false
@@ -207,17 +207,17 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 220,catalan-youssef-lyoussi,Youssef Lyoussi,Youssef Lyoussi,catalan,Latin,ltr,translations/catalan-youssef-lyoussi,false
 221,chewa-al-haji-yusuf-muhammad,Al Haji Yusuf Muhammad,al Haji Yusuf Muhammad,chewa,Latin,ltr,translations/chewa-al-haji-yusuf-muhammad,false
 222,chewa-khaled-ibrahim-betala,Khaled Ibrahim Betala,Khaled Ibrahim Betala,chewa,Latin,ltr,translations/chewa-khaled-ibrahim-betala,false
-223,chinese-ma-jian,Ma Jian (Rwwad),Ma Jian,chinese,Latin,ltr,translations/chinese-ma-jian,false
-224,chinese-ma-zhong-gang,Ma Zhong Gang,Ma Zhong Gang,chinese,Latin,ltr,translations/chinese-ma-zhong-gang,false
+223,chinese-ma-jian,Ma Jian (Rwwad),Ma Jian,chinese,Chinese,ltr,translations/chinese-ma-jian,false
+224,chinese-ma-zhong-gang,Ma Zhong Gang,Ma Zhong Gang,chinese,Chinese,ltr,translations/chinese-ma-zhong-gang,false
 225,croatian-mustafa-mlivo,Mustafa Mlivo,Mustafa Mlivo,croatian,Latin,ltr,translations/croatian-mustafa-mlivo,false
 226,czech-arnykl,Arnykl,Arnykl,czech,Latin,ltr,translations/czech-arnykl,false
 227,czech-hadi-abdollahian,Hadi Abdollahian,Hadi Abdollahian,czech,Latin,ltr,translations/czech-hadi-abdollahian,false
 228,czech-prekladihrbek,Prekladihrbek,Prekladihrbek,czech,Latin,ltr,translations/czech-prekladihrbek,false
 229,dagbani-muhammad-baba-ghtani,Muhammad Baba Ghtani,Muhammad Baba Ghtani,dagbani,Latin,ltr,translations/dagbani-muhammad-baba-ghtani,false
 230,danish-hadi-abdollahian,Hadi Abdollahian,Hadi Abdollahian,danish,Latin,ltr,translations/danish-hadi-abdollahian,false
-231,dari-mawlawi-muhammad-anwar-badkhashani,Mawlawi Muhammad Anwar Badkhashani,Mawlawi Muhammad Anwar Badkhashani,dari,Latin,ltr,translations/dari-mawlawi-muhammad-anwar-badkhashani,false
+231,dari-mawlawi-muhammad-anwar-badkhashani,Mawlawi Muhammad Anwar Badkhashani,Mawlawi Muhammad Anwar Badkhashani,dari,Arabic,rtl,translations/dari-mawlawi-muhammad-anwar-badkhashani,false
 232,dayak-kanayatn-rowwad,Rwwad Centre for Translation,Rwwad Centre for Translation,dayak,Latin,ltr,translations/dayak-kanayatn-rowwad,false
-233,divehi-officeofthepres,Office of the president of Maldives,Office of the president of Maldives,divehi,Latin,ltr,translations/divehi-officeofthepres,false
+233,divehi-officeofthepres,Office of the president of Maldives,Office of the president of Maldives,divehi,Thaana,rtl,translations/divehi-officeofthepres,false
 234,dutch-center,Islamic Center (Notes),Islamic Center,dutch,Latin,ltr,translations/dutch-center,true
 235,dutch-fred-leemhuis,Fred Leemhuis,Fred Leemhuis,dutch,Latin,ltr,translations/dutch-fred-leemhuis,false
 236,dutch-salomo-keyzer,Salomo Keyzer,Salomo Keyzer,dutch,Latin,ltr,translations/dutch-salomo-keyzer,false
@@ -298,15 +298,15 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 311,japanese-ryoichi-mita,Ryoichi Mita (Simple),Ryoichi Mita,japanese,Japanese,ltr,translations/japanese-ryoichi-mita,false
 312,japanese-saeedsato,Ohtsuki (Notes),Sa'eed Ohtsuki,japanese,Japanese,ltr,translations/japanese-saeedsato,true
 313,javanese-muhammad-adnan,Muhammad Adnan,Muhammad Adnan,javanese,Latin,ltr,translations/javanese-muhammad-adnan,false
-314,kannada-abdussalam-puthige,Abdussalam Puthige,Abdussalam Puthige,kannada,Latin,ltr,translations/kannada-abdussalam-puthige,true
+314,kannada-abdussalam-puthige,Abdussalam Puthige,Abdussalam Puthige,kannada,Kannada,ltr,translations/kannada-abdussalam-puthige,true
 315,kannada-hamza,Hamza,Hamza,kannada,Kannada,ltr,translations/kannada-hamza,true
 316,kazakh-khalifa-altay,Khalifa Altay,Khalifa Altay,kazakh,Cyrillic,ltr,translations/kazakh-khalifa-altay,false
 317,khmer-cambodia,Cambodia,Cambodia,khmer,Khmer,ltr,translations/khmer-cambodia,false
 318,kinyarwanda-rwandamuslimsas,Rwandamuslimsas,Rwandamuslimsas,kinyarwanda,Latin,ltr,translations/kinyarwanda-rwandamuslimsas,false
-319,korean-hamid-choi-complex,Hamid Choi Complex,Hamid Choi Complex,korean,Latin,ltr,translations/korean-hamid-choi-complex,false
-320,kurdish-muhammad-saleh-bamoki,Muhammad Saleh Bamoki,Muhammad Saleh Bamoki,kurdish,Latin,ltr,translations/kurdish-muhammad-saleh-bamoki,false
+319,korean-hamid-choi-complex,Hamid Choi Complex,Hamid Choi Complex,korean,Korean,ltr,translations/korean-hamid-choi-complex,false
+320,kurdish-muhammad-saleh-bamoki,Muhammad Saleh Bamoki,Muhammad Saleh Bamoki,kurdish,Arabic,rtl,translations/kurdish-muhammad-saleh-bamoki,false
 321,kurmanji-abdullah-varli,Abdullah Varli,Abdullah Varli,kurmanji,Latin,ltr,translations/kurmanji-abdullah-varli,false
-322,kyrgyz-shams-al-din-hakim,Shams al Din Hakim,Shams al Din Hakim,kyrgyz,Latin,ltr,translations/kyrgyz-shams-al-din-hakim,false
+322,kyrgyz-shams-al-din-hakim,Shams al Din Hakim,Shams al Din Hakim,kyrgyz,Cyrillic,ltr,translations/kyrgyz-shams-al-din-hakim,false
 323,latin-hadi-abdollahian,Hadi Abdollahian,Hadi Abdollahian,latin,Latin,ltr,translations/latin-hadi-abdollahian,false
 324,lingala-zakaria,Abu Bakr Muhammad Zakaria,Abu Bakr Muhammad Zakaria,lingala,Latin,ltr,translations/lingala-zakaria,true
 325,lithuanian-rwwad,Rwwad,Rwwad Centre for Translation,lithuanian,Latin,ltr,translations/lithuanian-rwwad,true
@@ -341,7 +341,7 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 354,russian-gordy-semyonovich-sablukov,Sablukov (Simple),Gordy Semyonovich Sablukov,russian,Cyrillic,ltr,translations/russian-gordy-semyonovich-sablukov,false
 355,russian-ignaty-yulianovich-krachkovsky,Krachkovsky,Ignaty Yulianovich Krachkovsky,russian,Cyrillic,ltr,translations/russian-ignaty-yulianovich-krachkovsky,false
 356,russian-magomed-nuri-osmanovich-osmanov,Osmanov (Simple),Magomed Nuri Osmanovich Osmanov,russian,Cyrillic,ltr,translations/russian-magomed-nuri-osmanovich-osmanov,false
-357,russian-ministry-of-awqaf-egypt,Awqaf Egypt (Simple),Ministry Of Awqaf (egypt),russian,Cyrillic,ltr,Cyrillic,ltr,translations/russian-ministry-of-awqaf-egypt,false
+357,russian-ministry-of-awqaf-egypt,Awqaf Egypt (Simple),Ministry Of Awqaf (egypt),russian,Cyrillic,ltr,translations/russian-ministry-of-awqaf-egypt,false
 358,russian-valeriya-porokhova,Porokhova,Valeriya Porokhova,russian,Cyrillic,ltr,translations/russian-valeriya-porokhova,false
 359,serbian-rwwad,Rwwad,Rwwad Centre for Translation,serbian,Latin,ltr,translations/serbian-rwwad,false
 360,shona-abdullah-j-madini,Abdullah J Madini,Abdullah J Madini,shona,Latin,ltr,translations/shona-abdullah-j-madini,false
