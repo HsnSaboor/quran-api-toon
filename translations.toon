@@ -31,9 +31,9 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 37,english-abdul-haleem,M.A.S. Abdel Haleem,Abdul Haleem,english,Latin,ltr,translations/english-abdul-haleem,false
 38,english-arberry,A. J. Arberry,A. J. Arberry,english,Latin,ltr,translations/english-arberry,false
 39,english-asad,Asad,Muhammad Asad,english,Latin,ltr,translations/english-asad,false
- 40,english-dar-al-salam,Dar Al Salam,Dar Al Salam Publications,filipino,Latin,ltr,translations/english-dar-al-salam,false
+40,english-dar-al-salam,Dar Al Salam Center,Dar Al-Salam Center,filipino,Latin,ltr,translations/english-dar-al-salam,false
 41,english-daryabadi,Abdul Majid Daryabadi,Abdul Majid Daryabadi,english,Latin,ltr,translations/english-daryabadi,false
-42,english-fadel-soliman,Fadel Soliman, Bridges' translation,Fadel Soliman,english,Latin,ltr,translations/english-fadel-soliman,true
+42,english-fadel-soliman,Fadel Soliman, Bridges’ translation,Fadel Soliman,english,Latin,ltr,translations/english-fadel-soliman,true
 43,english-ghali,Muhammad Mahmoud Ghali,Muhammad Mahmoud Ghali,english,Latin,ltr,translations/english-ghali,false
 44,english-hilali-khan,Al-Hilali & Khan,Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan,english,Arabic,rtl,translations/english-hilali-khan,true
 45,english-irving,T. B. Irving,T. B. Irving,english,Latin,ltr,translations/english-irving,false
@@ -41,7 +41,7 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 47,english-muhsin-khan,Muhsin Khan,Muhammad Muhsin Khan & Muhammad Taqi ud Din al Hilali,english,Latin,ltr,translations/english-muhsin-khan,false
 48,english-pickthall,M. Pickthall,Mohammed Marmaduke William Pickthall,english,Latin,ltr,translations/english-pickthall,false
 49,english-qaribullah,Hasan Qaribullah,Hasan Qaribullah,english,Latin,ltr,translations/english-qaribullah,false
-50,english-rwwad,Rwwad,Rwwad Centre for Translation,sinhala,Sinhala,ltr,translations/english-rwwad,false
+50,english-rwwad,Ruwwad Center,Translation Pioneers Center,sinhala,Sinhala,ltr,translations/english-rwwad,false
 51,english-saheeh,Saheeh International,Saheeh International,english,Latin,ltr,translations/english-saheeh,true
 52,english-sarwar,Muhammad Sarwar,Muhammad Sarwar,english,Latin,ltr,translations/english-sarwar,false
 53,english-shakir,Mohammad Habib Shakir,Mohammad Habib Shakir,english,Latin,ltr,translations/english-shakir,false
@@ -149,7 +149,7 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 155,turkish-hamidullah,Hamidullah,Muhammad Hamidullah,turkish,Latin,ltr,translations/turkish-hamidullah,true
 156,turkish-icl,Icl,Icl,turkish,Latin,ltr,translations/turkish-icl,true
 157,turkish-nahi,Nahi,Nahi,turkish,Latin,ltr,translations/turkish-nahi,true
-158,turkish-noor,Noor,Noor,turkish,Latin,ltr,translations/turkish-noor,true
+158,turkish-noor,Noor International Center,Noor International Center,turkish,Latin,ltr,translations/turkish-noor,true
 159,turkish-yazir,Elmalili Hamdi Yazir,Elmalili Hamdi Yazir,turkish,Latin,ltr,translations/turkish-yazir,false
  160,urdu-dar-al-salam,Dar Al-Salam Center,Dar Al-Salam Center,bosnian,Latin,ltr,translations/urdu-dar-al-salam,false
 161,urdu-israr,Bayan-ul-Quran,Dr. Israr Ahmad,urdu,Arabic,rtl,translations/urdu-israr,false
@@ -158,9 +158,9 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 164,urdu-maududi,Tafheem e Qur'an - Syed Abu Ali Maududi,Syed Abu Ali Maududi,urdu,Arabic,rtl,translations/urdu-maududi,true
 165,urdu-maududi-roman,Abul Ala Maududi(Roman Urdu),Abul Ala Maududi,urdu,Latin,ltr,translations/urdu-maududi-roman,false
 166,urdu-qutb,Fe Zilal al-Qur'an,Sayyid Ibrahim Qutb,urdu,Arabic,rtl,translations/urdu-qutb,false
- 167,urdu-rwwad,Rwwad Centre for Translation,Rwwad Centre for Translation,english,Latin,ltr,translations/urdu-rwwad,false
-168,urdu-taqi-usmani,Mufti Taqi Usmani,Mufti Taqi Usmani,english,Latin,ltr,translations/urdu-taqi-usmani,true
-169,urdu-usmani,Shaykh al-Hind Mahmud al-Hasan (with Tafsir E Usmani),Shaykh al-Hind Mahmud al-Hasan,urdu,Arabic,rtl,translations/urdu-usmani,true
+167,urdu-rwwad,Ruwwad Center,Translation Pioneers Center,english,Latin,ltr,translations/urdu-rwwad,false
+168,urdu-taqi-usmani,T. Usmani,Mufti Taqi Usmani,english,Latin,ltr,translations/urdu-taqi-usmani,true
+169,urdu-usmani,Shaykh al-Hind Mahmud al-Hasan(with Tafsir E Usmani),Shaykh al-Hind Mahmud al-Hasan,urdu,Arabic,rtl,translations/urdu-usmani,true
 170,urdu-wahiduddin,Maulana Wahiduddin Khan,Maulana Wahiduddin Khan,urdu,Arabic,rtl,translations/urdu-wahiduddin,false
 171,uyghur-saleh,Muhammad Saleh,Muhammad Saleh,uyghur,Arabic,rtl,translations/uyghur-saleh,false
 172,uzbek-aykyuni,Aykyuni,Aykyuni,uzbek,Latin,ltr,translations/uzbek-aykyuni,true
@@ -327,7 +327,7 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 340,oromo-ghali-apapur-apaghuna,Ghali Apapur Apaghuna,Ghali Apapur Apaghuna,oromo,Latin,ltr,translations/oromo-ghali-apapur-apaghuna,false
  341,panjabi-sharif-kunjahi,Sharif Kunjahi,Sharif Kunjahi,panjabi,Arabic,rtl,translations/panjabi-sharif-kunjahi,false
 342,pashto-abdul-wali-khan,Abdul Wali Khan,Abdul Wali Khan,pashto,Arabic,rtl,translations/pashto-abdul-wali-khan,false
-343,persian-ih,Hussein Taji Kal Dari,Hussein Taji Kal Dari,persian,Arabic,rtl,translations/persian-ih,false
+343,persian-ih,IslamHouse.com,IslamHouse.com,persian,Arabic,rtl,translations/persian-ih,false
 344,persian-mohsen-gharaati,Gharaati,Mohsen Gharaati,persian,Arabic,rtl,translations/persian-mohsen-gharaati,false
 345,persian-sayyed-jalaloddin-mojtabavi,Mojtabavi,Sayyed Jalaloddin Mojtabavi,persian,Arabic,rtl,translations/persian-sayyed-jalaloddin-mojtabavi,false
 346,polish-j-zef-bielawski,Józef Bielawski,Józef Bielawski,polish,Latin,ltr,translations/polish-j-zef-bielawski,false
