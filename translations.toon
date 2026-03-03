@@ -33,9 +33,9 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 39,english-asad,Asad,Muhammad Asad,english,Latin,ltr,translations/english-asad,false
 40,english-dar-al-salam,Dar Al Salam,Dar Al Salam Publications,filipino,Latin,ltr,translations/english-dar-al-salam,false
 41,english-daryabadi,Daryabadi (Simple),Abdul Majid Daryabadi,english,Latin,ltr,translations/english-daryabadi,false
-42,english-fadel-soliman,"Fadel Soliman, Bridges’ translation",Fadel Soliman,Fadel Soliman,english,Latin,ltr,translations/english-fadel-soliman,true
+42,english-fadel-soliman,"Fadel Soliman, Bridges’ translation",Fadel Soliman,english,Latin,ltr,ltr,translations/english-fadel-soliman,true
 43,english-ghali,Muhammad Mahmoud Ghali,Muhammad Mahmoud Ghali,english,Latin,ltr,translations/english-ghali,false
-44,english-hilali-khan,Al-Hilali & Khan,Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan,english,Arabic,rtl,translations/english-hilali-khan,true
+44,english-hilali-khan,Al-Hilali & Khan,Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan,english,Latin,ltr,translations/english-hilali-khan,true
 45,english-irving,T. B. Irving,T. B. Irving,english,Latin,ltr,translations/english-irving,false
 46,english-maududi,Abu Al Ala Maududi (Simple),Abul A'la Maududi,english,Latin,ltr,translations/english-maududi,true
 47,english-muhsin-khan,Muhsin Khan,Muhammad Muhsin Khan & Muhammad Taqi ud Din al Hilali,english,Latin,ltr,translations/english-muhsin-khan,false
@@ -116,7 +116,7 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 122,rundi-gehiti,Gehiti (Notes),Gehiti,rundi,Latin,ltr,translations/rundi-gehiti,false
 123,russian-aboadel,Abu Adel,Abu Adel,russian,Cyrillic,ltr,translations/russian-aboadel,false
 124,russian-abu-adel,Abu Adel (Notes),Abu Adel,russian,Cyrillic,ltr,translations/russian-abu-adel,false
-125,russian-awqaf-egypt,"Ministry of Awqaf, Egypt","Ministry of Awqaf, Egypt",Ministry of Awqaf,Egypt,russian,Cyrillic,ltr,translations/russian-awqaf-egypt,true
+125,russian-awqaf-egypt,"Ministry of Awqaf, Egypt","Ministry of Awqaf, Egypt",russian,Cyrillic,ltr,Cyrillic,ltr,translations/russian-awqaf-egypt,true
 126,russian-kuliev,Russian Translation ( Elmir Kuliev ),Elmir Kuliev,russian,Cyrillic,ltr,translations/russian-kuliev,false
 127,russian-osmanov,Osmanov (Notes),Osmanov,russian,Cyrillic,ltr,translations/russian-osmanov,false
 128,russian-sablukov,Sablukov (Notes),Sablukov,russian,Cyrillic,ltr,translations/russian-sablukov,false
@@ -341,7 +341,7 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 354,russian-gordy-semyonovich-sablukov,Sablukov (Simple),Gordy Semyonovich Sablukov,russian,Cyrillic,ltr,translations/russian-gordy-semyonovich-sablukov,false
 355,russian-ignaty-yulianovich-krachkovsky,Krachkovsky,Ignaty Yulianovich Krachkovsky,russian,Cyrillic,ltr,translations/russian-ignaty-yulianovich-krachkovsky,false
 356,russian-magomed-nuri-osmanovich-osmanov,Osmanov (Simple),Magomed Nuri Osmanovich Osmanov,russian,Cyrillic,ltr,translations/russian-magomed-nuri-osmanovich-osmanov,false
-357,russian-ministry-of-awqaf-egypt,Awqaf Egypt (Simple),Ministry Of Awqaf (egypt),Ministry of Awqaf,Egypt,russian,Cyrillic,ltr,translations/russian-ministry-of-awqaf-egypt,false
+357,russian-ministry-of-awqaf-egypt,Awqaf Egypt (Simple),Ministry Of Awqaf (egypt),russian,Cyrillic,ltr,Cyrillic,ltr,translations/russian-ministry-of-awqaf-egypt,false
 358,russian-valeriya-porokhova,Porokhova,Valeriya Porokhova,russian,Cyrillic,ltr,translations/russian-valeriya-porokhova,false
 359,serbian-rwwad,Rwwad,Rwwad Centre for Translation,serbian,Latin,ltr,translations/serbian-rwwad,false
 360,shona-abdullah-j-madini,Abdullah J Madini,Abdullah J Madini,shona,Latin,ltr,translations/shona-abdullah-j-madini,false
@@ -401,8 +401,8 @@ translations[427]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 414,ukrainian-dr-mikhailo-yaqub,Dr. Mikhailo Yaqubovic,Dr. Mikhailo Yaqubovic,ukrainian,Latin,ltr,translations/ukrainian-dr-mikhailo-yaqub,false
 415,ukrainian-hadi-abdollahian,Hadi Abdollahian,Hadi Abdollahian,ukrainian,Latin,ltr,translations/ukrainian-hadi-abdollahian,false
 416,urdu-mufti-taqi-usmani,Mufti Taqi Usmani (Simple),Mufti Muhammad Taqi Usmani,urdu,Arabic,rtl,translations/urdu-mufti-taqi-usmani,false
-417,urdu-shaykh-al-hind-mahmud-al-hasan,Mahmud Al Hasan (Simple),Mahmud Al Hasan,urdu,Latin,ltr,translations/urdu-shaykh-al-hind-mahmud-al-hasan,true
-418,urdu-zeeshan-jawadi,Zeeshan Jawadi,Zeeshan Jawadi,urdu,Latin,ltr,translations/urdu-zeeshan-jawadi,false
+417,urdu-shaykh-al-hind-mahmud-al-hasan,Mahmud Al Hasan (Simple),Mahmud Al Hasan,urdu,Arabic,rtl,translations/urdu-shaykh-al-hind-mahmud-al-hasan,true
+418,urdu-zeeshan-jawadi,Zeeshan Jawadi,Zeeshan Jawadi,urdu,Arabic,rtl,translations/urdu-zeeshan-jawadi,false
 419,uzbek-alauddin-mansour,Alauddin Mansour,Alauddin Mansour,uzbek,Latin,ltr,translations/uzbek-alauddin-mansour,false
 420,uzbek-muhammad-sodik-muhammad-yusuf,Muhammad Sodik Muhammad Yusuf,Muhammad Sodik Muhammad Yusuf,uzbek,Latin,ltr,translations/uzbek-muhammad-sodik-muhammad-yusuf,false
 421,vietnamese-hasan-abdul-karim,Hasan Abdul-Karim,Hasan Abdul-Karim,vietnamese,Latin,ltr,translations/vietnamese-hasan-abdul-karim,false
