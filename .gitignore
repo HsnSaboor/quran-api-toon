@@ -33,3 +33,7 @@ scripts/
 *.py
 *.sh
 .open-engineer/
+
+# Analysis & Fix Reports
+inspect/
+apply_fixes.py
