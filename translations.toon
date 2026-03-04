@@ -1,4 +1,4 @@
-translations[426]{no,id,name,author,lang,script,dir,path,has_footnotes}:
+translations[425]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 4,amharic-sadiq-sani,Sadiq and Sani,Sadiq and Sani,amharic,Ge'ez,ltr,translations/amharic-sadiq-sani,false
 5,amharic-zain,Zain,Zain,amharic,Ge'ez,ltr,translations/amharic-zain,false
 6,arabic-bakurube,Abu Bakr Ibrahim Ali (Bakurube),Abu Bakr Ibrahim Ali,divehi,Arabic,rtl,translations/arabic-bakurube,false
@@ -32,7 +32,7 @@ translations[426]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 39,english-asad,Asad,Muhammad Asad,english,Latin,ltr,translations/english-asad,false
 40,english-dar-al-salam,Dar Al Salam,Dar Al Salam Publications,filipino,Latin,ltr,translations/english-dar-al-salam,false
 41,english-daryabadi,Daryabadi (Simple),Abdul Majid Daryabadi,english,Latin,ltr,translations/english-daryabadi,false
-42,english-fadel-soliman,"Fadel Soliman, Bridges’ translation",Fadel Soliman,english,Latin,ltr,ltr,translations/english-fadel-soliman,true
+42,english-fadel-soliman,"Fadel Soliman, Bridges' translation",Fadel Soliman,english,Latin,ltr,translations/english-fadel-soliman,true
 43,english-ghali,Muhammad Mahmoud Ghali,Muhammad Mahmoud Ghali,english,Latin,ltr,translations/english-ghali,false
 44,english-hilali-khan,Al-Hilali & Khan,Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan,english,Latin,ltr,translations/english-hilali-khan,true
 45,english-irving,T. B. Irving,T. B. Irving,english,Latin,ltr,translations/english-irving,false
@@ -158,7 +158,7 @@ translations[426]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 165,urdu-maududi-roman,Syed Abul A'la Maududi (Roman),Syed Abul A'la Maududi,urdu,Latin,ltr,translations/urdu-maududi-roman,false
 166,urdu-qutb,Fe Zilal al-Qur'an,Sayyid Ibrahim Qutb,urdu,Arabic,rtl,translations/urdu-qutb,false
 167,urdu-rwwad,Rwwad Translation Centre,Rwwad Centre for Translation,english,Latin,ltr,translations/urdu-rwwad,false
-168,urdu-taqi-usmani,Taqi Usmani (En),Mufti Muhammad Taqi Usmani,english,Latin,ltr,translations/urdu-taqi-usmani,false
+168,urdu-taqi-usmani,Mufti Muhammad Taqi Usmani,Mufti Muhammad Taqi Usmani,english,Latin,ltr,translations/urdu-taqi-usmani,true
 169,urdu-usmani,Shaykh al-Hind Mahmud al-Hasan(with Tafsir E Usmani),Shaykh al-Hind Mahmud al-Hasan,urdu,Arabic,rtl,translations/urdu-usmani,true
 170,urdu-wahiduddin,Maulana Wahiduddin Khan,Maulana Wahiduddin Khan,urdu,Arabic,rtl,translations/urdu-wahiduddin,false
 171,uyghur-saleh,Saleh (Notes),Saleh,uyghur,Arabic,rtl,translations/uyghur-saleh,false
@@ -170,7 +170,6 @@ translations[426]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 177,vietnamese-abdul-karim,Abdul Karim (Notes),Abdul Karim,vietnamese,Latin,ltr,translations/vietnamese-abdul-karim,false
 178,arabic-jalalayn,Jalalayn,Jalal ad Din al Mahalli & Jalal ad Din al Suyuti,arabic,Arabic,rtl,translations/arabic-jalalayn,false
 183,bosnian-mlivo,Mustafa Mlivo,Mustafa Mlivo,bosnian,Latin,ltr,translations/bosnian-mlivo,false
-184,czech-hrbek,Hrbek,Hrbek,czech,Latin,ltr,translations/czech-hrbek,false
 185,czech-nykl,Nykl,Nykl,czech,Latin,ltr,translations/czech-nykl,false
 186,dutch-keyzer,Keyzer,Keyzer,dutch,Latin,ltr,translations/dutch-keyzer,false
 187,dutch-leemhuis,Fred Leemhuis (Simple),Fred Leemhuis,dutch,Latin,ltr,translations/dutch-leemhuis,false
@@ -321,7 +320,6 @@ translations[426]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 335,marathi-muhammad-shafi-i-ansari,Muhammad Shafi’i Ansari,Muhammad Shafi’i Ansari,marathi,Devanagari,ltr,translations/marathi-muhammad-shafi-i-ansari,false
 336,n-ko-karamo-baba-mamadi-jani,Karamo Baba Mamadi Jani,Karamo Baba Mamadi Jani,n-ko,Nko,rtl,translations/n-ko-karamo-baba-mamadi-jani,false
 337,nepali-ahl-al-hadith-central-society-of-nepal,Ahl Al Hadith (Simple),Ahl al Hadith (nepali Committee),nepali,Devanagari,ltr,translations/nepali-ahl-al-hadith-central-society-of-nepal,false
-338,norwegian-einar-berg,Einar Berg,Einar Berg,norwegian,Latin,ltr,translations/norwegian-einar-berg,false
 339,oromo-ababor,Ababor (Notes),Ababor,oromo,Latin,ltr,translations/oromo-ababor,true
 340,oromo-ghali-apapur-apaghuna,Ghali Apapur Apaghuna,Ghali Apapur Apaghuna,oromo,Latin,ltr,translations/oromo-ghali-apapur-apaghuna,false
 341,panjabi-sharif-kunjahi,Sharif Kunjahi,Sharif Kunjahi,panjabi,Arabic,rtl,translations/panjabi-sharif-kunjahi,false
@@ -419,3 +417,10 @@ translations[426]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 433,urdu-noor-amin,Noor Amin,Noor Amin,urdu,Arabic,rtl,translations/urdu-noor-amin,false
 434,urdu-abdul-salam,Abdul Salam,Abdul Salam,urdu,Arabic,rtl,translations/urdu-abdul-salam,false
 435,urdu-kanzul-iman,Kanzul Iman,Ahmed Raza Khan Barelvi,urdu,Arabic,rtl,translations/urdu-kanzul-iman,false
+436,bulgarian-unknown,Dr. Tsvetan Teofanov,Dr. Tsvetan Teofanov,bulgarian,Cyrillic,ltr,translations/bulgarian-unknown,false
+437,czech-unknown,Czech Translation,Czech Translation,czech,Latin,ltr,translations/czech-unknown,false
+439,norwegian-unknown,Einar Berg,Einar Berg,norwegian,Latin,ltr,translations/norwegian-unknown,false
+440,romanian-unknown,Azizbek Asadullah,Azizbek Asadullah,romanian,Latin,ltr,translations/romanian-unknown,false
+441,tajik-unknown,Abdulmohammad Oyatullahov,Abdulmohammad Oyatullahov,tajik,Cyrillic,ltr,translations/tajik-unknown,false
+442,urdu-taqi-usmani-arabic,Tafheem-ul-Quran (Urdu),Mufti Muhammad Taqi Usmani,urdu,Arabic,rtl,translations/urdu-taqi-usmani-arabic,true
+443,english-ahmedali,Ahmed Ali,Ahmed Ali,english,Latin,ltr,translations/english-ahmedali,false
