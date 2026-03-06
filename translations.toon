@@ -1,4 +1,4 @@
-translations[403]{no,id,name,author,lang,script,dir,path,has_footnotes}:
+translations[399]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 4,amharic-sadiq-sani,Sadiq and Sani,Sadiq and Sani,amharic,Ge'ez,ltr,translations/amharic-sadiq-sani,false
 5,amharic-zain,Zain,Zain,amharic,Ge'ez,ltr,translations/amharic-zain,false
 6,arabic-bakurube,Abu Bakr Ibrahim Ali (Bakurube),Abu Bakr Ibrahim Ali,divehi,Arabic,rtl,translations/arabic-bakurube,false
@@ -20,7 +20,7 @@ translations[403]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 27,chinese-basair,Basair,Basair,chinese,Chinese,ltr,translations/chinese-basair,false
 28,chinese-ma-jain,Chinese Translation (Simplified) - Ma Jain,Ma Jian,chinese,Chinese,ltr,translations/chinese-ma-jain,false
 29,chinese-makin,Muhammad Makin,Muhammad Makin,chinese,Chinese,ltr,translations/chinese-makin,false
-30,chinese-suliman,Suliman,Suliman,chinese,Chinese,ltr,translations/chinese-suliman,false
+30,chinese-suliman,Suliman,Suliman,chinese,Chinese,ltr,translations/chinese-suliman,
 31,croatian-rwwad,Rwwad,Rwwad Centre for Translation,croatian,Latin,ltr,translations/croatian-rwwad,false
 32,czech-hrbek,Hrbek,Hrbek,czech,Latin,ltr,translations/czech-hrbek,false
 33,dhivehi-maldives,Maldives,Maldives,dhivehi,Arabic,rtl,translations/dhivehi-maldives,false
@@ -32,7 +32,6 @@ translations[403]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 43,english-ghali,Muhammad Mahmoud Ghali,Muhammad Mahmoud Ghali,english,Latin,ltr,translations/english-ghali,false
 44,english-hilali-khan,Al-Hilali & Khan,Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan,english,Latin,ltr,translations/english-hilali-khan,true
 45,english-irving,T. B. Irving,T. B. Irving,english,Latin,ltr,translations/english-irving,false
-
 48,english-pickthall,M. Pickthall,Mohammed Marmaduke William Pickthall,english,Latin,ltr,translations/english-pickthall,false
 49,english-qaribullah,Hasan Qaribullah,Hasan Qaribullah,english,Latin,ltr,translations/english-qaribullah,false
 50,english-rwwad,Rwwad,Rwwad Centre for Translation,sinhala,Sinhala,ltr,translations/english-rwwad,false
@@ -131,7 +130,7 @@ translations[403]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 147,tatar-yakub,Tatar,Tatar,tatar,Cyrillic,ltr,translations/tatar-yakub,false
 148,telugu-rahim,Rahim (Notes),Rahim,telugu,Telugu,ltr,translations/telugu-rahim,false
 149,thai-abdullah-khamis,Abdullah Khamis,Abdullah Khamis,thai,Thai,ltr,translations/thai-abdullah-khamis,false
-150,thai-king-fahad,Thai Translatio (King Fahad Quran Complex),King Fahad Complex,thai,Thai,ltr,translations/thai-king-fahad,false
+150,thai-king-fahad-complex,Thai Translation (King Fahad Quran Complex),King Fahad Complex,thai,Thai,ltr,translations/thai-king-fahad-complex,false
 151,thai-siu,Society of Institutes and Universities,Society of Institutes and Universities,thai,Thai,ltr,translations/thai-siu,false
 152,turkish-britch,Shaban Britch,Shaban Britch,turkish,Latin,ltr,translations/turkish-britch,false
 153,turkish-dar-al-salam,Dar Al-Salam Center,Dar Al-Salam Center,hebrew,Hebrew,rtl,translations/turkish-dar-al-salam,false
@@ -355,11 +354,9 @@ translations[403]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 386,telugu-abdulraheemmoha,Maulana Abder-Rahim ibn Muhammad,Maulana Abder-Rahim ibn Muhammad,telugu,Telugu,ltr,translations/telugu-abdulraheemmoha,false
 387,telugu-muhammad,Muhammad (Simple),Muhammad,telugu,Telugu,ltr,translations/telugu-muhammad,true
 388,telugu-muhammadazizurr,Muhammad Azizur Rahman,Muhammadazizurr,telugu,Telugu,ltr,translations/telugu-muhammadazizurr,false
-389,thai-king-fahad-quran-complex,King Fahad Complex (Simple),King Fahad Complex,thai,Thai,ltr,translations/thai-king-fahad-quran-complex,false
 390,turkish-abdulbakigolpin,Abdulbaki Golpin,Abdulbakigolpin,turkish,Latin,ltr,translations/turkish-abdulbakigolpin,false
 391,turkish-alifikriyavuz,Ali Fikri Yavuz,Alifikriyavuz,turkish,Latin,ltr,translations/turkish-alifikriyavuz,false
 392,turkish-celalyldrm,Celal Yildirim,Celalyldrm,turkish,Latin,ltr,translations/turkish-celalyldrm,false
-393,turkish-diyanetisleri,Diyanet (Simple),Diyanetisleri,turkish,Latin,ltr,translations/turkish-diyanetisleri,false
 394,turkish-diyanetvakfi,Diyanet Vakfi,Diyanetvakfi,turkish,Latin,ltr,translations/turkish-diyanetvakfi,false
 395,turkish-edipyuksel,Edip Yuksel,Edipyuksel,turkish,Latin,ltr,translations/turkish-edipyuksel,false
 396,turkish-elmallsadelesti,Elmalli (Simple),Elmallsadelesti,turkish,Latin,ltr,translations/turkish-elmallsadelesti,false
@@ -371,7 +368,6 @@ translations[403]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 402,turkish-muhammetabay,Muhammet Abay,Muhammetabay,turkish,Latin,ltr,translations/turkish-muhammetabay,false
 403,turkish-rwwad,Rwwad,Rwwad Centre for Translation,turkish,Latin,ltr,translations/turkish-rwwad,false
 404,turkish-sabanpiris,Saban Piris,Sabanpiris,turkish,Latin,ltr,translations/turkish-sabanpiris,false
-405,turkish-shaban,Shaban (Simple),Shaban,turkish,Latin,ltr,translations/turkish-shaban,false
 406,turkish-shahin,Muslim Shahin,Muslim Shahin,turkish,Latin,ltr,translations/turkish-shahin,false
 407,turkish-suatyildirim,Suat Yildirim,Suatyildirim,turkish,Latin,ltr,translations/turkish-suatyildirim,false
 408,turkish-suleymanates,Suleyman Ates,Suleymanates,turkish,Latin,ltr,translations/turkish-suleymanates,false
@@ -395,7 +391,6 @@ translations[403]{no,id,name,author,lang,script,dir,path,has_footnotes}:
 426,yoruba-shaykh-abu-rahimah-mikael-aykyuni,Shaykh Abu Rahimah Mikael Aykyuni,Shaykh Abu Rahimah Mikael Aykyuni,yoruba,Latin,ltr,translations/yoruba-shaykh-abu-rahimah-mikael-aykyuni,false
 427,zulu-iqembu-lezifundiswa,Iqembu Lezifundiswa,Iqembu Lezifundiswa,zulu,Latin,ltr,translations/zulu-iqembu-lezifundiswa,false
 428,urdu-tahir-ul-qadri,Dr. Tahir ul Qadri,Dr. Tahir ul Qadri,urdu,Arabic,rtl,translations/urdu-tahir-ul-qadri,false
-429,urdu-pir-karam-shah,Zia ul Quran,Pir Muhammad Karam Shah al-Azhari,urdu,Arabic,rtl,translations/urdu-pir-karam-shah,false
 435,urdu-kanzul-iman,Kanzul Iman,Ahmed Raza Khan Barelvi,urdu,Arabic,rtl,translations/urdu-kanzul-iman,false
 436,bulgarian-unknown,Dr. Tsvetan Teofanov,Dr. Tsvetan Teofanov,bulgarian,Cyrillic,ltr,translations/bulgarian-unknown,false
 437,czech-unknown,Czech Translation,Czech Translation,czech,Latin,ltr,translations/czech-unknown,false
