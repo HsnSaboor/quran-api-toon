@@ -37,3 +37,13 @@ scripts/
 # Analysis & Fix Reports
 inspect/
 apply_fixes.py
+*.bak
+*.tmp
+*.temp
+
+# Temp markdown reports
+COMPLETE_*.md
+METADATA_*.md
+*_report.md
+*-report.md
+unknown-*.md
