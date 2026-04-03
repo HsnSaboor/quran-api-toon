@@ -5,9 +5,9 @@ The `quran` resource provides the Arabic text of the Holy Quran. It is optimized
 
 ## CDN Usage
 
-> ⚠️ **For Latest Data**: Use `@latest` tag when fetching via jsDelivr:
+> ⚠️ **For Latest Data**: Use `@main` branch when fetching via jsDelivr:
 > ```
-> https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@latest/quran/pages/{page}.toon
+> https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@main/quran/pages/{page}.toon
 > ```
 
 ## Structure

@@ -5,9 +5,9 @@ The `translations` resource provides meaning translations of the Quran in 100+ l
 
 ## CDN Usage
 
-> ⚠️ **Getting Latest Translations**: Use `@latest` tag when fetching via jsDelivr:
+> ⚠️ **Getting Latest Translations**: Use `@main` branch when fetching via jsDelivr:
 > ```
-> https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@latest/translations/{slug}/pages/{page}.toon
+> https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@main/translations/{slug}/pages/{page}.toon
 > ```
 > 
 > Translation content is regularly updated. Always pin to a specific version/release for production to avoid unexpected changes.
