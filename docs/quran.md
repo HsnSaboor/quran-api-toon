@@ -3,6 +3,13 @@
 ## Overview
 The `quran` resource provides the Arabic text of the Holy Quran. It is optimized for the Uthmani script (Madani) but can support other script variants (e.g., Indopak, Tajweed Glyphs) using the same structure.
 
+## CDN Usage
+
+> ⚠️ **For Latest Data**: Use `@latest` tag when fetching via jsDelivr:
+> ```
+> https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@latest/quran/pages/{page}.toon
+> ```
+
 ## Structure
 Files are located at: `quran/pages/{1..604}.toon`
 

@@ -3,10 +3,20 @@
 ## Overview
 The `translations` resource provides meaning translations of the Quran in 100+ languages. Like the Quran text, these are segmented by Page (1-604) to allow perfect synchronized scrolling with the Mushaf.
 
+## CDN Usage
+
+> ⚠️ **Getting Latest Translations**: Use `@latest` tag when fetching via jsDelivr:
+> ```
+> https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@latest/translations/{slug}/pages/{page}.toon
+> ```
+> 
+> Translation content is regularly updated. Always pin to a specific version/release for production to avoid unexpected changes.
+
 ## Statistics (Verified)
-- **Total Translations**: 395
+- **Total Translations**: 401
 - **RTL (Right-to-Left)**: 34 (Arabic, Urdu, Persian, Hebrew, Divehi, Dari, Sindhi, Shahmukhi Panjabi, etc.)
-- **LTR (Left-to-Right)**: 361 (English, Turkish, Indonesian, Urdu-Latin, etc.)
+- **LTR (Left-to-Right)**: 367 (English, Turkish, Indonesian, Urdu-Latin, etc.)
+- **With Footnotes**: 43 (high-quality translations with scholarly annotations)
 
 ## Structure
 Files are located at: `translations/{slug}/pages/{1..604}.toon`
@@ -19,6 +29,10 @@ Files are located at: `translations/{slug}/pages/{1..604}.toon`
 quran[{size}]{c,v,t,f}:
   {surah_id},{ayah_num},{translated_text},{footnote_text}
 ```
+
+> 📝 **Footnote Format**: When `f` column is present, footnotes use the format: `footnotes:1:[footnote content],footnotes:2:[footnote content],...`. Each footnote number is wrapped in brackets for proper parsing.
+> 
+> Example: `1,1,"Text{1}","footnotes:1:[Explanation of {1}]"`
 
 *Note: The `f` (footnote) column is optional and only present in high-quality translations.*
 

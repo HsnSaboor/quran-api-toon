@@ -2,6 +2,8 @@
 
 This repository provides comprehensive Quranic data including text, translations, recitations (word-timing), tafsirs, tajweed, and mutashabihat in the high-performance `.toon` format. Optimized for **Page-Based Fetching** (Mushaf Pages 1-604) and CDN delivery.
 
+> ⚠️ **Important for CDN Users**: Always check the `@latest` tag or specific commit hash when using jsDelivr to ensure you get the most recent data. The format structure described below is stable, but translation content is regularly updated.
+
 ## 📚 Documentation
 
 Detailed documentation for each resource type:
@@ -30,7 +32,7 @@ The entry point for mapping the Quran:
 | Category | Index File | Content Path | Description |
 | :--- | :--- | :--- | :--- |
 | **Quran** | `quran.toon` | `quran/pages/{1..604}.toon` | Script variants (e.g., Uthmani, Tajweed Glyphs). |
-| **Translations** | `translations.toon` | `translations/{slug}/pages/{1..604}.toon` | 309 translation editions in 100+ languages. Supports footnotes and rich text. |
+| **Translations** | `translations.toon` | `translations/{slug}/pages/{1..604}.toon` | 401 translation editions in 100+ languages. Supports footnotes and rich text. Includes 19 Persian, 69 Turkish, 96 English, and 43 editions with footnotes. |
 | **Tafsirs** | `tafsirs.toon` | `tafsirs/{slug}/pages/{1..604}.toon` | 90 tafsir editions. Supports HTML formatting. |
 | **Recitations** | `recitations.toon` | `recitations/{id}/pages/{1..604}.toon` | Word-by-word timing and segment data for 23 verified reciters. |
 | **Surah Info** | `surah.toon` | `surah/{lang}.toon` | Surah introductions and background information in multiple languages. |
@@ -83,14 +85,16 @@ Contains cross-references for similar verses:
 
 ## 🚀 CDN Usage (jsDelivr)
 
+> ⚠️ **For Latest Data**: Use `@latest` tag or check the [releases page](https://github.com/saboorsohaib/quran-api-toon/releases) for the most recent commit hash. CDN cached versions may not reflect immediate updates.
+
 Construct the path to any page content using the following pattern:
-`https://cdn.jsdelivr.net/gh/{user}/{repo}@main/{category}/{slug}/pages/{page}.toon`
+`https://cdn.jsdelivr.net/gh/{user}/{repo}@latest/{category}/{slug}/pages/{page}.toon`
 
 **Example (Uthmani Text, Page 1):**
-`https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@main/quran/pages/1.toon`
+`https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@latest/quran/pages/1.toon`
 
 **Example (English Translation, Sahih International, Page 1):**
-`https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@main/translations/eng-abdelhaleem/pages/1.toon`
+`https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@latest/translations/english-abdelhaleem/pages/1.toon`
 
 ---
 
