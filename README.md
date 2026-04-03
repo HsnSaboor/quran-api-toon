@@ -85,16 +85,16 @@ Contains cross-references for similar verses:
 
 ## 🚀 CDN Usage (jsDelivr)
 
-> ⚠️ **For Latest Data**: Use `@latest` tag or check the [releases page](https://github.com/saboorsohaib/quran-api-toon/releases) for the most recent commit hash. CDN cached versions may not reflect immediate updates.
+> ⚠️ **For Latest Data**: Use `@main` branch or check the [releases page](https://github.com/saboorsohaib/quran-api-toon/releases) for the most recent commit hash. CDN cached versions may not reflect immediate updates.
 
 Construct the path to any page content using the following pattern:
-`https://cdn.jsdelivr.net/gh/{user}/{repo}@latest/{category}/{slug}/pages/{page}.toon`
+`https://cdn.jsdelivr.net/gh/{user}/{repo}@main/{category}/{slug}/pages/{page}.toon`
 
 **Example (Uthmani Text, Page 1):**
-`https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@latest/quran/pages/1.toon`
+`https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@main/quran/pages/1.toon`
 
 **Example (English Translation, Sahih International, Page 1):**
-`https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@latest/translations/english-abdelhaleem/pages/1.toon`
+`https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@main/translations/english-abdelhaleem/pages/1.toon`
 
 ---
 
