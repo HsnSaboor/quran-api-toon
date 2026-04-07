@@ -1,4 +1,4 @@
-tafsirs[84]{no,id,name,author,lang,script,dir,path}:
+tafsirs[79]{no,id,name,author,lang,script,dir,path}:
 1,albanian-tafsir-as-saadi,Tafsir As Saadi,Abdur Rahman as Sa'di,albanian,Latin,ltr,tafsirs/albanian-tafsir-as-saadi
 2,arabic-abi-suaood,Tafsir Abi al-Su'ud,Abu al-Su'ud al-Imadi,arabic,Arabic,rtl,tafsirs/arabic-abi-suaood
 3,arabic-alusi,Ruh al-Ma'ani fi Tafsir al-Quran al-Azim,Mahmud al-Alusi,arabic,Arabic,rtl,tafsirs/arabic-alusi
@@ -41,43 +41,40 @@ tafsirs[84]{no,id,name,author,lang,script,dir,path}:
 40,chinese-mukhtasar,Chinese Mukhtasar,Chinese Scholars,chinese,Chinese,ltr,tafsirs/chinese-mukhtasar
 41,english-tafsir-ibn-kathir,Tafsir Ibn Kathir (English),Ismail ibn Kathir,english,Latin,ltr,tafsirs/english-tafsir-ibn-kathir
 42,english-tafsir-jalalayn,Tafsir Jalalayn (English),Jalal al-Din al-Mahalli & Jalal al-Din al-Suyuti,english,Latin,ltr,tafsirs/english-tafsir-jalalayn
-43,english-hilali-khan,Interpretation of the Meanings of the Noble Quran,Muhammad Muhsin Khan and Muhammad Taqi-ud-Din al-Hilali,english,Latin,ltr,tafsirs/english-hilali-khan
-44,english-abdel-haleem,The Quran: A New Translation,Muhammad Abdel Haleem,english,Latin,ltr,tafsirs/english-abdel-haleem
-45,english-tafheem-ul-quran,Tafheem-ul-Quran (English),Syed Abul Ala Maududi,english,Latin,ltr,tafsirs/english-tafheem-ul-quran
-46,english-wahiduddin,Wahiduddin Khan Tafsir,Muhammad Wahiduddin Khan,english,Latin,ltr,tafsirs/english-wahiduddin
-47,hindi-mukhtasar,Hindi Mukhtasar,Hindi Scholars,hindi,Devanagari,ltr,tafsirs/hindi-mukhtasar
-48,hindi-tafheem-ul-quran,Tafheem-ul-Quran (Hindi),Syed Abul Ala Maududi,hindi,Devanagari,ltr,tafsirs/hindi-tafheem-ul-quran
-49,indonesian-mukhtasar,Indonesian Mukhtasar,Indonesian Scholars,indonesian,Latin,ltr,tafsirs/indonesian-mukhtasar
-50,indonesian-muntakhab,Al-Muntakhab,Indonesian Scholars,indonesian,Latin,ltr,tafsirs/indonesian-muntakhab
-51,japanese-mukhtasar,Japanese Mukhtasar,Japanese Scholars,japanese,Japanese,ltr,tafsirs/japanese-mukhtasar
-52,kurdish-mukhtasar,Kurdish Mukhtasar,Kurdish Scholars,kurdish,Arabic,rtl,tafsirs/kurdish-mukhtasar
-53,kurdish-salahuddin,Kurdish Tafsir,Salahuddin al-Kurdish,kurdish,Arabic,rtl,tafsirs/kurdish-salahuddin
-54,malayalam-mukhtasar,Malayalam Mukhtasar,Malayalam Scholars,malayalam,Malayalam,ltr,tafsirs/malayalam-mukhtasar
-55,pashto-mukhtasar,Pashto Mukhtasar,Pashto Scholars,pashto,Arabic,rtl,tafsirs/pashto-mukhtasar
-56,persian-mukhtasar,Persian Mukhtasar,Persian Scholars,persian,Arabic,rtl,tafsirs/persian-mukhtasar
-57,russian-mukhtasar,Russian Mukhtasar,Russian Scholars,russian,Cyrillic,ltr,tafsirs/russian-mukhtasar
-58,spanish-mukhtasar,Spanish Mukhtasar,Spanish Scholars,spanish,Latin,ltr,tafsirs/spanish-mukhtasar
-59,tamil-mukhtasar,Tamil Mukhtasar,Tamil Scholars,tamil,Tamil,ltr,tafsirs/tamil-mukhtasar
-60,telugu-mukhtasar,Telugu Mukhtasar,Telugu Scholars,telugu,Telugu,ltr,tafsirs/telugu-mukhtasar
-61,thai-mukhtasar,Thai Mukhtasar,Thai Scholars,thai,Thai,ltr,tafsirs/thai-mukhtasar
-62,turkish-mukhtasar,Turkish Mukhtasar,Turkish Scholars,turkish,Latin,ltr,tafsirs/turkish-mukhtasar
-63,turkish-tafsir-ibn-kathir,Tafsir Ibn Kathir (Turkish),Ismail ibn Kathir,turkish,Latin,ltr,tafsirs/turkish-tafsir-ibn-kathir
-64,urdu-qutb,Fi Zilal al-Quran,Sayyid Qutb,urdu,Arabic,rtl,tafsirs/urdu-qutb
-65,urdu-pir-karam-shah,Pir Karam Shah Tafsir,Pir Karam Shah,urdu,Arabic,rtl,tafsirs/urdu-pir-karam-shah
-66,urdu-tibyan-ul-quran,Tibyan-ul-Quran,Allama Ghulam Rasool Sa'idi,urdu,Arabic,rtl,tafsirs/urdu-tibyan-ul-quran
-67,urdu-tafheem-ul-quran,Tafheem-ul-Quran,Maulana Abul A'la Maududi,urdu,Arabic,rtl,tafsirs/urdu-tafheem-ul-quran
-68,urdu-ahsan-ul-bayan,Ahsan-ul-Bayan Tafsir,Hafiz Salahuddin Yusuf,urdu,Arabic,rtl,tafsirs/urdu-ahsan-ul-bayan
-69,urdu-kanzul-iman,Kanz al-Iman fi Tarjamat al-Quran,Ahmad Raza Khan Barelvi,urdu,Arabic,rtl,tafsirs/urdu-kanzul-iman
-70,urdu-naimi,Tafsir Naeemi,Mufti Ahmad Yar Khan Naeemi,urdu,Arabic,rtl,tafsirs/urdu-naimi
-71,urdu-nadwi,Tafsir al-Nadwi,Abul Hasan Ali al-Nadwi,urdu,Arabic,rtl,tafsirs/urdu-nadwi
-72,urdu-mukhtasar,Urdu Mukhtasar,Urdu Scholars,urdu,Arabic,rtl,tafsirs/urdu-mukhtasar
-73,swahili-abdullah-khamis,Swahili Tafsir,Abdullah Khamis,swahili,Latin,ltr,tafsirs/swahili-abdullah-khamis
-74,tajik-khawaja-mir,Khawaja Mir Tafsir,Khawaja Mir,tajik,Cyrillic,ltr,tafsirs/tajik-khawaja-mir
-75,khmer-mukhtasar,Khmer Mukhtasar,Khmer Scholars,khmer,Khmer,ltr,tafsirs/khmer-mukhtasar
-76,kyrgyz-mukhtasar,Kyrgyz Mukhtasar,Kyrgyz Scholars,kyrgyz,Cyrillic,ltr,tafsirs/kyrgyz-mukhtasar
-77,sinhala-mukhtasar,Sinhala Mukhtasar,Sinhala Scholars,sinhala,Sinhala,ltr,tafsirs/sinhala-mukhtasar
-78,uyghur-mukhtasar,Uyghur Mukhtasar,Uyghur Scholars,uyghur,Arabic,rtl,tafsirs/uyghur-mukhtasar
-79,uzbek-mukhtasar,Uzbek Mukhtasar,Uzbek Scholars,uzbek,Cyrillic,ltr,tafsirs/uzbek-mukhtasar
-80,tagalog-mukhtasar,Tagalog Mukhtasar,Tagalog Scholars,tagalog,Latin,ltr,tafsirs/tagalog-mukhtasar
-81,serbian-mukhtasar,Serbian Mukhtasar,Serbian Scholars,serbian,Cyrillic,ltr,tafsirs/serbian-mukhtasar
-82,russian-ibn-kathir,Tafsir Ibn Kathir (Russian),Ismail ibn Kathir,russian,Cyrillic,ltr,tafsirs/russian-ibn-kathir
+43,english-tafheem-ul-quran,Tafheem-ul-Quran (English),Syed Abul Ala Maududi,english,Latin,ltr,tafsirs/english-tafheem-ul-quran
+44,english-wahiduddin,Wahiduddin Khan Tafsir,Muhammad Wahiduddin Khan,english,Latin,ltr,tafsirs/english-wahiduddin
+45,hindi-mukhtasar,Hindi Mukhtasar,Hindi Scholars,hindi,Devanagari,ltr,tafsirs/hindi-mukhtasar
+46,hindi-tafheem-ul-quran,Tafheem-ul-Quran (Hindi),Syed Abul Ala Maududi,hindi,Devanagari,ltr,tafsirs/hindi-tafheem-ul-quran
+47,indonesian-mukhtasar,Indonesian Mukhtasar,Indonesian Scholars,indonesian,Latin,ltr,tafsirs/indonesian-mukhtasar
+48,indonesian-muntakhab,Al-Muntakhab,Indonesian Scholars,indonesian,Latin,ltr,tafsirs/indonesian-muntakhab
+49,japanese-mukhtasar,Japanese Mukhtasar,Japanese Scholars,japanese,Japanese,ltr,tafsirs/japanese-mukhtasar
+50,kurdish-mukhtasar,Kurdish Mukhtasar,Kurdish Scholars,kurdish,Arabic,rtl,tafsirs/kurdish-mukhtasar
+51,kurdish-salahuddin,Kurdish Tafsir,Salahuddin al-Kurdish,kurdish,Arabic,rtl,tafsirs/kurdish-salahuddin
+52,malayalam-mukhtasar,Malayalam Mukhtasar,Malayalam Scholars,malayalam,Malayalam,ltr,tafsirs/malayalam-mukhtasar
+53,pashto-mukhtasar,Pashto Mukhtasar,Pashto Scholars,pashto,Arabic,rtl,tafsirs/pashto-mukhtasar
+54,persian-mukhtasar,Persian Mukhtasar,Persian Scholars,persian,Arabic,rtl,tafsirs/persian-mukhtasar
+55,russian-mukhtasar,Russian Mukhtasar,Russian Scholars,russian,Cyrillic,ltr,tafsirs/russian-mukhtasar
+56,spanish-mukhtasar,Spanish Mukhtasar,Spanish Scholars,spanish,Latin,ltr,tafsirs/spanish-mukhtasar
+57,tamil-mukhtasar,Tamil Mukhtasar,Tamil Scholars,tamil,Tamil,ltr,tafsirs/tamil-mukhtasar
+58,telugu-mukhtasar,Telugu Mukhtasar,Telugu Scholars,telugu,Telugu,ltr,tafsirs/telugu-mukhtasar
+59,thai-mukhtasar,Thai Mukhtasar,Thai Scholars,thai,Thai,ltr,tafsirs/thai-mukhtasar
+60,turkish-mukhtasar,Turkish Mukhtasar,Turkish Scholars,turkish,Latin,ltr,tafsirs/turkish-mukhtasar
+61,turkish-tafsir-ibn-kathir,Tafsir Ibn Kathir (Turkish),Ismail ibn Kathir,turkish,Latin,ltr,tafsirs/turkish-tafsir-ibn-kathir
+62,urdu-qutb,Fi Zilal al-Quran,Sayyid Qutb,urdu,Arabic,rtl,tafsirs/urdu-qutb
+63,urdu-pir-karam-shah,Pir Karam Shah Tafsir,Pir Karam Shah,urdu,Arabic,rtl,tafsirs/urdu-pir-karam-shah
+64,urdu-tibyan-ul-quran,Tibyan-ul-Quran,Allama Ghulam Rasool Sa'idi,urdu,Arabic,rtl,tafsirs/urdu-tibyan-ul-quran
+65,urdu-tafheem-ul-quran,Tafheem-ul-Quran,Maulana Abul A'la Maududi,urdu,Arabic,rtl,tafsirs/urdu-tafheem-ul-quran
+66,urdu-ahsan-ul-bayan,Ahsan-ul-Bayan Tafsir,Hafiz Salahuddin Yusuf,urdu,Arabic,rtl,tafsirs/urdu-ahsan-ul-bayan
+67,urdu-naimi,Tafsir Naeemi,Mufti Ahmad Yar Khan Naeemi,urdu,Arabic,rtl,tafsirs/urdu-naimi
+68,urdu-nadwi,Tafsir al-Nadwi,Abul Hasan Ali al-Nadwi,urdu,Arabic,rtl,tafsirs/urdu-nadwi
+69,urdu-mukhtasar,Urdu Mukhtasar,Urdu Scholars,urdu,Arabic,rtl,tafsirs/urdu-mukhtasar
+70,swahili-abdullah-khamis,Swahili Tafsir,Abdullah Khamis,swahili,Latin,ltr,tafsirs/swahili-abdullah-khamis
+71,tajik-khawaja-mir,Khawaja Mir Tafsir,Khawaja Mir,tajik,Cyrillic,ltr,tafsirs/tajik-khawaja-mir
+72,khmer-mukhtasar,Khmer Mukhtasar,Khmer Scholars,khmer,Khmer,ltr,tafsirs/khmer-mukhtasar
+73,kyrgyz-mukhtasar,Kyrgyz Mukhtasar,Kyrgyz Scholars,kyrgyz,Cyrillic,ltr,tafsirs/kyrgyz-mukhtasar
+74,sinhala-mukhtasar,Sinhala Mukhtasar,Sinhala Scholars,sinhala,Sinhala,ltr,tafsirs/sinhala-mukhtasar
+75,uyghur-mukhtasar,Uyghur Mukhtasar,Uyghur Scholars,uyghur,Arabic,rtl,tafsirs/uyghur-mukhtasar
+76,uzbek-mukhtasar,Uzbek Mukhtasar,Uzbek Scholars,uzbek,Cyrillic,ltr,tafsirs/uzbek-mukhtasar
+77,tagalog-mukhtasar,Tagalog Mukhtasar,Tagalog Scholars,tagalog,Latin,ltr,tafsirs/tagalog-mukhtasar
+78,serbian-mukhtasar,Serbian Mukhtasar,Serbian Scholars,serbian,Cyrillic,ltr,tafsirs/serbian-mukhtasar
+79,russian-ibn-kathir,Tafsir Ibn Kathir (Russian),Ismail ibn Kathir,russian,Cyrillic,ltr,tafsirs/russian-ibn-kathir
