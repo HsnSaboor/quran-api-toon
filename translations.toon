@@ -1,4 +1,4 @@
-translations[322]{no,id,name,author,lang,script,dir,path,has_footnotes}
+translations[334]{no,id,name,author,lang,script,dir,path,has_footnotes}
 1,amharic-zain,Zain,Muhammad Zain Zahir al-Din Khaleel,amharic,Ge'ez,ltr,translations/amharic-zain,false
 2,assamese-rafeequl-rahman,Shaykh Rafiqul Islam Habibur Rahman,Shaykh Rafiqul Islam Habibur Rahman,assamese,Assamese,ltr,translations/assamese-rafeequl-rahman,false
 3,avar-magomedov,Magomed Magomedov,Magomed Magomedovich Magomedov,avar,Cyrillic,ltr,translations/avar-magomedov,true
@@ -33,7 +33,7 @@ translations[322]{no,id,name,author,lang,script,dir,path,has_footnotes}
 32,somali-abduh,Shaykh Mahmood Muhammad Abduh,Shaykh Mahmood Muhammad Abduh,somali,Latin,ltr,translations/somali-abduh,false
 33,malay-basamia,Abdullah Muhammad Basmih,Abdullah Muhammad Basmih,malay,Latin,ltr,translations/malay-basamia,false
 34,indonesian-islamic-affairs,Indonesian Islamic Affairs Ministry,Indonesian Islamic Affairs Ministry,indonesian,Latin,ltr,translations/indonesian-islamic-affairs,true
-35,indonesian-king-fahad,King Fahad Complex,King Fahad Complex,indonesian,Latin,ltr,translations/indonesian-king-fahad,true
+35,indonesian-king-fahad,King Fahad Complex (Alt),King Fahad Complex,indonesian,Latin,ltr,translations/indonesian-king-fahad,true
 36,italian-piccardo,Hamza Roberto Piccardo,Hamza Roberto Piccardo,italian,Latin,ltr,translations/italian-piccardo,true
 37,italian-sharif,Othman al-Sharif,Othman al-Sharif,italian,Latin,ltr,translations/italian-sharif,false
 38,japanese-mita,Ryoichi Mita,Ryoichi Mita,japanese,Japanese,ltr,translations/japanese-mita,false
@@ -65,11 +65,8 @@ translations[322]{no,id,name,author,lang,script,dir,path,has_footnotes}
 64,persian-hamza,Hussein Taji Kal Dari,Hussein Taji Kal Dari,persian,Arabic,rtl,translations/persian-hamza,false
 65,polish-bielawski,Józef Bielawski,Józef Bielawski,polish,Latin,ltr,translations/polish-bielawski,false
 66,portuguese-nasr,Helmi Nasr,Helmi Nasr,portuguese,Latin,ltr,translations/portuguese-nasr,false
-68,punjabi-arif,Arif Translation,Arif Halim,gurmukhi,Gurmukhi,ltr,translations/punjabi-arif,false
-69,romanian-grigore,Grigore,George Grigore,romanian,Latin,ltr,translations/romanian-grigore,false
-70,romanian-rowwad,Rowwad Translation Center,Rowwad Translation Center,romanian,Latin,ltr,translations/romanian-rowwad,false
-71,rundi-gehiti,Sheikh Gihete Yusufu,Sheikh Gihete Yusufu,rundi,Latin,ltr,translations/rundi-gehiti,false
-72,russian-kuliev,Russian Translation ( Elmir Kuliev ),Elmir Kuliev,russian,Cyrillic,ltr,translations/russian-kuliev,false
+67,punjabi-gurmukhi,Gurmukhi Translation,Arif Halim,gurmukhi,Gurmukhi,ltr,translations/punjabi-gurmukhi,false
+68,russian-kuliev,Russian Translation ( Elmir Kuliev ),Elmir Kuliev,russian,Cyrillic,ltr,translations/russian-kuliev,false
 73,russian-osmanov,Osmanov (Notes),Osmanov,russian,Cyrillic,ltr,translations/russian-osmanov,false
 74,ukrainian-yaqubovic,Yaqubovic,Dr. Mikhailo Yaqubovic,ukrainian,Cyrillic,ltr,translations/ukrainian-yaqubovic,false
 75,serbian-mehanovi,Mehanovic,Muhamed Mehanovic,serbian,Latin,ltr,translations/serbian-mehanovi,false
@@ -89,29 +86,29 @@ translations[322]{no,id,name,author,lang,script,dir,path,has_footnotes}
 89,tatar-yakub,Tatar,Tatar,tatar,Cyrillic,ltr,translations/tatar-yakub,false
 90,thai-king-fahad-complex,Thai Translation (King Fahad Quran Complex),King Fahad Complex,thai,Thai,ltr,translations/thai-king-fahad-complex,false
 91,thai-siu,Society of Institutes and Universities,Society of Institutes and Universities,thai,Thai,ltr,translations/thai-siu,false
-92,turkish-britch,Shaban Britch,Shaban Britch,turkish,Latin,ltr,translations/turkish-britch,false
+92,turkish-britch,Shaban Britch (Alt),Shaban Britch,turkish,Latin,ltr,translations/turkish-britch,false
 93,hebrew-dar-al-salam,Dar Al-Salam Center,Dar Al-Salam Center,hebrew,Hebrew,rtl,translations/hebrew-dar-al-salam,false
 94,turkish-diyanet,Turkish Translation(Diyanet),Diyanet Isleri,turkish,Latin,ltr,translations/turkish-diyanet,false
 95,spanish-noor-turkish,Noor,Noor International Center,spanish,Latin,ltr,translations/spanish-noor-turkish,true
-96,turkish-yazir,Elmalili Hamdi Yazir,Elmalili Hamdi Yazir,turkish,Latin,ltr,translations/turkish-yazir,false
+96,turkish-yazir,Elmalili Hamdi Yazir (Alt),Elmalili Hamdi Yazir,turkish,Latin,ltr,translations/turkish-yazir,false
 97,urdu-israr,Bayan-ul-Quran,Dr. Israr Ahmad,urdu,Arabic,rtl,translations/urdu-israr,false
-98,urdu-jalandhari,Fatah Muhammad Jalandhari,Fatah Muhammad Jalandhari,urdu,Arabic,rtl,translations/urdu-jalandhari,false
+98,urdu-jalandhari,Fatah Muhammad Jalandhari (Alt),Fatah Muhammad Jalandhari,urdu,Arabic,rtl,translations/urdu-jalandhari,false
 99,urdu-junagarhi,Maulana Muhammad Junagarhi,Maulana Muhammad Junagarhi,urdu,Arabic,rtl,translations/urdu-junagarhi,true
 100,urdu-tafheem-ul-quran,Urdu Tafheem-ul-Quran,Syed Abul A'la Maududi,urdu,Arabic,rtl,translations/urdu-tafheem-ul-quran,true
 101,urdu-qutb,Fe Zilal al-Qur'an,Sayyid Ibrahim Qutb,urdu,Arabic,rtl,translations/urdu-qutb,false
 102,english-taqi-usmani,Mufti Muhammad Taqi Usmani,Mufti Muhammad Taqi Usmani,english,Latin,ltr,translations/english-taqi-usmani,false
-103,urdu-usmani,Shaykh al-Hind Mahmud al-Hasan(with Tafsir E Usmani),Shaykh al-Hind Mahmud al-Hasan,urdu,Arabic,rtl,translations/urdu-usmani,true
+103,urdu-usmani,Shaykh al-Hind Mahmud al-Hasan (Alt),Shaykh al-Hind Mahmud al-Hasan,urdu,Arabic,rtl,translations/urdu-usmani,true
 104,urdu-wahiduddin,Maulana Wahiduddin Khan,Maulana Wahiduddin Khan,urdu,Arabic,rtl,translations/urdu-wahiduddin,false
-105,yoruba-aykyuni,Aykyuni,Shaykh Abu Rahimah Mikael Aykyuni,yoruba,Latin,ltr,translations/yoruba-aykyuni,true
+105,yoruba-aykyuni,Aykyuni (Alt),Shaykh Abu Rahimah Mikael Aykyuni,yoruba,Latin,ltr,translations/yoruba-aykyuni,true
 106,uzbek-mansour,Alauddin Mansour (with Notes),Alauddin Mansour,uzbek,Cyrillic,ltr,translations/uzbek-mansour,true
 107,uzbek-rowwad,Rowwad Translation Center,Rowwad Translation Center,uzbek,Cyrillic,ltr,translations/uzbek-rowwad,false
 109,bosnian-mlivo,Mustafa Mlivo,Mustafa Mlivo,bosnian,Latin,ltr,translations/bosnian-mlivo,false
 110,czech-nykl,Nykl,Nykl,czech,Latin,ltr,translations/czech-nykl,false
 111,dutch-keyzer,Keyzer,Keyzer,dutch,Latin,ltr,translations/dutch-keyzer,false
 112,dutch-leemhuis,Fred Leemhuis (Simple),Fred Leemhuis,dutch,Latin,ltr,translations/dutch-leemhuis,false
-113,english-ahmedraza,Ahmed Raza Khan,Ahmed Raza Khan,english,Latin,ltr,translations/english-ahmedraza,false
-114,hindi-farooq,Muhammad Farooq Khan (Simplified),Muhammad Farooq Khan,hindi,Devanagari,ltr,translations/hindi-farooq,false
-115,hindi-suhel,Suhel Farooq Khan (Simplified),Suhel Farooq Khan,hindi,Devanagari,ltr,translations/hindi-suhel,false
+113,english-ahmedraza,Ahmed Raza Khan (Alt),Ahmed Raza Khan,english,Latin,ltr,translations/english-ahmedraza,false
+114,hindi-farooq,Muhammad Farooq Khan (Alt),Muhammad Farooq Khan,hindi,Devanagari,ltr,translations/hindi-farooq,false
+115,hindi-suhel,Suhel Farooq Khan (Alt),Suhel Farooq Khan,hindi,Devanagari,ltr,translations/hindi-suhel,false
 116,acehnese-tg-k-h-mahjiddin-jusuf,Tg K H Mahjiddin Jusuf,Tg K H Mahjiddin Jusuf,acehnese,Latin,ltr,translations/acehnese-tg-k-h-mahjiddin-jusuf,false
 117,afar-hamza,Hamza,Hamza,afar,Latin,ltr,translations/afar-hamza,false
 118,afrikaans-imam-m-a-baker,Imam M A Baker,Imam M A Baker,afrikaans,Latin,ltr,translations/afrikaans-imam-m-a-baker,false
@@ -162,10 +159,10 @@ translations[322]{no,id,name,author,lang,script,dir,path,has_footnotes}
 163,english-m-a-s-abdel-haleem,M.A.S. Abdel Haleem,Abdul Haleem,english,Latin,ltr,translations/english-m-a-s-abdel-haleem,false
 164,english-mir-anees-original,Mir Anees Original,Mir Anees,english,Latin,ltr,translations/english-mir-anees-original,false
 165,english-mohammad-habib-shakir,Mohammad Habib Shakir,Mohammad Habib Shakir,english,Latin,ltr,translations/english-mohammad-habib-shakir,false
-166,english-mohammad-shafi,Mufti Muhammad Shafi,Mufti Muhammad Shafi,english,Latin,ltr,translations/english-mohammad-shafi,false
+166,english-mohammad-shafi,Mufti Muhammad Shafi (Alt),Mufti Muhammad Shafi,english,Latin,ltr,translations/english-mohammad-shafi,false
 167,english-muhammad-asad,Muhammad Asad,Muhammad Asad,english,Latin,ltr,translations/english-muhammad-asad,false
 168,english-muhammad-sarwar,Muhammad Sarwar,Muhammad Sarwar,english,Latin,ltr,translations/english-muhammad-sarwar,false
-169,english-mustafa-khattab-alt,Mustafa Khattab Alt,Mustafa Khattab,english,Latin,ltr,translations/english-mustafa-khattab-alt,false
+169,english-mustafa-khattab-alt,Mustafa Khattab (Alt),Mustafa Khattab,english,Latin,ltr,translations/english-mustafa-khattab-alt,false
 170,english-n-j-dawood,N J Dawood,N. J. Dawood,english,Latin,ltr,translations/english-n-j-dawood,false
 171,english-safi-kaskas,Safi Kaskas,Safi Kaskas,english,Latin,ltr,translations/english-safi-kaskas,false
 172,english-safi-ur-rahman-al-mubarakpuri,Safi Ur Rahman Al Mubarakpuri,Safi Ur Rahman al Mubarakpuri,english,Latin,ltr,translations/english-safi-ur-rahman-al-mubarakpuri,false
@@ -188,8 +185,8 @@ translations[322]{no,id,name,author,lang,script,dir,path,has_footnotes}
 189,german-frank-bubenheim-and-nadeem,Frank Bubenheim And Nadeem,Frank Bubenheim And Nadeem,german,Latin,ltr,translations/german-frank-bubenheim-and-nadeem,false
 190,gujarati-rabila-al-umry,Rabila Al Umry,Rabila al Umry,gujarati,Gujarati,ltr,translations/gujarati-rabila-al-umry,false
 191,hausa-gummi,Muhammad Sani Umar Gumi (Alt),Muhammad Sani Umar Gumi,hausa,Latin,ltr,translations/hausa-gummi,true
-192,hindi-muhammad-farooq-khan,Muhammad Farooq Khan,Muhammad Farooq Khan,hindi,Devanagari,ltr,translations/hindi-muhammad-farooq-khan,false
-193,hindi-suhel-farooq-khan,Suhel Farooq Khan,Suhel Farooq Khan,hindi,Devanagari,ltr,translations/hindi-suhel-farooq-khan,false
+192,hindi-muhammad-farooq-khan,Muhammad Farooq Khan (Alt),Muhammad Farooq Khan,hindi,Devanagari,ltr,translations/hindi-muhammad-farooq-khan,false
+193,hindi-suhel-farooq-khan,Suhel Farooq Khan (Alt),Suhel Farooq Khan,hindi,Devanagari,ltr,translations/hindi-suhel-farooq-khan,false
 194,hungarian-dr-ahmed-abdel-rahman-al-hity,Dr Ahmed Abdel Rahman Al Hity,Dr. Ahmed Abdel Rahman Al Hity,hungarian,Latin,ltr,translations/hungarian-dr-ahmed-abdel-rahman-al-hity,false
 195,ikirundi-gehiti,Sheikh Gihete Yusufu,Sheikh Gihete Yusufu,ikirundi,Latin,ltr,translations/ikirundi-gehiti,false
 196,indonesian-complex,King Fahad Complex (with Notes),King Fahad Complex,indonesian,Latin,ltr,translations/indonesian-complex,true
@@ -201,7 +198,7 @@ translations[322]{no,id,name,author,lang,script,dir,path,has_footnotes}
 202,kannada-abdussalam-puthige,Abdussalam Puthige,Abdussalam Puthige,kannada,Kannada,ltr,translations/kannada-abdussalam-puthige,true
 203,kannada-hamza,Hamza,Hamza,kannada,Kannada,ltr,translations/kannada-hamza,true
 204,kazakh-khalifa-altay,Khalifa Altay,Khalifa Altay,kazakh,Cyrillic,ltr,translations/kazakh-khalifa-altay,false
-205,khmer-cambodia,Cambodian Muslim Community (Alternative),Cambodian Muslim Community Development,khmer,Khmer,ltr,translations/khmer-cambodia,false
+205,khmer-cambodia,Cambodian Muslim Community Development (Alt),Cambodian Muslim Community Development,khmer,Khmer,ltr,translations/khmer-cambodia,false
 206,kurdish-muhammad-saleh-bamoki,Muhammad Saleh Bamoki,Muhammad Saleh Bamoki,kurdish,Arabic,rtl,translations/kurdish-muhammad-saleh-bamoki,false
 207,kurmanji-abdullah-varli,Abdullah Varli,Abdullah Varli,kurmanji,Latin,ltr,translations/kurmanji-abdullah-varli,false
 208,kyrgyz-shams-al-din-hakim,Shams al Din Hakim,Shams al Din Hakim,kyrgyz,Cyrillic,ltr,translations/kyrgyz-shams-al-din-hakim,false
@@ -252,17 +249,16 @@ translations[322]{no,id,name,author,lang,script,dir,path,has_footnotes}
 253,turkish-suatyildirim,Suat Yildirim,Suat Yıldırım,turkish,Latin,ltr,translations/turkish-suatyildirim,false
 254,turkish-suleymanates,Suleyman Ates,Süleyman Ateş,turkish,Latin,ltr,translations/turkish-suleymanates,false
 255,turkish-tefhimulkuran,Tefhim ul-Quran,Abul A'la Maududi,turkish,Latin,ltr,translations/turkish-tefhimulkuran,false
-256,turkish-yasarnuriozturk,Yasar Nuri Ozturk,Yasar Nuri Ozturk,turkish,Latin,ltr,translations/turkish-yasarnuriozturk,false
+256,turkish-yasarnuriozturk,Yasar Nuri Ozturk (Alt),Yasar Nuri Ozturk,turkish,Latin,ltr,translations/turkish-yasarnuriozturk,false
 257,uighur-shaykh-muhammad-saleh,Muhammad Saleh,Muhammad Saleh,uyghur,Arabic,rtl,translations/uighur-shaykh-muhammad-saleh,false
 258,urdu-mufti-taqi-usmani,Mufti Taqi Usmani (Simple),Mufti Muhammad Taqi Usmani,urdu,Arabic,rtl,translations/urdu-mufti-taqi-usmani,false
 259,urdu-shaykh-al-hind-mahmud-al-hasan,Mahmud Al Hasan (Simplified),Mahmud Al Hasan,urdu,Arabic,rtl,translations/urdu-shaykh-al-hind-mahmud-al-hasan,true
-260,urdu-zeeshan-jawadi,Zeeshan Jawadi,Zeeshan Jawadi,urdu,Arabic,rtl,translations/urdu-zeeshan-jawadi,false
-261,uzbek-alauddin-mansour,Alauddin Mansour,Alauddin Mansour,uzbek,Latin,ltr,translations/uzbek-alauddin-mansour,false
+260,uzbek-alauddin-mansour,Alauddin Mansour,Alauddin Mansour,uzbek,Latin,ltr,translations/uzbek-alauddin-mansour,false
 262,uzbek-muhammad-sodik-muhammad-yusuf,Muhammad Sodik Muhammad Yusuf,Muhammad Sodik Muhammad Yusuf,uzbek,Latin,ltr,translations/uzbek-muhammad-sodik-muhammad-yusuf,false
 263,vietnamese-hasan-abdul-karim,Hasan Abdul-Karim,Hasan Abdul-Karim,vietnamese,Latin,ltr,translations/vietnamese-hasan-abdul-karim,false
 264,vietnamese-rwwad,Vietnamese Ruwwad Center,Translation Pioneers Center,vietnamese,Latin,ltr,translations/vietnamese-rwwad,false
 265,xhosa-imaam-ismaaeel-ngqoyiyana,Imaam Ismaeel Ngqoyiyana,Imaam Ismaeel Ngqoyiyana,xhosa,Latin,ltr,translations/xhosa-imaam-ismaaeel-ngqoyiyana,false
-266,yau-muhammad-bin-abdul-hamid-silika,Muhammad Bin Abdul Hamid Silika,Muhammad Bin Abdul Hamid Silika,yau,Latin,ltr,translations/yau-muhammad-bin-abdul-hamid-silika,false
+266,yau-muhammad-bin-abdul-hamid-silika,Muhammad Bin Abdul Hamid Silika (Alt),Muhammad Bin Abdul Hamid Silika,yau,Latin,ltr,translations/yau-muhammad-bin-abdul-hamid-silika,false
 267,yoruba-mikail,Mikael Aykyuni (Notes),Mikael Aykyuni,yoruba,Latin,ltr,translations/yoruba-mikail,true
 268,zulu-iqembu-lezifundiswa,Iqembu Lezifundiswa,Iqembu Lezifundiswa,zulu,Latin,ltr,translations/zulu-iqembu-lezifundiswa,false
 269,urdu-tahir-ul-qadri,Dr. Tahir ul Qadri,Dr. Tahir ul Qadri,urdu,Arabic,rtl,translations/urdu-tahir-ul-qadri,false
@@ -273,15 +269,14 @@ translations[322]{no,id,name,author,lang,script,dir,path,has_footnotes}
 274,russian-awqaf-egypt,Ministry of Awqaf (Egypt),Ministry of Awqaf (Egypt),russian,Cyrillic,ltr,translations/russian-awqaf-egypt,true
 275,urdu-hassan-rizvi,Dr. Hasan Rizvi,Dr. Hasan Rizvi,urdu,Arabic,rtl,translations/urdu-hassan-rizvi,false
 276,urdu-pir-karam-shah,Zia ul Quran,Pir Muhammad Karam Shah al-Azhari,urdu,Arabic,rtl,translations/urdu-pir-karam-shah,false
-277,yao-silika-arabic-script,Silika,Abdul Hamid Silika,yao,Arabic,rtl,translations/yao-silika-arabic-script,true
+277,yao-silika-arabic-script,Silika (Alt),Abdul Hamid Silika,yao,Arabic,rtl,translations/yao-silika-arabic-script,true
 278,english-maarif-ul-quran,Maarif Ul Quran (Tafsir),Mufti Muhammad Shafi,english,Latin,ltr,translations/english-maarif-ul-quran,0
 279,turkish-dar-al-salam,Dar Al Salam,Dar Al-Salam Center,turkish,Bengali,ltr,translations/turkish-dar-al-salam,0
 281,english-fadel-soliman,Fadel Soliman,Fadel Soliman,english,Latin,ltr,translations/english-fadel-soliman,0
 282,romanian-azzizbek-asadullah,Azzizbek Asadullah,Azzizbek Asadullah,romanian,Latin,ltr,translations/romanian-azzizbek-asadullah,0
-286,punjabi-gurmukhi,Gurmukhi Translation,Arif Halim,gurmukhi,Gurmukhi,ltr,translations/punjabi-gurmukhi,false
-288,punjabi-roshan-kakar,Roshan Kakar Translation,Roshan Kakar,punjabi,Arabic,rtl,translations/punjabi-roshan-kakar,false
+283,punjabi-roshan-kakar,Roshan Kakar Translation,Roshan Kakar,punjabi,Arabic,rtl,translations/punjabi-roshan-kakar,false
 312,english-miraneesuddin,Mir Aneesuddin,Mir Aneesuddin,english,Latin,ltr,translations/english-miraneesuddin,0
-322,english-mustafakhattaba,Mustafa Khattab Allah Edition,Mustafa Khattab Allah Edition,english,Latin,ltr,translations/english-mustafakhattaba,0
+322,english-mustafakhattaba,Mustafa Khattab (Allah Edition),Mustafa Khattab Allah Edition,english,Latin,ltr,translations/english-mustafakhattaba,false
 325,english-rowwadtranslati,Rowwad Translation Center,Rowwad Translation Center,english,Latin,ltr,translations/english-rowwadtranslati,0
 337,persian-abdolmohammaday,Abdolmohammad Ayati,Abdolmohammad Ayati,persian,Arabic,rtl,translations/persian-abdolmohammaday,0
 338,persian-abolfazlbahramp,Abolfazl Bahrampour,Abolfazl Bahrampour,persian,Arabic,rtl,translations/persian-abolfazlbahramp,0
@@ -296,16 +291,16 @@ translations[322]{no,id,name,author,lang,script,dir,path,has_footnotes}
 349,persian-nasermakaremshi,Naser Makarem Shirazi,Naser Makarem Shirazi,persian,Arabic,rtl,translations/persian-nasermakaremshi,0
 352,turkish-ademugur,Adem Ugur,Adem Ugur,turkish,Latin,ltr,translations/turkish-ademugur,0
 353,turkish-alibulac,Ali Bulac,Ali Bulac,turkish,Latin,ltr,translations/turkish-alibulac,0
-357,turkish-elmallsadelesti,Elmalili Hamdi Yazir (Simplified),Elmalili Hamdi Yazir,turkish,Latin,ltr,translations/turkish-elmallsadelesti,0
+357,turkish-elmallsadelesti,Elmalili Hamdi Yazir (Simplified),Elmalili Hamdi Yazir,turkish,Latin,ltr,translations/turkish-elmallsadelesti,false
 359,turkish-gultekinonan,Gultekin Onan,Gultekin Onan,turkish,Latin,ltr,translations/turkish-gultekinonan,0
 360,turkish-latinalphabet,Latin Alphabet,Latin Alphabet,turkish,Latin,ltr,translations/turkish-latinalphabet,0
 362,turkish-muhammetabay,Muhammet Abay,Muhammet Abay,turkish,Latin,ltr,translations/turkish-muhammetabay,0
 365,turkish-wwwislamhouseco,IslamHouse.com,IslamHouse.com,turkish,Latin,ltr,translations/turkish-wwwislamhouseco,0
-367,turkish-ynozturk,Yasar Nuri Ozturk (Simplified),Yasar Nuri Ozturk,turkish,Latin,ltr,translations/turkish-ynozturk,0
+367,turkish-ynozturk,Yasar Nuri Ozturk (Simplified Alt),Yasar Nuri Ozturk,turkish,Latin,ltr,translations/turkish-ynozturk,false
 369,amharic-sadiq-sani,Sadiq and Sani,Muhammed Sadiq and Muhammed Sani Habib,amharic,Ge'ez,ltr,translations/amharic-sadiq-sani,false
 370,arabic-abdur-rehman-tahir,Arabic Abdur Rehman Tahir Misbahul Quran,Professor Abdur Rehman Tahir,arabic,Arabic,rtl,translations/arabic-abdur-rehman-tahir,false
 
-371,english-ahmed-raza-khan,Ahmed Raza Khan Kanzul Imaan,Ahmed Raza Khan,english,Latin,ltr,translations/english-ahmed-raza-khan,false
+371,english-ahmed-raza-khan,Ahmed Raza Khan Kanzul Imaan (Alt),Ahmed Raza Khan,english,Latin,ltr,translations/english-ahmed-raza-khan,false
 
 372,punjabi-hadayat-ullah,Punjabi Hadayat Ullah Digital,Hadayat Ullah,punjabi,Arabic,rtl,translations/punjabi-hadayat-ullah,false
 
@@ -314,7 +309,7 @@ translations[322]{no,id,name,author,lang,script,dir,path,has_footnotes}
 375,punjabi-tauqeer-aman-khan,Punjabi Tauqeer Aman Khan,Tauqeer Aman Khan,punjabi,Arabic,rtl,translations/punjabi-tauqeer-aman-khan,false
 
 376,roman-arabic-eliasy,Roman Arabic M.A.H. Eliyasee,M.A.H. Eliyasee,roman-arabic,Latin,ltr,translations/roman-arabic-eliasy,false
-377,roman-urdu-jalandhry,Roman Urdu Jalandhry,Fateh Muhammad Jalandhry,roman-urdu,Latin,ltr,translations/roman-urdu-jalandhry,false
+377,roman-urdu-jalandhry,Roman Urdu Jalandhry (Alt),Fateh Muhammad Jalandhry,roman-urdu,Latin,ltr,translations/roman-urdu-jalandhry,false
 378,roman-urdu-maududi,Roman Urdu Abul A'la Maududi,Abul A'la Maududi,roman-urdu,Latin,ltr,translations/roman-urdu-maududi,false
 379,saraiki-mufti-abdul-qadir-saeedi,Saraiki Mufti Abdul Qadir Saeedi,Mufti Muhammad Abdul Qadir Saeedi,saraiki,Arabic,rtl,translations/saraiki-mufti-abdul-qadir-saeedi,false
 380,saraiki-dilshad-kalanchwi,Saraiki Dilshad Kalanchwi,Professor Dilshad Kalanchwi,saraiki,Arabic,rtl,translations/saraiki-dilshad-kalanchwi,false
@@ -328,6 +323,4 @@ translations[322]{no,id,name,author,lang,script,dir,path,has_footnotes}
 385,urdu-shah-abdul-qadir,Shah Abdul Qadir Mozohul Quran,Shah Abdul Qadir,urdu,Arabic,rtl,translations/urdu-shah-abdul-qadir,false
 
 386,urdu-shah-rafi-ud-din,Shah Rafi ud Din,Shah Rafi ud Din,urdu,Arabic,rtl,translations/urdu-shah-rafi-ud-din,false
-
-387,urdu-syed-zeeshan-haider-jawadi,Syed Zeeshan Haider Jawadi,Syed Zeeshan Haider Jawadi,urdu,Arabic,rtl,translations/urdu-syed-zeeshan-haider-jawadi,false
 
