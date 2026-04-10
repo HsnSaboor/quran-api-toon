@@ -1,14 +1,14 @@
 meta:
   type: "recitations"
   format: "word-segments"
-reciters[25]{id,name,style,audio_type,audio_base_url,audio_pattern,source}:
+reciters[24]{id,name,style,audio_type,audio_base_url,audio_pattern,source}:
   8,"Mohamed Siddiq al-Minshawi","Mujawwad","ayah","https://audio.qurancdn.com/Minshawi/Mujawwad/mp3/","{S3}{A3}.mp3","original"
   22,"Hady Toure","Murattal","surah","https://download.quranicaudio.com/qdc/hadi_toure/mp3/","{S}.mp3","original"
   23,"Khalid Al-Jalil","Murattal","surah","https://download.quranicaudio.com/qdc/khalid_jalil/murattal/mp3/","{S}.mp3","original"
   1,"AbdulBaset AbdulSamad","Mujawwad","ayah","https://cdn.jsdelivr.net/gh/zaibihsn/recitation-all@abdul-basit-abdul-samad-mujawwad-hafs-949/","{S3}{A3}.opus","recitation-all-repo"
   2,"AbdulBaset AbdulSamad","Murattal","ayah","https://cdn.jsdelivr.net/gh/zaibihsn/recitation-all@abdul-basit-abdul-samad-murattal-hafs-950/","{S3}{A3}.opus","recitation-all-repo"
   3,"Abdur-Rahman as-Sudais","Murattal","ayah","https://cdn.jsdelivr.net/gh/zaibihsn/recitation-all@abdul-rahman-al-sudais-murattal-hafs-951/","{S3}{A3}.opus","recitation-all-repo"
-  24,"Abdur-Rahman as-Sudais","Murattal 2","ayah","https://cdn.jsdelivr.net/gh/zaibihsn/recitation-all@abdur-rahman-as-sudais-recitation/","{S3}{A3}.opus","recitation-all-repo"
+  
   4,"Abu Bakr al-Shatri","Murattal","ayah","https://cdn.jsdelivr.net/gh/zaibihsn/recitation-all@abu-bakr-al-shatri-murattal-hafs-952/","{S3}{A3}.opus","recitation-all-repo"
   5,"Hani ar-Rifai","Murattal","ayah","https://cdn.jsdelivr.net/gh/zaibihsn/recitation-all@hani-ar-rifai-recitation-murattal-hafs-68/","{S3}{A3}.opus","recitation-all-repo"
   6,"Mahmoud Khalil Al-Husary","Murattal","ayah","https://cdn.jsdelivr.net/gh/zaibihsn/recitation-all@mahmoud-khalil-al-husary-murattal-hafs-955/","{S3}{A3}.opus","recitation-all-repo"
