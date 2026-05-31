@@ -1,6 +1,7 @@
 # Data files
 *.txt
 *.json
+!wbw_translations/*.json
 sandbox/
 
 # System & Environment
