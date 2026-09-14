@@ -3,6 +3,11 @@
 ## Overview
 The `mutashabihat` resource provides a mapping of "Mutashabihat" (similar/resembling verses) in the Quran. This is a valuable tool for Hifz (memorization) students to identify verses that are easily confused with others.
 
+## Statistics
+- **Total Similar Phrases (`data.toon`)**: 4,850 phrase groups (286 KB)
+- **Indexed Verse Locations (`index.toon`)**: 3,729 verses (122 KB)
+- **Coverage**: Full Quranic scope across all 114 surahs
+
 ## Structure
 *   **Index**: `mutashabihat/index.toon` (Metadata)
 *   **Data**: `mutashabihat/data.toon` (The actual mappings)
