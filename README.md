@@ -40,6 +40,7 @@ const page = await fetch(`${BASE}/quran/pages/1.toon`).then(r => r.text());
 | 16 | **Morphology** | [Guide](docs/morphology.md) | Roots, verb conjugations, per-chapter analysis |
 | 17 | **Mutashabihat** | [Guide](docs/mutashabihat.md) | Similar verses for Hifz memorization |
 | 18 | **Mutradif** | [Guide](docs/mutradif.md) | Synonym differentiation (12 languages) |
+| 19 | **Mutradif Spans** | [Guide](docs/mutradif-spans.md) | Per-ayah highlight spans, 55 editions × 604 pages (9 langs) |
 | 19 | **Topics** | [Guide](docs/topics.md) | Quranic topics index (13 languages) |
 | 20 | **Duas** | [Guide](docs/duas.md) | Hisnul Muslim supplications (16 languages, audio) |
 | 21 | **Data Scripts** | [Guide](docs/data-scripts.md) | Python tooling for conversion & maintenance |
@@ -72,6 +73,8 @@ wbw_translations/{lang}.json       # 22 word-by-word translations
 morphology/                        # 5 datasets + 114 word summaries
 mutashabihat/                      # Similar verses index & data
 mutradif/                          # Synonym differentiation (12 langs)
+mutradif_spans/{slug}/pages/{1..604}.toon  # Per-ayah highlight spans (55 editions, 9 langs)
+mutradif_spans.toon                # Spans index
 topics/                            # Quranic topics (13 langs)
 duas/                              # Hisnul Muslim (16 langs, audio)
 

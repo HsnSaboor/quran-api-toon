@@ -10,6 +10,10 @@ Each entry includes:
 - Detailed linguistic explanation (`d`), enriched with authentic, published Quranic translations and citations.
 - Concise summary definition (`s`), embedded with the exact vocabulary (`[word]`) used by published Quran translators.
 - All Quranic verse cross-references (`ay`) and occurrence frequency (`ta`).
+- **Companion resource**: [Mutradif Spans](mutradif-spans.md) — per-ayah,
+  per-edition highlight offsets (`mutradif_spans/{slug}/pages/{page}.toon`,
+  55 editions × 604 pages, 9 langs) linking translation substrings back to
+  these concept entries via `mid`/`wid`.
 
 ---
 

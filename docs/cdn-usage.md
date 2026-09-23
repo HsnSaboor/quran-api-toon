@@ -52,17 +52,22 @@ Use tagged releases. Check the [releases page](https://github.com/saboorsohaib/q
 | **WBW Translations** | `wbw_translations/{lang}.json` | — |
 | **Morphology** | `morphology/{dataset}.toon` | — |
 | **Mutradif** | `mutradif/mutradif_{lang}.toon` | — |
+| **Mutradif Spans** | `mutradif_spans/{slug}/pages/{page}.toon` | `mutradif_spans.toon` |
 | **Topics** | `topics/topics-{lang}.toon` | — |
 | **Duas** | `duas/duas/husn_{lang}.toon` | — |
 
 ## Usage Examples
 
-### Fetch Quran text and translation for page 1
+### Fetch Quran text, translation, and mutradif spans for page 1
 ```javascript
-const [arabic, english] = await Promise.all([
+const [arabic, translation, spans] = await Promise.all([
   fetch('https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@main/quran/pages/1.toon'),
-  fetch('https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@main/translations/eng-abdelhaleem/pages/1.toon'),
+  fetch('https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@main/translations/spanish-garcia/pages/1.toon'),
+  fetch('https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@main/mutradif_spans/spanish-garcia/pages/1.toon'),
 ]);
+// spans file: `spans[N]{s,a,sp}:` — one row per ayah on the page.
+// Each link: [ar0,ar1,aw,ts,te,tt,mid,wid]; highlight text.slice(ts,te);
+// if mid>0, look up wid in mutradif_{lang}.toon for the definition.
 ```
 
 ### Fetch recitation timing and audio
