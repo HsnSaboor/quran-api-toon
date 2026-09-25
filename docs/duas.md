@@ -8,15 +8,47 @@ The `duas` resource provides the complete Hisnul Muslim (Fortress of the Muslim)
 
 - **Languages**: 16 (ar, bn, bs, en, es, fa, ha, hi, id, pt, so, sw, th, ur, yo, zh)
 - **Categories**: 132 supplication categories
-- **Audio**: Category-level audio recordings in Opus format
+- **Audio**: 397 Opus recordings — 131 category-level + 266 individual-dua files
+- **Word timestamps**: 396 `.wbw.json` files (265 individual + 131 category), one per audio file
 
 ## Structure
 
 ```
 duas/duas/husn_{lang}.toon     — supplication data files
-duas/dua_audio/                 — audio directory
+duas/dua_audio/                 — audio + word-timing directory
+  <stem>.opus                   — audio (individual `<id>.opus`, category `ar_7esn_AlMoslem_by_Doors_*.opus`)
+  <stem>.wbw.json               — word-level timestamps for the matching .opus
 duas/convert_duas_to_toon.py    — conversion scripts
 duas/translate_*.py             — translation utilities
+```
+
+## Word Timestamps (`.wbw.json`)
+
+Each `<stem>.wbw.json` sits next to its `<stem>.opus` and holds one record
+per word, with `start`/`end` in seconds:
+
+```json
+[{ "word": "يَقُولُ", "start": 6.36, "end": 6.72,
+   "is_repeat": false, "is_title": false, "low_confidence": false,
+   "avg_logprob": -0.40, "min_decision_margin": 3.30,
+   "letters": [{ "char": "ي", "start": 6.36, "end": 6.36,
+                 "phonemes": [{ "phoneme": "يَ", "start": 6.36, "end": 6.36 }] }] }]
+```
+
+| Field | Description |
+|-------|-------------|
+| `word`/`start`/`end` | Word text and its time span in the audio (seconds) |
+| `is_repeat` | Word is a detected repeat of the previous wording |
+| `is_title` | Word belongs to a spoken category-title intro, not the dua text |
+| `low_confidence` | Alignment confidence below threshold (timing still usable) |
+| `letters` | Per-character spans, each with nested per-phoneme timings |
+
+Category files (`ar_7esn_AlMoslem_by_Doors_*.wbw.json`) concatenate their
+member duas in file order; unspoken gap leaders between members are
+deliberately untranscribed, so word timings skip over those gaps.
+
+```
+https://cdn.jsdelivr.net/gh/saboor/quran-api-toon@main/duas/dua_audio/22.wbw.json
 ```
 
 ## Schema
@@ -65,8 +97,19 @@ const audio = new Audio(morning[2]);
 audio.play();
 ```
 
+**Word-highlighted playback for a dua:**
+```javascript
+const wbw = await fetch(`https://cdn.../duas/dua_audio/22.wbw.json`).then(r => r.json());
+const audio = new Audio('https://cdn.../duas/dua_audio/22.opus');
+audio.ontimeupdate = () => {
+  const t = audio.currentTime;
+  const active = wbw.find(w => t >= w.start && t <= w.end);
+  highlight(active);
+};
+```
+
 ## Notes
 
-- The `dua_audio/` directory contains `.opus` audio files named by category (e.g., `ar_7esn_AlMoslem_by_Doors_028.opus`).
+- The `dua_audio/` directory contains `.opus` audio files: individual duas are named by id (e.g., `22.opus`), categories by Doors number (e.g., `ar_7esn_AlMoslem_by_Doors_028.opus`). Each has a matching `.wbw.json` with word timings.
 - Translation scripts in `duas/` can be used to add new languages.
 - The supplication content (text of each dua) is embedded in the language-specific files beyond the category listing.
