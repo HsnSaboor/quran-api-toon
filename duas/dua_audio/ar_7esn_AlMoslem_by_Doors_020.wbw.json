@@ -1,0 +1,8618 @@
+[
+  {
+    "word": "سُبْحَانَ",
+    "start": 1.36,
+    "end": 5.96,
+    "sura": 0,
+    "aya": 41,
+    "is_repeat": false,
+    "avg_logprob": -0.5450712398229872,
+    "min_decision_margin": 1.2840869426727295,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "س",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 1.36,
+        "end": 1.36,
+        "phonemes": [
+          {
+            "phoneme": "سُ",
+            "start": 1.36,
+            "end": 1.36
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [
+          "Qalqalah"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 5.36,
+        "end": 5.36,
+        "phonemes": [
+          {
+            "phoneme": "بڇ",
+            "start": 5.36,
+            "end": 5.36
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ح",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 5.5600000000000005,
+        "end": 5.5600000000000005,
+        "phonemes": [
+          {
+            "phoneme": "حَ",
+            "start": 5.5600000000000005,
+            "end": 5.5600000000000005
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 5.8,
+        "end": 5.8,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 5.8,
+            "end": 5.8
+          }
+        ]
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 5.96,
+        "end": 5.96,
+        "phonemes": [
+          {
+            "phoneme": "نَ",
+            "start": 5.96,
+            "end": 5.96
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "رَبِّيَ",
+    "start": 6.16,
+    "end": 6.5200000000000005,
+    "sura": 0,
+    "aya": 41,
+    "is_repeat": false,
+    "avg_logprob": -0.06440262489049928,
+    "min_decision_margin": 8.521012820943724,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 6.16,
+        "end": 6.16,
+        "phonemes": [
+          {
+            "phoneme": "رَ",
+            "start": 6.16,
+            "end": 6.16
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 6.4,
+        "end": 6.4,
+        "phonemes": [
+          {
+            "phoneme": "ببِ",
+            "start": 6.4,
+            "end": 6.4
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 6.5200000000000005,
+        "end": 6.5200000000000005,
+        "phonemes": [
+          {
+            "phoneme": "يَ",
+            "start": 6.5200000000000005,
+            "end": 6.5200000000000005
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "الاَعْلَي",
+    "start": 6.5600000000000005,
+    "end": 7.12,
+    "sura": 0,
+    "aya": 41,
+    "is_repeat": false,
+    "avg_logprob": -2.116974887103667,
+    "min_decision_margin": 0.45535437227226794,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 6.5600000000000005,
+        "end": 6.5600000000000005,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 6.5600000000000005,
+            "end": 6.5600000000000005
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 6.68,
+        "end": 6.68,
+        "phonemes": [
+          {
+            "phoneme": "ل",
+            "start": 6.68,
+            "end": 6.68
+          }
+        ]
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 6.76,
+        "end": 6.76,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 6.76,
+            "end": 6.76
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 6.8,
+        "end": 6.8,
+        "phonemes": [
+          {
+            "phoneme": "َ",
+            "start": 6.8,
+            "end": 6.8
+          }
+        ]
+      },
+      {
+        "char": "ع",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 6.84,
+        "end": 6.84,
+        "phonemes": [
+          {
+            "phoneme": "ع",
+            "start": 6.84,
+            "end": 6.84
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 6.96,
+        "end": 6.96,
+        "phonemes": [
+          {
+            "phoneme": "لَ",
+            "start": 6.96,
+            "end": 6.96
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 7.12,
+        "end": 7.12,
+        "phonemes": [
+          {
+            "phoneme": "ي",
+            "start": 7.12,
+            "end": 7.12
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "ثلاث",
+    "start": 8.32,
+    "end": 8.72,
+    "sura": 0,
+    "aya": 41,
+    "is_repeat": false,
+    "avg_logprob": -2.3294126393639916,
+    "min_decision_margin": 5.289954864419997,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ث",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 8.32,
+        "end": 8.32,
+        "phonemes": [
+          {
+            "phoneme": "ث",
+            "start": 8.32,
+            "end": 8.32
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 8.44,
+        "end": 8.44,
+        "phonemes": [
+          {
+            "phoneme": "ل",
+            "start": 8.44,
+            "end": 8.44
+          }
+        ]
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 8.56,
+        "end": 8.56,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 8.56,
+            "end": 8.56
+          }
+        ]
+      },
+      {
+        "char": "ث",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 8.72,
+        "end": 8.72,
+        "phonemes": [
+          {
+            "phoneme": "ث",
+            "start": 8.72,
+            "end": 8.72
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "مرَّاتٍ",
+    "start": 9.08,
+    "end": 9.23,
+    "sura": 0,
+    "aya": 41,
+    "is_repeat": false,
+    "avg_logprob": -2.94367075455375,
+    "min_decision_margin": 3.6128468168899417,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "م",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 9.08,
+        "end": 9.08,
+        "phonemes": [
+          {
+            "phoneme": "ررَ",
+            "start": 9.08,
+            "end": 9.08
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "AaredMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 9.16,
+        "end": 9.16,
+        "phonemes": [
+          {
+            "phoneme": "اااا",
+            "start": 9.16,
+            "end": 9.16
+          }
+        ]
+      },
+      {
+        "char": "ت",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 9.200000000000001,
+        "end": 9.200000000000001,
+        "phonemes": [
+          {
+            "phoneme": "ت",
+            "start": 9.200000000000001,
+            "end": 9.200000000000001
+          }
+        ]
+      },
+      {
+        "char": "ٍ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "سُبْحَانَكَ",
+    "start": 13.108125000000001,
+    "end": 13.668125,
+    "sura": 0,
+    "aya": 42,
+    "is_repeat": false,
+    "avg_logprob": -0.08005729212697285,
+    "min_decision_margin": 4.6103131882846355,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "س",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 13.108125000000001,
+        "end": 13.108125000000001,
+        "phonemes": [
+          {
+            "phoneme": "سُ",
+            "start": 13.108125000000001,
+            "end": 13.108125000000001
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [
+          "Qalqalah"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 13.188125,
+        "end": 13.188125,
+        "phonemes": [
+          {
+            "phoneme": "بڇ",
+            "start": 13.188125,
+            "end": 13.188125
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ح",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 13.348125,
+        "end": 13.348125,
+        "phonemes": [
+          {
+            "phoneme": "حَ",
+            "start": 13.348125,
+            "end": 13.348125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 13.428125,
+        "end": 13.428125,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 13.428125,
+            "end": 13.428125
+          }
+        ]
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 13.548125,
+        "end": 13.548125,
+        "phonemes": [
+          {
+            "phoneme": "نَ",
+            "start": 13.548125,
+            "end": 13.548125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 13.668125,
+        "end": 13.668125,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 13.668125,
+            "end": 13.668125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اللَّهُمَّ",
+    "start": 13.748125,
+    "end": 14.348125,
+    "sura": 0,
+    "aya": 42,
+    "is_repeat": false,
+    "avg_logprob": -1.0422755510408024,
+    "min_decision_margin": 0.49182687659049407,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 13.748125,
+        "end": 13.748125,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 13.748125,
+            "end": 13.748125
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 13.988125,
+        "end": 13.988125,
+        "phonemes": [
+          {
+            "phoneme": "للَ",
+            "start": 13.988125,
+            "end": 13.988125
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 14.028125,
+        "end": 14.028125,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 14.028125,
+            "end": 14.028125
+          }
+        ]
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 14.148125,
+        "end": 14.148125,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 14.148125,
+            "end": 14.148125
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 14.348125,
+        "end": 14.348125,
+        "phonemes": [
+          {
+            "phoneme": "ممممَ",
+            "start": 14.348125,
+            "end": 14.348125
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "رَبَّنَا",
+    "start": 14.468125,
+    "end": 14.988125,
+    "sura": 0,
+    "aya": 42,
+    "is_repeat": false,
+    "avg_logprob": -0.035749806835415905,
+    "min_decision_margin": 3.0839051753282547,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 14.468125,
+        "end": 14.468125,
+        "phonemes": [
+          {
+            "phoneme": "رَ",
+            "start": 14.468125,
+            "end": 14.468125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 14.708125,
+        "end": 14.708125,
+        "phonemes": [
+          {
+            "phoneme": "ببَ",
+            "start": 14.708125,
+            "end": 14.708125
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 14.868125000000001,
+        "end": 14.868125000000001,
+        "phonemes": [
+          {
+            "phoneme": "نَ",
+            "start": 14.868125000000001,
+            "end": 14.868125000000001
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 14.988125,
+        "end": 14.988125,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 14.988125,
+            "end": 14.988125
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَبِحَمْدِكَ",
+    "start": 15.228125,
+    "end": 15.868125000000001,
+    "sura": 0,
+    "aya": 42,
+    "is_repeat": false,
+    "avg_logprob": -0.03784152391616611,
+    "min_decision_margin": 4.115958308801055,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 15.228125,
+        "end": 15.228125,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 15.228125,
+            "end": 15.228125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 15.348125,
+        "end": 15.348125,
+        "phonemes": [
+          {
+            "phoneme": "بِ",
+            "start": 15.348125,
+            "end": 15.348125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ح",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 15.468125,
+        "end": 15.468125,
+        "phonemes": [
+          {
+            "phoneme": "حَ",
+            "start": 15.468125,
+            "end": 15.468125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 15.588125,
+        "end": 15.588125,
+        "phonemes": [
+          {
+            "phoneme": "م",
+            "start": 15.588125,
+            "end": 15.588125
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "د",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 15.708125,
+        "end": 15.708125,
+        "phonemes": [
+          {
+            "phoneme": "دِ",
+            "start": 15.708125,
+            "end": 15.708125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 15.868125000000001,
+        "end": 15.868125000000001,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 15.868125000000001,
+            "end": 15.868125000000001
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اللَّهُمَّ",
+    "start": 17.348125,
+    "end": 17.828125,
+    "sura": 0,
+    "aya": 42,
+    "is_repeat": false,
+    "avg_logprob": -1.277979808107305,
+    "min_decision_margin": 0.46614699624478817,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 17.348125,
+        "end": 17.348125,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 17.348125,
+            "end": 17.348125
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 17.508125,
+        "end": 17.508125,
+        "phonemes": [
+          {
+            "phoneme": "للَ",
+            "start": 17.508125,
+            "end": 17.508125
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 17.548125,
+        "end": 17.548125,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 17.548125,
+            "end": 17.548125
+          }
+        ]
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 17.668125,
+        "end": 17.668125,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 17.668125,
+            "end": 17.668125
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 17.828125,
+        "end": 17.828125,
+        "phonemes": [
+          {
+            "phoneme": "ممممَ",
+            "start": 17.828125,
+            "end": 17.828125
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اغْفِرْ",
+    "start": 17.868125,
+    "end": 18.148125,
+    "sura": 0,
+    "aya": 42,
+    "is_repeat": false,
+    "avg_logprob": -0.6732337261719294,
+    "min_decision_margin": 0.9669242245145142,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 17.868125,
+        "end": 17.868125,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 17.868125,
+            "end": 17.868125
+          }
+        ]
+      },
+      {
+        "char": "غ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 17.948125,
+        "end": 17.948125,
+        "phonemes": [
+          {
+            "phoneme": "غ",
+            "start": 17.948125,
+            "end": 17.948125
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ف",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 18.028125,
+        "end": 18.028125,
+        "phonemes": [
+          {
+            "phoneme": "فِ",
+            "start": 18.028125,
+            "end": 18.028125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 18.148125,
+        "end": 18.148125,
+        "phonemes": [
+          {
+            "phoneme": "ر",
+            "start": 18.148125,
+            "end": 18.148125
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "لِي",
+    "start": 18.268125,
+    "end": 18.418125,
+    "sura": 0,
+    "aya": 42,
+    "is_repeat": false,
+    "avg_logprob": -0.04634752249694429,
+    "min_decision_margin": 5.4001388074830174,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 18.268125,
+        "end": 18.268125,
+        "phonemes": [
+          {
+            "phoneme": "لِ",
+            "start": 18.268125,
+            "end": 18.268125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 18.388125000000002,
+        "end": 18.388125000000002,
+        "phonemes": [
+          {
+            "phoneme": "ۦۦ",
+            "start": 18.388125000000002,
+            "end": 18.388125000000002
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "سُبوحٌ",
+    "start": 22.251875000000002,
+    "end": 23.091875,
+    "sura": 0,
+    "aya": 43,
+    "is_repeat": false,
+    "avg_logprob": -0.8577980877254793,
+    "min_decision_margin": 7.014624314382672,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "س",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 22.251875000000002,
+        "end": 22.251875000000002,
+        "phonemes": [
+          {
+            "phoneme": "سُ",
+            "start": 22.251875000000002,
+            "end": 22.251875000000002
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 22.571875000000002,
+        "end": 22.571875000000002,
+        "phonemes": [
+          {
+            "phoneme": "ب",
+            "start": 22.571875000000002,
+            "end": 22.571875000000002
+          }
+        ]
+      },
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 22.731875000000002,
+        "end": 22.731875000000002,
+        "phonemes": [
+          {
+            "phoneme": "و",
+            "start": 22.731875000000002,
+            "end": 22.731875000000002
+          }
+        ]
+      },
+      {
+        "char": "ح",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 22.891875000000002,
+        "end": 22.891875000000002,
+        "phonemes": [
+          {
+            "phoneme": "حُ",
+            "start": 22.891875000000002,
+            "end": 22.891875000000002
+          }
+        ]
+      },
+      {
+        "char": "ٌ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 23.091875,
+        "end": 23.091875,
+        "phonemes": [
+          {
+            "phoneme": "ن",
+            "start": 23.091875,
+            "end": 23.091875
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "قُدُّوسٌ",
+    "start": 23.411875000000002,
+    "end": 24.131875,
+    "sura": 0,
+    "aya": 43,
+    "is_repeat": false,
+    "avg_logprob": -0.6458733855489347,
+    "min_decision_margin": 1.9194317548535764,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ق",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 23.411875000000002,
+        "end": 23.411875000000002,
+        "phonemes": [
+          {
+            "phoneme": "قُ",
+            "start": 23.411875000000002,
+            "end": 23.411875000000002
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "د",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 23.731875000000002,
+        "end": 23.731875000000002,
+        "phonemes": [
+          {
+            "phoneme": "ددُ",
+            "start": 23.731875000000002,
+            "end": 23.731875000000002
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 23.891875000000002,
+        "end": 23.891875000000002,
+        "phonemes": [
+          {
+            "phoneme": "ۥۥ",
+            "start": 23.891875000000002,
+            "end": 23.891875000000002
+          }
+        ]
+      },
+      {
+        "char": "س",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 24.011875,
+        "end": 24.011875,
+        "phonemes": [
+          {
+            "phoneme": "سُ",
+            "start": 24.011875,
+            "end": 24.011875
+          }
+        ]
+      },
+      {
+        "char": "ٌ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 24.131875,
+        "end": 24.131875,
+        "phonemes": [
+          {
+            "phoneme": "ن",
+            "start": 24.131875,
+            "end": 24.131875
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "رَبُّ",
+    "start": 24.811875,
+    "end": 25.051875000000003,
+    "sura": 0,
+    "aya": 43,
+    "is_repeat": false,
+    "avg_logprob": -0.05670376906969717,
+    "min_decision_margin": 0.8483207008102909,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 24.811875,
+        "end": 24.811875,
+        "phonemes": [
+          {
+            "phoneme": "رَ",
+            "start": 24.811875,
+            "end": 24.811875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 25.051875000000003,
+        "end": 25.051875000000003,
+        "phonemes": [
+          {
+            "phoneme": "ببُ",
+            "start": 25.051875000000003,
+            "end": 25.051875000000003
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "الْمَلَايِكَةِ",
+    "start": 25.131875,
+    "end": 26.091875,
+    "sura": 0,
+    "aya": 43,
+    "is_repeat": false,
+    "avg_logprob": -0.747063731786693,
+    "min_decision_margin": 0.5156061919406056,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 25.131875,
+        "end": 25.131875,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 25.131875,
+            "end": 25.131875
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 25.211875,
+        "end": 25.211875,
+        "phonemes": [
+          {
+            "phoneme": "ل",
+            "start": 25.211875,
+            "end": 25.211875
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 25.291875,
+        "end": 25.291875,
+        "phonemes": [
+          {
+            "phoneme": "مَ",
+            "start": 25.291875,
+            "end": 25.291875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 25.451875,
+        "end": 25.451875,
+        "phonemes": [
+          {
+            "phoneme": "لَ",
+            "start": 25.451875,
+            "end": 25.451875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 25.651875,
+        "end": 25.651875,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 25.651875,
+            "end": 25.651875
+          }
+        ]
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 25.811875,
+        "end": 25.811875,
+        "phonemes": [
+          {
+            "phoneme": "يِ",
+            "start": 25.811875,
+            "end": 25.811875
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 25.971875,
+        "end": 25.971875,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 25.971875,
+            "end": 25.971875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ة",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 26.091875,
+        "end": 26.091875,
+        "phonemes": [
+          {
+            "phoneme": "تِ",
+            "start": 26.091875,
+            "end": 26.091875
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَالرُّوحِ",
+    "start": 26.331875,
+    "end": 26.851875,
+    "sura": 0,
+    "aya": 43,
+    "is_repeat": false,
+    "avg_logprob": -1.2259496645253551,
+    "min_decision_margin": 0.23728471249341965,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 26.331875,
+        "end": 26.331875,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 26.331875,
+            "end": 26.331875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 26.411875000000002,
+        "end": 26.411875000000002,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 26.411875000000002,
+            "end": 26.411875000000002
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 26.611875,
+        "end": 26.611875,
+        "phonemes": [
+          {
+            "phoneme": "ررُ",
+            "start": 26.611875,
+            "end": 26.611875
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [
+          "AaredMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 26.731875000000002,
+        "end": 26.731875000000002,
+        "phonemes": [
+          {
+            "phoneme": "ۥۥۥۥ",
+            "start": 26.731875000000002,
+            "end": 26.731875000000002
+          }
+        ]
+      },
+      {
+        "char": "ح",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 26.851875,
+        "end": 26.851875,
+        "phonemes": [
+          {
+            "phoneme": "ح",
+            "start": 26.851875,
+            "end": 26.851875
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اللَّهُمَّ",
+    "start": 30.351875,
+    "end": 30.791875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -1.310443496874844,
+    "min_decision_margin": 0.9237094596028328,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 30.351875,
+        "end": 30.351875,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 30.351875,
+            "end": 30.351875
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 30.511875,
+        "end": 30.511875,
+        "phonemes": [
+          {
+            "phoneme": "للَ",
+            "start": 30.511875,
+            "end": 30.511875
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 30.551875,
+        "end": 30.551875,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 30.551875,
+            "end": 30.551875
+          }
+        ]
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 30.631875,
+        "end": 30.631875,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 30.631875,
+            "end": 30.631875
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 30.791875,
+        "end": 30.791875,
+        "phonemes": [
+          {
+            "phoneme": "ممممَ",
+            "start": 30.791875,
+            "end": 30.791875
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "لَكَ",
+    "start": 30.871875,
+    "end": 31.021874999999998,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.029642483335919678,
+    "min_decision_margin": 6.526901015546173,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 30.871875,
+        "end": 30.871875,
+        "phonemes": [
+          {
+            "phoneme": "لَ",
+            "start": 30.871875,
+            "end": 30.871875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 30.991875,
+        "end": 30.991875,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 30.991875,
+            "end": 30.991875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "سَجَدْتُ",
+    "start": 31.191875,
+    "end": 31.591874999999998,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -1.8952884231905707,
+    "min_decision_margin": 7.767470754217356,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "س",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 31.191875,
+        "end": 31.191875,
+        "phonemes": [
+          {
+            "phoneme": "سَ",
+            "start": 31.191875,
+            "end": 31.191875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ج",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 31.311875,
+        "end": 31.311875,
+        "phonemes": [
+          {
+            "phoneme": "جَ",
+            "start": 31.311875,
+            "end": 31.311875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "د",
+        "deleted": false,
+        "tajweed_rules": [
+          "Qalqalah"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 31.431874999999998,
+        "end": 31.431874999999998,
+        "phonemes": [
+          {
+            "phoneme": "دڇ",
+            "start": 31.431874999999998,
+            "end": 31.431874999999998
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ت",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 31.591874999999998,
+        "end": 31.591874999999998,
+        "phonemes": [
+          {
+            "phoneme": "تُ",
+            "start": 31.591874999999998,
+            "end": 31.591874999999998
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَبِكَ",
+    "start": 32.791875,
+    "end": 33.111875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.011794601114363305,
+    "min_decision_margin": 6.081183039001189,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 32.791875,
+        "end": 32.791875,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 32.791875,
+            "end": 32.791875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 32.951875,
+        "end": 32.951875,
+        "phonemes": [
+          {
+            "phoneme": "بِ",
+            "start": 32.951875,
+            "end": 32.951875
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 33.111875,
+        "end": 33.111875,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 33.111875,
+            "end": 33.111875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اامَنْتُ",
+    "start": 33.431875,
+    "end": 33.911875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.34308694055877054,
+    "min_decision_margin": 6.057286931201816,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 33.431875,
+        "end": 33.431875,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 33.431875,
+            "end": 33.431875
+          }
+        ]
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 33.551875,
+        "end": 33.551875,
+        "phonemes": [
+          {
+            "phoneme": "مَ",
+            "start": 33.551875,
+            "end": 33.551875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 33.711875,
+        "end": 33.711875,
+        "phonemes": [
+          {
+            "phoneme": "ن",
+            "start": 33.711875,
+            "end": 33.711875
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ت",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 33.911875,
+        "end": 33.911875,
+        "phonemes": [
+          {
+            "phoneme": "تُ",
+            "start": 33.911875,
+            "end": 33.911875
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَلَكَ",
+    "start": 35.111875,
+    "end": 35.431875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.006822534377634939,
+    "min_decision_margin": 6.397379954578355,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 35.111875,
+        "end": 35.111875,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 35.111875,
+            "end": 35.111875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 35.231875,
+        "end": 35.231875,
+        "phonemes": [
+          {
+            "phoneme": "لَ",
+            "start": 35.231875,
+            "end": 35.231875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 35.431875,
+        "end": 35.431875,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 35.431875,
+            "end": 35.431875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اَسْلَمْتُ",
+    "start": 35.591875,
+    "end": 36.191874999999996,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.8260458495769853,
+    "min_decision_margin": 1.0100361839868128,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 35.591875,
+        "end": 35.591875,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 35.591875,
+            "end": 35.591875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 35.671875,
+        "end": 35.671875,
+        "phonemes": [
+          {
+            "phoneme": "َ",
+            "start": 35.671875,
+            "end": 35.671875
+          }
+        ]
+      },
+      {
+        "char": "س",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 35.751875,
+        "end": 35.751875,
+        "phonemes": [
+          {
+            "phoneme": "س",
+            "start": 35.751875,
+            "end": 35.751875
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 35.831875,
+        "end": 35.831875,
+        "phonemes": [
+          {
+            "phoneme": "لَ",
+            "start": 35.831875,
+            "end": 35.831875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 35.991875,
+        "end": 35.991875,
+        "phonemes": [
+          {
+            "phoneme": "م",
+            "start": 35.991875,
+            "end": 35.991875
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ت",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 36.191874999999996,
+        "end": 36.191874999999996,
+        "phonemes": [
+          {
+            "phoneme": "تُ",
+            "start": 36.191874999999996,
+            "end": 36.191874999999996
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "سَجَدَ",
+    "start": 37.631875,
+    "end": 37.871875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.02705911814700812,
+    "min_decision_margin": 8.06932992162183,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "س",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 37.631875,
+        "end": 37.631875,
+        "phonemes": [
+          {
+            "phoneme": "سَ",
+            "start": 37.631875,
+            "end": 37.631875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ج",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 37.711875,
+        "end": 37.711875,
+        "phonemes": [
+          {
+            "phoneme": "جَ",
+            "start": 37.711875,
+            "end": 37.711875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "د",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 37.871875,
+        "end": 37.871875,
+        "phonemes": [
+          {
+            "phoneme": "دَ",
+            "start": 37.871875,
+            "end": 37.871875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَجْهِيَ",
+    "start": 38.031875,
+    "end": 38.391875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -1.2274983476123453,
+    "min_decision_margin": 3.5732307583093643,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 38.031875,
+        "end": 38.031875,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 38.031875,
+            "end": 38.031875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ج",
+        "deleted": false,
+        "tajweed_rules": [
+          "Qalqalah"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 38.151875000000004,
+        "end": 38.151875000000004,
+        "phonemes": [
+          {
+            "phoneme": "جڇ",
+            "start": 38.151875000000004,
+            "end": 38.151875000000004
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 38.271875,
+        "end": 38.271875,
+        "phonemes": [
+          {
+            "phoneme": "هِ",
+            "start": 38.271875,
+            "end": 38.271875
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 38.391875,
+        "end": 38.391875,
+        "phonemes": [
+          {
+            "phoneme": "يَ",
+            "start": 38.391875,
+            "end": 38.391875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "لِلَّذِي",
+    "start": 38.471875,
+    "end": 38.951875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.02866224646389198,
+    "min_decision_margin": 4.812308224849403,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 38.471875,
+        "end": 38.471875,
+        "phonemes": [
+          {
+            "phoneme": "لِ",
+            "start": 38.471875,
+            "end": 38.471875
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 38.671875,
+        "end": 38.671875,
+        "phonemes": [
+          {
+            "phoneme": "للَ",
+            "start": 38.671875,
+            "end": 38.671875
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ذ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 38.831875,
+        "end": 38.831875,
+        "phonemes": [
+          {
+            "phoneme": "ذِ",
+            "start": 38.831875,
+            "end": 38.831875
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 38.951875,
+        "end": 38.951875,
+        "phonemes": [
+          {
+            "phoneme": "ۦۦ",
+            "start": 38.951875,
+            "end": 38.951875
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "خَلَقَهُ",
+    "start": 39.151875000000004,
+    "end": 39.671875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.006510719946943157,
+    "min_decision_margin": 5.797648182138801,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "خ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 39.151875000000004,
+        "end": 39.151875000000004,
+        "phonemes": [
+          {
+            "phoneme": "خَ",
+            "start": 39.151875000000004,
+            "end": 39.151875000000004
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 39.271875,
+        "end": 39.271875,
+        "phonemes": [
+          {
+            "phoneme": "لَ",
+            "start": 39.271875,
+            "end": 39.271875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ق",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 39.471875,
+        "end": 39.471875,
+        "phonemes": [
+          {
+            "phoneme": "قَ",
+            "start": 39.471875,
+            "end": 39.471875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 39.671875,
+        "end": 39.671875,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 39.671875,
+            "end": 39.671875
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَصَوَّرَهُ",
+    "start": 39.991875,
+    "end": 40.631875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.04423049366039991,
+    "min_decision_margin": 5.276347688399255,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 39.991875,
+        "end": 39.991875,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 39.991875,
+            "end": 39.991875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ص",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 40.151875000000004,
+        "end": 40.151875000000004,
+        "phonemes": [
+          {
+            "phoneme": "صَ",
+            "start": 40.151875000000004,
+            "end": 40.151875000000004
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 40.351875,
+        "end": 40.351875,
+        "phonemes": [
+          {
+            "phoneme": "ووَ",
+            "start": 40.351875,
+            "end": 40.351875
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 40.471875,
+        "end": 40.471875,
+        "phonemes": [
+          {
+            "phoneme": "رَ",
+            "start": 40.471875,
+            "end": 40.471875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 40.631875,
+        "end": 40.631875,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 40.631875,
+            "end": 40.631875
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَشَقَّ",
+    "start": 42.031875,
+    "end": 42.431875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.02547355844448744,
+    "min_decision_margin": 6.056950288359076,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 42.031875,
+        "end": 42.031875,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 42.031875,
+            "end": 42.031875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ش",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 42.191874999999996,
+        "end": 42.191874999999996,
+        "phonemes": [
+          {
+            "phoneme": "شَ",
+            "start": 42.191874999999996,
+            "end": 42.191874999999996
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ق",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 42.431875,
+        "end": 42.431875,
+        "phonemes": [
+          {
+            "phoneme": "ققَ",
+            "start": 42.431875,
+            "end": 42.431875
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "سَمْعَهُ",
+    "start": 42.631875,
+    "end": 43.111875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.021157191284985926,
+    "min_decision_margin": 5.618545426055789,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "س",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 42.631875,
+        "end": 42.631875,
+        "phonemes": [
+          {
+            "phoneme": "سَ",
+            "start": 42.631875,
+            "end": 42.631875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 42.751875,
+        "end": 42.751875,
+        "phonemes": [
+          {
+            "phoneme": "م",
+            "start": 42.751875,
+            "end": 42.751875
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ع",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 42.911875,
+        "end": 42.911875,
+        "phonemes": [
+          {
+            "phoneme": "عَ",
+            "start": 42.911875,
+            "end": 42.911875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 43.111875,
+        "end": 43.111875,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 43.111875,
+            "end": 43.111875
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَبَصَرَهُ",
+    "start": 43.311875,
+    "end": 43.831875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.7060540726077826,
+    "min_decision_margin": 6.118247155100107,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 43.311875,
+        "end": 43.311875,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 43.311875,
+            "end": 43.311875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 43.471875,
+        "end": 43.471875,
+        "phonemes": [
+          {
+            "phoneme": "بَ",
+            "start": 43.471875,
+            "end": 43.471875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ص",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 43.591875,
+        "end": 43.591875,
+        "phonemes": [
+          {
+            "phoneme": "صَ",
+            "start": 43.591875,
+            "end": 43.591875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 43.751875,
+        "end": 43.751875,
+        "phonemes": [
+          {
+            "phoneme": "رَ",
+            "start": 43.751875,
+            "end": 43.751875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 43.831875,
+        "end": 43.831875,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 43.831875,
+            "end": 43.831875
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "تَبَارَكَ",
+    "start": 45.311875,
+    "end": 45.991875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.008827877030044975,
+    "min_decision_margin": 6.720846778334817,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ت",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 45.311875,
+        "end": 45.311875,
+        "phonemes": [
+          {
+            "phoneme": "تَ",
+            "start": 45.311875,
+            "end": 45.311875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 45.551874999999995,
+        "end": 45.551874999999995,
+        "phonemes": [
+          {
+            "phoneme": "بَ",
+            "start": 45.551874999999995,
+            "end": 45.551874999999995
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 45.671875,
+        "end": 45.671875,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 45.671875,
+            "end": 45.671875
+          }
+        ]
+      },
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 45.831875,
+        "end": 45.831875,
+        "phonemes": [
+          {
+            "phoneme": "رَ",
+            "start": 45.831875,
+            "end": 45.831875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 45.991875,
+        "end": 45.991875,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 45.991875,
+            "end": 45.991875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اللَّهُ",
+    "start": 46.111875,
+    "end": 46.711875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.4474589799774549,
+    "min_decision_margin": 0.4493045164272189,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 46.111875,
+        "end": 46.111875,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 46.111875,
+            "end": 46.111875
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 46.471875,
+        "end": 46.471875,
+        "phonemes": [
+          {
+            "phoneme": "للَ",
+            "start": 46.471875,
+            "end": 46.471875
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 46.551874999999995,
+        "end": 46.551874999999995,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 46.551874999999995,
+            "end": 46.551874999999995
+          }
+        ]
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 46.711875,
+        "end": 46.711875,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 46.711875,
+            "end": 46.711875
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اَحْسنُ",
+    "start": 46.911874999999995,
+    "end": 47.271875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -1.8930288384552114,
+    "min_decision_margin": 0.34987333277240396,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 46.911874999999995,
+        "end": 46.911874999999995,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 46.911874999999995,
+            "end": 46.911874999999995
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 46.951875,
+        "end": 46.951875,
+        "phonemes": [
+          {
+            "phoneme": "َ",
+            "start": 46.951875,
+            "end": 46.951875
+          }
+        ]
+      },
+      {
+        "char": "ح",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 47.031875,
+        "end": 47.031875,
+        "phonemes": [
+          {
+            "phoneme": "ح",
+            "start": 47.031875,
+            "end": 47.031875
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "س",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 47.111875,
+        "end": 47.111875,
+        "phonemes": [
+          {
+            "phoneme": "س",
+            "start": 47.111875,
+            "end": 47.111875
+          }
+        ]
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 47.271875,
+        "end": 47.271875,
+        "phonemes": [
+          {
+            "phoneme": "نُ",
+            "start": 47.271875,
+            "end": 47.271875
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "الْخَالِقينَ",
+    "start": 47.351875,
+    "end": 48.231875,
+    "sura": 0,
+    "aya": 44,
+    "is_repeat": false,
+    "avg_logprob": -0.5937536481357282,
+    "min_decision_margin": 0.6597460205666721,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 47.351875,
+        "end": 47.351875,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 47.351875,
+            "end": 47.351875
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 47.431875000000005,
+        "end": 47.431875000000005,
+        "phonemes": [
+          {
+            "phoneme": "ل",
+            "start": 47.431875000000005,
+            "end": 47.431875000000005
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "خ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 47.591875,
+        "end": 47.591875,
+        "phonemes": [
+          {
+            "phoneme": "خَ",
+            "start": 47.591875,
+            "end": 47.591875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 47.671875,
+        "end": 47.671875,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 47.671875,
+            "end": 47.671875
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 47.791875000000005,
+        "end": 47.791875000000005,
+        "phonemes": [
+          {
+            "phoneme": "لِ",
+            "start": 47.791875000000005,
+            "end": 47.791875000000005
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ق",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 47.951875,
+        "end": 47.951875,
+        "phonemes": [
+          {
+            "phoneme": "ق",
+            "start": 47.951875,
+            "end": 47.951875
+          }
+        ]
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 48.151875000000004,
+        "end": 48.151875000000004,
+        "phonemes": [
+          {
+            "phoneme": "ي",
+            "start": 48.151875000000004,
+            "end": 48.151875000000004
+          }
+        ]
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 48.231875,
+        "end": 48.231875,
+        "phonemes": [
+          {
+            "phoneme": "ن",
+            "start": 48.231875,
+            "end": 48.231875
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "سُبْحَانَ",
+    "start": 52.420625,
+    "end": 53.100625,
+    "sura": 0,
+    "aya": 45,
+    "is_repeat": false,
+    "avg_logprob": -0.0036453489351262964,
+    "min_decision_margin": 5.687588537344709,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "س",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 52.420625,
+        "end": 52.420625,
+        "phonemes": [
+          {
+            "phoneme": "سُ",
+            "start": 52.420625,
+            "end": 52.420625
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [
+          "Qalqalah"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 52.540625000000006,
+        "end": 52.540625000000006,
+        "phonemes": [
+          {
+            "phoneme": "بڇ",
+            "start": 52.540625000000006,
+            "end": 52.540625000000006
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ح",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 52.740625,
+        "end": 52.740625,
+        "phonemes": [
+          {
+            "phoneme": "حَ",
+            "start": 52.740625,
+            "end": 52.740625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 52.940625000000004,
+        "end": 52.940625000000004,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 52.940625000000004,
+            "end": 52.940625000000004
+          }
+        ]
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 53.100625,
+        "end": 53.100625,
+        "phonemes": [
+          {
+            "phoneme": "نَ",
+            "start": 53.100625,
+            "end": 53.100625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "ذِي",
+    "start": 53.260625000000005,
+    "end": 53.410625,
+    "sura": 0,
+    "aya": 45,
+    "is_repeat": false,
+    "avg_logprob": -7.606081485748291,
+    "min_decision_margin": 13.82532096777868,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ذ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 53.260625000000005,
+        "end": 53.260625000000005,
+        "phonemes": [
+          {
+            "phoneme": "ذِ",
+            "start": 53.260625000000005,
+            "end": 53.260625000000005
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 53.300625000000004,
+        "end": 53.300625000000004,
+        "phonemes": [
+          {
+            "phoneme": "ۦۦ",
+            "start": 53.300625000000004,
+            "end": 53.300625000000004
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "الْجَبَرُوتِ",
+    "start": 53.420625,
+    "end": 54.260625000000005,
+    "sura": 0,
+    "aya": 45,
+    "is_repeat": false,
+    "avg_logprob": -0.5582733713173514,
+    "min_decision_margin": 1.3972446024513374,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 53.420625,
+        "end": 53.420625,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 53.420625,
+            "end": 53.420625
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 53.460625,
+        "end": 53.460625,
+        "phonemes": [
+          {
+            "phoneme": "ل",
+            "start": 53.460625,
+            "end": 53.460625
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ج",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 53.540625000000006,
+        "end": 53.540625000000006,
+        "phonemes": [
+          {
+            "phoneme": "جَ",
+            "start": 53.540625000000006,
+            "end": 53.540625000000006
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 53.700625,
+        "end": 53.700625,
+        "phonemes": [
+          {
+            "phoneme": "بَ",
+            "start": 53.700625,
+            "end": 53.700625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 53.900625000000005,
+        "end": 53.900625000000005,
+        "phonemes": [
+          {
+            "phoneme": "رُ",
+            "start": 53.900625000000005,
+            "end": 53.900625000000005
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 54.140625,
+        "end": 54.140625,
+        "phonemes": [
+          {
+            "phoneme": "ۥۥ",
+            "start": 54.140625,
+            "end": 54.140625
+          }
+        ]
+      },
+      {
+        "char": "ت",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 54.260625000000005,
+        "end": 54.260625000000005,
+        "phonemes": [
+          {
+            "phoneme": "تِ",
+            "start": 54.260625000000005,
+            "end": 54.260625000000005
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَالْمَلَكُوتِ",
+    "start": 54.460625,
+    "end": 55.500625,
+    "sura": 0,
+    "aya": 45,
+    "is_repeat": false,
+    "avg_logprob": -0.3808461853233759,
+    "min_decision_margin": 0.8433169214986265,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 54.460625,
+        "end": 54.460625,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 54.460625,
+            "end": 54.460625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 54.500625,
+        "end": 54.500625,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 54.500625,
+            "end": 54.500625
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 54.660625,
+        "end": 54.660625,
+        "phonemes": [
+          {
+            "phoneme": "ل",
+            "start": 54.660625,
+            "end": 54.660625
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 54.780625,
+        "end": 54.780625,
+        "phonemes": [
+          {
+            "phoneme": "مَ",
+            "start": 54.780625,
+            "end": 54.780625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 54.900625000000005,
+        "end": 54.900625000000005,
+        "phonemes": [
+          {
+            "phoneme": "لَ",
+            "start": 54.900625000000005,
+            "end": 54.900625000000005
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 55.180625000000006,
+        "end": 55.180625000000006,
+        "phonemes": [
+          {
+            "phoneme": "كُ",
+            "start": 55.180625000000006,
+            "end": 55.180625000000006
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 55.380625,
+        "end": 55.380625,
+        "phonemes": [
+          {
+            "phoneme": "ۥۥ",
+            "start": 55.380625,
+            "end": 55.380625
+          }
+        ]
+      },
+      {
+        "char": "ت",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 55.500625,
+        "end": 55.500625,
+        "phonemes": [
+          {
+            "phoneme": "تِ",
+            "start": 55.500625,
+            "end": 55.500625
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَالْكِبْرِيَاءِ",
+    "start": 55.700625,
+    "end": 56.780625,
+    "sura": 0,
+    "aya": 45,
+    "is_repeat": false,
+    "avg_logprob": -0.5931534077065278,
+    "min_decision_margin": 0.21593975322321057,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 55.700625,
+        "end": 55.700625,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 55.700625,
+            "end": 55.700625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 55.780625,
+        "end": 55.780625,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 55.780625,
+            "end": 55.780625
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 55.860625000000006,
+        "end": 55.860625000000006,
+        "phonemes": [
+          {
+            "phoneme": "ل",
+            "start": 55.860625000000006,
+            "end": 55.860625000000006
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 55.980625,
+        "end": 55.980625,
+        "phonemes": [
+          {
+            "phoneme": "كِ",
+            "start": 55.980625,
+            "end": 55.980625
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [
+          "Qalqalah"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 56.140625,
+        "end": 56.140625,
+        "phonemes": [
+          {
+            "phoneme": "بڇ",
+            "start": 56.140625,
+            "end": 56.140625
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 56.300625000000004,
+        "end": 56.300625000000004,
+        "phonemes": [
+          {
+            "phoneme": "رِ",
+            "start": 56.300625000000004,
+            "end": 56.300625000000004
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 56.460625,
+        "end": 56.460625,
+        "phonemes": [
+          {
+            "phoneme": "يَ",
+            "start": 56.460625,
+            "end": 56.460625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 56.660625,
+        "end": 56.660625,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 56.660625,
+            "end": 56.660625
+          }
+        ]
+      },
+      {
+        "char": "ء",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 56.780625,
+        "end": 56.780625,
+        "phonemes": [
+          {
+            "phoneme": "ءِ",
+            "start": 56.780625,
+            "end": 56.780625
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَالْعَظَمَةِ",
+    "start": 56.940625000000004,
+    "end": 60.580625000000005,
+    "sura": 0,
+    "aya": 45,
+    "is_repeat": false,
+    "avg_logprob": -0.47121995284754553,
+    "min_decision_margin": 0.24503219965845346,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 56.940625000000004,
+        "end": 56.940625000000004,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 56.940625000000004,
+            "end": 56.940625000000004
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 57.020625,
+        "end": 57.020625,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 57.020625,
+            "end": 57.020625
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 57.100625,
+        "end": 57.100625,
+        "phonemes": [
+          {
+            "phoneme": "ل",
+            "start": 57.100625,
+            "end": 57.100625
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ع",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 57.180625000000006,
+        "end": 57.180625000000006,
+        "phonemes": [
+          {
+            "phoneme": "عَ",
+            "start": 57.180625000000006,
+            "end": 57.180625000000006
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ظ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 57.300625000000004,
+        "end": 57.300625000000004,
+        "phonemes": [
+          {
+            "phoneme": "ظَ",
+            "start": 57.300625000000004,
+            "end": 57.300625000000004
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 57.420625,
+        "end": 57.420625,
+        "phonemes": [
+          {
+            "phoneme": "مَ",
+            "start": 57.420625,
+            "end": 57.420625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ة",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 60.580625000000005,
+        "end": 60.580625000000005,
+        "phonemes": [
+          {
+            "phoneme": "ه",
+            "start": 60.580625000000005,
+            "end": 60.580625000000005
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اللَّهُمَّ",
+    "start": 62.45625,
+    "end": 62.896249999999995,
+    "sura": 0,
+    "aya": 46,
+    "is_repeat": false,
+    "avg_logprob": -1.10216148585702,
+    "min_decision_margin": 1.0459409076720476,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 62.45625,
+        "end": 62.45625,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 62.45625,
+            "end": 62.45625
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 62.616249999999994,
+        "end": 62.616249999999994,
+        "phonemes": [
+          {
+            "phoneme": "للَ",
+            "start": 62.616249999999994,
+            "end": 62.616249999999994
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 62.65625,
+        "end": 62.65625,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 62.65625,
+            "end": 62.65625
+          }
+        ]
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 62.73625,
+        "end": 62.73625,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 62.73625,
+            "end": 62.73625
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 62.896249999999995,
+        "end": 62.896249999999995,
+        "phonemes": [
+          {
+            "phoneme": "ممممَ",
+            "start": 62.896249999999995,
+            "end": 62.896249999999995
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اغْفِرْ",
+    "start": 63.01625,
+    "end": 63.256249999999994,
+    "sura": 0,
+    "aya": 46,
+    "is_repeat": false,
+    "avg_logprob": -0.837451591023377,
+    "min_decision_margin": 1.4037039522081614,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 63.01625,
+        "end": 63.01625,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 63.01625,
+            "end": 63.01625
+          }
+        ]
+      },
+      {
+        "char": "غ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 63.05625,
+        "end": 63.05625,
+        "phonemes": [
+          {
+            "phoneme": "غ",
+            "start": 63.05625,
+            "end": 63.05625
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ف",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 63.13625,
+        "end": 63.13625,
+        "phonemes": [
+          {
+            "phoneme": "فِ",
+            "start": 63.13625,
+            "end": 63.13625
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 63.256249999999994,
+        "end": 63.256249999999994,
+        "phonemes": [
+          {
+            "phoneme": "ر",
+            "start": 63.256249999999994,
+            "end": 63.256249999999994
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "لِي",
+    "start": 63.41625,
+    "end": 63.576249999999995,
+    "sura": 0,
+    "aya": 46,
+    "is_repeat": false,
+    "avg_logprob": -0.055147919431328775,
+    "min_decision_margin": 2.248208075761795,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 63.41625,
+        "end": 63.41625,
+        "phonemes": [
+          {
+            "phoneme": "لِ",
+            "start": 63.41625,
+            "end": 63.41625
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 63.576249999999995,
+        "end": 63.576249999999995,
+        "phonemes": [
+          {
+            "phoneme": "ۦۦ",
+            "start": 63.576249999999995,
+            "end": 63.576249999999995
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "ذَنْبِي",
+    "start": 63.73625,
+    "end": 64.17625,
+    "sura": 0,
+    "aya": 46,
+    "is_repeat": false,
+    "avg_logprob": -0.057801410892958906,
+    "min_decision_margin": 4.028186742216349,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ذ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 63.73625,
+        "end": 63.73625,
+        "phonemes": [
+          {
+            "phoneme": "ذَ",
+            "start": 63.73625,
+            "end": 63.73625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 63.856249999999996,
+        "end": 63.856249999999996,
+        "phonemes": [
+          {
+            "phoneme": "ن",
+            "start": 63.856249999999996,
+            "end": 63.856249999999996
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 63.97624999999999,
+        "end": 63.97624999999999,
+        "phonemes": [
+          {
+            "phoneme": "بِ",
+            "start": 63.97624999999999,
+            "end": 63.97624999999999
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 64.17625,
+        "end": 64.17625,
+        "phonemes": [
+          {
+            "phoneme": "ۦۦ",
+            "start": 64.17625,
+            "end": 64.17625
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "كُلَّهُ",
+    "start": 64.33624999999999,
+    "end": 64.69624999999999,
+    "sura": 0,
+    "aya": 46,
+    "is_repeat": false,
+    "avg_logprob": -0.15342253348790108,
+    "min_decision_margin": 5.957265774719417,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 64.33624999999999,
+        "end": 64.33624999999999,
+        "phonemes": [
+          {
+            "phoneme": "كُ",
+            "start": 64.33624999999999,
+            "end": 64.33624999999999
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 64.53625,
+        "end": 64.53625,
+        "phonemes": [
+          {
+            "phoneme": "للَ",
+            "start": 64.53625,
+            "end": 64.53625
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 64.69624999999999,
+        "end": 64.69624999999999,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 64.69624999999999,
+            "end": 64.69624999999999
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "دِقَّهُ",
+    "start": 65.93625,
+    "end": 66.45625,
+    "sura": 0,
+    "aya": 46,
+    "is_repeat": false,
+    "avg_logprob": -0.183710440899761,
+    "min_decision_margin": 10.563920685555786,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "د",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 65.93625,
+        "end": 65.93625,
+        "phonemes": [
+          {
+            "phoneme": "دِ",
+            "start": 65.93625,
+            "end": 65.93625
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ق",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 66.25625,
+        "end": 66.25625,
+        "phonemes": [
+          {
+            "phoneme": "ققَ",
+            "start": 66.25625,
+            "end": 66.25625
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 66.45625,
+        "end": 66.45625,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 66.45625,
+            "end": 66.45625
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَجِلَّهُ",
+    "start": 66.73625,
+    "end": 67.25625,
+    "sura": 0,
+    "aya": 46,
+    "is_repeat": false,
+    "avg_logprob": -0.1298358724909901,
+    "min_decision_margin": 4.142704179510474,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 66.73625,
+        "end": 66.73625,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 66.73625,
+            "end": 66.73625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ج",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 66.89625,
+        "end": 66.89625,
+        "phonemes": [
+          {
+            "phoneme": "جِ",
+            "start": 66.89625,
+            "end": 66.89625
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 67.13624999999999,
+        "end": 67.13624999999999,
+        "phonemes": [
+          {
+            "phoneme": "للَ",
+            "start": 67.13624999999999,
+            "end": 67.13624999999999
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 67.25625,
+        "end": 67.25625,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 67.25625,
+            "end": 67.25625
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَاَوَّلَهُ",
+    "start": 68.41624999999999,
+    "end": 69.17625,
+    "sura": 0,
+    "aya": 46,
+    "is_repeat": false,
+    "avg_logprob": -0.629240258737991,
+    "min_decision_margin": 0.2378490618430078,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 68.41624999999999,
+        "end": 68.41624999999999,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 68.41624999999999,
+            "end": 68.41624999999999
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 68.57625,
+        "end": 68.57625,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 68.57625,
+            "end": 68.57625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 68.65625,
+        "end": 68.65625,
+        "phonemes": [
+          {
+            "phoneme": "َ",
+            "start": 68.65625,
+            "end": 68.65625
+          }
+        ]
+      },
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 68.81625,
+        "end": 68.81625,
+        "phonemes": [
+          {
+            "phoneme": "ووَ",
+            "start": 68.81625,
+            "end": 68.81625
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 69.01625,
+        "end": 69.01625,
+        "phonemes": [
+          {
+            "phoneme": "لَ",
+            "start": 69.01625,
+            "end": 69.01625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 69.17625,
+        "end": 69.17625,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 69.17625,
+            "end": 69.17625
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَااخِرَهُ",
+    "start": 69.53625,
+    "end": 70.21625,
+    "sura": 0,
+    "aya": 46,
+    "is_repeat": false,
+    "avg_logprob": -0.536337960954471,
+    "min_decision_margin": 4.415926739573479,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 69.53625,
+        "end": 69.53625,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 69.53625,
+            "end": 69.53625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 69.81625,
+        "end": 69.81625,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 69.81625,
+            "end": 69.81625
+          }
+        ]
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "خ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 69.89625,
+        "end": 69.89625,
+        "phonemes": [
+          {
+            "phoneme": "خِ",
+            "start": 69.89625,
+            "end": 69.89625
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 70.05624999999999,
+        "end": 70.05624999999999,
+        "phonemes": [
+          {
+            "phoneme": "رَ",
+            "start": 70.05624999999999,
+            "end": 70.05624999999999
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 70.21625,
+        "end": 70.21625,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 70.21625,
+            "end": 70.21625
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَعَلاَنِيَّتَهُ",
+    "start": 71.33624999999999,
+    "end": 72.45625,
+    "sura": 0,
+    "aya": 46,
+    "is_repeat": false,
+    "avg_logprob": -0.7968616165551418,
+    "min_decision_margin": 2.091778496571351,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 71.33624999999999,
+        "end": 71.33624999999999,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 71.33624999999999,
+            "end": 71.33624999999999
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ع",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 71.45625,
+        "end": 71.45625,
+        "phonemes": [
+          {
+            "phoneme": "عَ",
+            "start": 71.45625,
+            "end": 71.45625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 71.65625,
+        "end": 71.65625,
+        "phonemes": [
+          {
+            "phoneme": "ل",
+            "start": 71.65625,
+            "end": 71.65625
+          }
+        ]
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 71.81625,
+        "end": 71.81625,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 71.81625,
+            "end": 71.81625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 71.85625,
+        "end": 71.85625,
+        "phonemes": [
+          {
+            "phoneme": "َ",
+            "start": 71.85625,
+            "end": 71.85625
+          }
+        ]
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 71.97625,
+        "end": 71.97625,
+        "phonemes": [
+          {
+            "phoneme": "نِ",
+            "start": 71.97625,
+            "end": 71.97625
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 72.09625,
+        "end": 72.09625,
+        "phonemes": [
+          {
+            "phoneme": "ييَ",
+            "start": 72.09625,
+            "end": 72.09625
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ت",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 72.25625,
+        "end": 72.25625,
+        "phonemes": [
+          {
+            "phoneme": "تَ",
+            "start": 72.25625,
+            "end": 72.25625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 72.45625,
+        "end": 72.45625,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 72.45625,
+            "end": 72.45625
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَسِرَّهُ",
+    "start": 72.77625,
+    "end": 73.33624999999999,
+    "sura": 0,
+    "aya": 46,
+    "is_repeat": false,
+    "avg_logprob": -0.197456340425803,
+    "min_decision_margin": 4.609932146966457,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 72.77625,
+        "end": 72.77625,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 72.77625,
+            "end": 72.77625
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "س",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 72.93625,
+        "end": 72.93625,
+        "phonemes": [
+          {
+            "phoneme": "سِ",
+            "start": 72.93625,
+            "end": 72.93625
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 73.13624999999999,
+        "end": 73.13624999999999,
+        "phonemes": [
+          {
+            "phoneme": "ررَ",
+            "start": 73.13624999999999,
+            "end": 73.13624999999999
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 73.33624999999999,
+        "end": 73.33624999999999,
+        "phonemes": [
+          {
+            "phoneme": "ه",
+            "start": 73.33624999999999,
+            "end": 73.33624999999999
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اللَّهُمَّ",
+    "start": 77.973125,
+    "end": 78.373125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -1.1753323788500645,
+    "min_decision_margin": 0.04300609230995178,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 77.973125,
+        "end": 77.973125,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 77.973125,
+            "end": 77.973125
+          }
+        ]
+      },
+      {
+        "char": "ل",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 78.05312500000001,
+        "end": 78.05312500000001,
+        "phonemes": [
+          {
+            "phoneme": "للَ",
+            "start": 78.05312500000001,
+            "end": 78.05312500000001
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 78.093125,
+        "end": 78.093125,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 78.093125,
+            "end": 78.093125
+          }
+        ]
+      },
+      {
+        "char": "ه",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 78.173125,
+        "end": 78.173125,
+        "phonemes": [
+          {
+            "phoneme": "هُ",
+            "start": 78.173125,
+            "end": 78.173125
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 78.373125,
+        "end": 78.373125,
+        "phonemes": [
+          {
+            "phoneme": "ممممَ",
+            "start": 78.373125,
+            "end": 78.373125
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اِنِّي",
+    "start": 78.493125,
+    "end": 78.813125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -1.909364285477851,
+    "min_decision_margin": 0.18998281005769968,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 78.493125,
+        "end": 78.493125,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 78.493125,
+            "end": 78.493125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 78.653125,
+        "end": 78.653125,
+        "phonemes": [
+          {
+            "phoneme": "ِ",
+            "start": 78.653125,
+            "end": 78.653125
+          }
+        ]
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 78.693125,
+        "end": 78.693125,
+        "phonemes": [
+          {
+            "phoneme": "ننننِ",
+            "start": 78.693125,
+            "end": 78.693125
+          }
+        ]
+      },
+      {
+        "char": "ّ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 78.813125,
+        "end": 78.813125,
+        "phonemes": [
+          {
+            "phoneme": "ۦۦ",
+            "start": 78.813125,
+            "end": 78.813125
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اَعُوذُ",
+    "start": 78.933125,
+    "end": 79.333125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -1.549533659994433,
+    "min_decision_margin": 0.6068841436645016,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 78.933125,
+        "end": 78.933125,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 78.933125,
+            "end": 78.933125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 78.973125,
+        "end": 78.973125,
+        "phonemes": [
+          {
+            "phoneme": "َ",
+            "start": 78.973125,
+            "end": 78.973125
+          }
+        ]
+      },
+      {
+        "char": "ع",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 79.093125,
+        "end": 79.093125,
+        "phonemes": [
+          {
+            "phoneme": "عُ",
+            "start": 79.093125,
+            "end": 79.093125
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 79.213125,
+        "end": 79.213125,
+        "phonemes": [
+          {
+            "phoneme": "ۥۥ",
+            "start": 79.213125,
+            "end": 79.213125
+          }
+        ]
+      },
+      {
+        "char": "ذ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 79.333125,
+        "end": 79.333125,
+        "phonemes": [
+          {
+            "phoneme": "ذُ",
+            "start": 79.333125,
+            "end": 79.333125
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "بِرِضَاكَ",
+    "start": 79.453125,
+    "end": 80.013125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.0282472513053411,
+    "min_decision_margin": 5.186363021377474,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 79.453125,
+        "end": 79.453125,
+        "phonemes": [
+          {
+            "phoneme": "بِ",
+            "start": 79.453125,
+            "end": 79.453125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ر",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 79.613125,
+        "end": 79.613125,
+        "phonemes": [
+          {
+            "phoneme": "رِ",
+            "start": 79.613125,
+            "end": 79.613125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ض",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 79.77312500000001,
+        "end": 79.77312500000001,
+        "phonemes": [
+          {
+            "phoneme": "ضَ",
+            "start": 79.77312500000001,
+            "end": 79.77312500000001
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 79.893125,
+        "end": 79.893125,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 79.893125,
+            "end": 79.893125
+          }
+        ]
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 80.013125,
+        "end": 80.013125,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 80.013125,
+            "end": 80.013125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "مِنْ",
+    "start": 80.213125,
+    "end": 80.363125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.012889708254078869,
+    "min_decision_margin": 4.3600051533430815,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 80.213125,
+        "end": 80.213125,
+        "phonemes": [
+          {
+            "phoneme": "مِ",
+            "start": 80.213125,
+            "end": 80.213125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 80.333125,
+        "end": 80.333125,
+        "phonemes": [
+          {
+            "phoneme": "ن",
+            "start": 80.333125,
+            "end": 80.333125
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "سَخَطِكَ",
+    "start": 80.493125,
+    "end": 80.933125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.10055102864377356,
+    "min_decision_margin": 6.68837276706472,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "س",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 80.493125,
+        "end": 80.493125,
+        "phonemes": [
+          {
+            "phoneme": "سَ",
+            "start": 80.493125,
+            "end": 80.493125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "خ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 80.613125,
+        "end": 80.613125,
+        "phonemes": [
+          {
+            "phoneme": "خَ",
+            "start": 80.613125,
+            "end": 80.613125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ط",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 80.77312500000001,
+        "end": 80.77312500000001,
+        "phonemes": [
+          {
+            "phoneme": "طِ",
+            "start": 80.77312500000001,
+            "end": 80.77312500000001
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 80.933125,
+        "end": 80.933125,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 80.933125,
+            "end": 80.933125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَبِمُعَافَاتِكَ",
+    "start": 82.533125,
+    "end": 84.093125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.01214901125895267,
+    "min_decision_margin": 5.535847637336701,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 82.533125,
+        "end": 82.533125,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 82.533125,
+            "end": 82.533125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 82.69312500000001,
+        "end": 82.69312500000001,
+        "phonemes": [
+          {
+            "phoneme": "بِ",
+            "start": 82.69312500000001,
+            "end": 82.69312500000001
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 82.853125,
+        "end": 82.853125,
+        "phonemes": [
+          {
+            "phoneme": "مُ",
+            "start": 82.853125,
+            "end": 82.853125
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ع",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 83.053125,
+        "end": 83.053125,
+        "phonemes": [
+          {
+            "phoneme": "عَ",
+            "start": 83.053125,
+            "end": 83.053125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 83.213125,
+        "end": 83.213125,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 83.213125,
+            "end": 83.213125
+          }
+        ]
+      },
+      {
+        "char": "ف",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 83.453125,
+        "end": 83.453125,
+        "phonemes": [
+          {
+            "phoneme": "فَ",
+            "start": 83.453125,
+            "end": 83.453125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 83.69312500000001,
+        "end": 83.69312500000001,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 83.69312500000001,
+            "end": 83.69312500000001
+          }
+        ]
+      },
+      {
+        "char": "ت",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 83.893125,
+        "end": 83.893125,
+        "phonemes": [
+          {
+            "phoneme": "تِ",
+            "start": 83.893125,
+            "end": 83.893125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 84.093125,
+        "end": 84.093125,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 84.093125,
+            "end": 84.093125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "مِنْ",
+    "start": 84.253125,
+    "end": 84.41312500000001,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.0024357882619369777,
+    "min_decision_margin": 6.048899679677561,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 84.253125,
+        "end": 84.253125,
+        "phonemes": [
+          {
+            "phoneme": "مِ",
+            "start": 84.253125,
+            "end": 84.253125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 84.41312500000001,
+        "end": 84.41312500000001,
+        "phonemes": [
+          {
+            "phoneme": "ن",
+            "start": 84.41312500000001,
+            "end": 84.41312500000001
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "عُقوبَتِكَ",
+    "start": 84.573125,
+    "end": 85.253125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.5157109409507635,
+    "min_decision_margin": 7.242002345621586,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ع",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 84.573125,
+        "end": 84.573125,
+        "phonemes": [
+          {
+            "phoneme": "عُ",
+            "start": 84.573125,
+            "end": 84.573125
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ق",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 84.733125,
+        "end": 84.733125,
+        "phonemes": [
+          {
+            "phoneme": "ق",
+            "start": 84.733125,
+            "end": 84.733125
+          }
+        ]
+      },
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 84.813125,
+        "end": 84.813125,
+        "phonemes": [
+          {
+            "phoneme": "و",
+            "start": 84.813125,
+            "end": 84.813125
+          }
+        ]
+      },
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 84.933125,
+        "end": 84.933125,
+        "phonemes": [
+          {
+            "phoneme": "بَ",
+            "start": 84.933125,
+            "end": 84.933125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ت",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 85.053125,
+        "end": 85.053125,
+        "phonemes": [
+          {
+            "phoneme": "تِ",
+            "start": 85.053125,
+            "end": 85.053125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 85.253125,
+        "end": 85.253125,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 85.253125,
+            "end": 85.253125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "وَاَعُوذُ",
+    "start": 86.813125,
+    "end": 87.493125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.8321060933538118,
+    "min_decision_margin": 1.2770445850037504,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 86.813125,
+        "end": 86.813125,
+        "phonemes": [
+          {
+            "phoneme": "وَ",
+            "start": 86.813125,
+            "end": 86.813125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 86.973125,
+        "end": 86.973125,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 86.973125,
+            "end": 86.973125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 87.053125,
+        "end": 87.053125,
+        "phonemes": [
+          {
+            "phoneme": "َ",
+            "start": 87.053125,
+            "end": 87.053125
+          }
+        ]
+      },
+      {
+        "char": "ع",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 87.173125,
+        "end": 87.173125,
+        "phonemes": [
+          {
+            "phoneme": "عُ",
+            "start": 87.173125,
+            "end": 87.173125
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "و",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 87.373125,
+        "end": 87.373125,
+        "phonemes": [
+          {
+            "phoneme": "ۥۥ",
+            "start": 87.373125,
+            "end": 87.373125
+          }
+        ]
+      },
+      {
+        "char": "ذ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 87.493125,
+        "end": 87.493125,
+        "phonemes": [
+          {
+            "phoneme": "ذُ",
+            "start": 87.493125,
+            "end": 87.493125
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "بِكَ",
+    "start": 87.653125,
+    "end": 87.813125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.004404035146581009,
+    "min_decision_margin": 6.073837735457346,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ب",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 87.653125,
+        "end": 87.653125,
+        "phonemes": [
+          {
+            "phoneme": "بِ",
+            "start": 87.653125,
+            "end": 87.653125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 87.813125,
+        "end": 87.813125,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 87.813125,
+            "end": 87.813125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "مِنْكَ",
+    "start": 87.973125,
+    "end": 88.293125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.03872875259548891,
+    "min_decision_margin": 6.7829124454874545,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 87.973125,
+        "end": 87.973125,
+        "phonemes": [
+          {
+            "phoneme": "مِ",
+            "start": 87.973125,
+            "end": 87.973125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 88.133125,
+        "end": 88.133125,
+        "phonemes": [
+          {
+            "phoneme": "ن",
+            "start": 88.133125,
+            "end": 88.133125
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 88.293125,
+        "end": 88.293125,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 88.293125,
+            "end": 88.293125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "لاَ",
+    "start": 89.493125,
+    "end": 89.77312500000001,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -2.701799699319963,
+    "min_decision_margin": 8.328270946978591,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 89.493125,
+        "end": 89.493125,
+        "phonemes": [
+          {
+            "phoneme": "ل",
+            "start": 89.493125,
+            "end": 89.493125
+          }
+        ]
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 89.733125,
+        "end": 89.733125,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 89.733125,
+            "end": 89.733125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 89.77312500000001,
+        "end": 89.77312500000001,
+        "phonemes": [
+          {
+            "phoneme": "َ",
+            "start": 89.77312500000001,
+            "end": 89.77312500000001
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اُحْصِي",
+    "start": 89.813125,
+    "end": 90.493125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.9808892491239223,
+    "min_decision_margin": 1.7625962133170106,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 89.813125,
+        "end": 89.813125,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 89.813125,
+            "end": 89.813125
+          }
+        ]
+      },
+      {
+        "char": "ُ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 89.893125,
+        "end": 89.893125,
+        "phonemes": [
+          {
+            "phoneme": "ُ",
+            "start": 89.893125,
+            "end": 89.893125
+          }
+        ]
+      },
+      {
+        "char": "ح",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 90.093125,
+        "end": 90.093125,
+        "phonemes": [
+          {
+            "phoneme": "ح",
+            "start": 90.093125,
+            "end": 90.093125
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ص",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 90.293125,
+        "end": 90.293125,
+        "phonemes": [
+          {
+            "phoneme": "صِ",
+            "start": 90.293125,
+            "end": 90.293125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 90.493125,
+        "end": 90.493125,
+        "phonemes": [
+          {
+            "phoneme": "ۦۦ",
+            "start": 90.493125,
+            "end": 90.493125
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "ثَنَاءً",
+    "start": 90.653125,
+    "end": 91.253125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.09205513018321199,
+    "min_decision_margin": 4.097676567733288,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ث",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 90.653125,
+        "end": 90.653125,
+        "phonemes": [
+          {
+            "phoneme": "ثَ",
+            "start": 90.653125,
+            "end": 90.653125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 90.853125,
+        "end": 90.853125,
+        "phonemes": [
+          {
+            "phoneme": "نَ",
+            "start": 90.853125,
+            "end": 90.853125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 90.973125,
+        "end": 90.973125,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 90.973125,
+            "end": 90.973125
+          }
+        ]
+      },
+      {
+        "char": "ء",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 91.093125,
+        "end": 91.093125,
+        "phonemes": [
+          {
+            "phoneme": "ءَ",
+            "start": 91.093125,
+            "end": 91.093125
+          }
+        ]
+      },
+      {
+        "char": "ً",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 91.253125,
+        "end": 91.253125,
+        "phonemes": [
+          {
+            "phoneme": "ن",
+            "start": 91.253125,
+            "end": 91.253125
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "عَلَيْكَ",
+    "start": 91.373125,
+    "end": 91.813125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.021716433472950786,
+    "min_decision_margin": 5.8306577077601105,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ع",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 91.373125,
+        "end": 91.373125,
+        "phonemes": [
+          {
+            "phoneme": "عَ",
+            "start": 91.373125,
+            "end": 91.373125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 91.493125,
+        "end": 91.493125,
+        "phonemes": [
+          {
+            "phoneme": "لَ",
+            "start": 91.493125,
+            "end": 91.493125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 91.653125,
+        "end": 91.653125,
+        "phonemes": [
+          {
+            "phoneme": "ي",
+            "start": 91.653125,
+            "end": 91.653125
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 91.813125,
+        "end": 91.813125,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 91.813125,
+            "end": 91.813125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اَنْتَ",
+    "start": 92.733125,
+    "end": 93.133125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -1.6161511930629138,
+    "min_decision_margin": 0.06291528418660164,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 92.733125,
+        "end": 92.733125,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 92.733125,
+            "end": 92.733125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 92.773125,
+        "end": 92.773125,
+        "phonemes": [
+          {
+            "phoneme": "َ",
+            "start": 92.773125,
+            "end": 92.773125
+          }
+        ]
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 92.933125,
+        "end": 92.933125,
+        "phonemes": [
+          {
+            "phoneme": "ن",
+            "start": 92.933125,
+            "end": 92.933125
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ت",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 93.133125,
+        "end": 93.133125,
+        "phonemes": [
+          {
+            "phoneme": "تَ",
+            "start": 93.133125,
+            "end": 93.133125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "كَمَا",
+    "start": 93.333125,
+    "end": 93.69312500000001,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.009486950476275523,
+    "min_decision_margin": 7.006083324085921,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 93.333125,
+        "end": 93.333125,
+        "phonemes": [
+          {
+            "phoneme": "كَ",
+            "start": 93.333125,
+            "end": 93.333125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "م",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 93.493125,
+        "end": 93.493125,
+        "phonemes": [
+          {
+            "phoneme": "مَ",
+            "start": 93.493125,
+            "end": 93.493125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [
+          "NormalMaddRule"
+        ],
+        "boundary_tajweed_rules": [],
+        "start": 93.69312500000001,
+        "end": 93.69312500000001,
+        "phonemes": [
+          {
+            "phoneme": "اا",
+            "start": 93.69312500000001,
+            "end": 93.69312500000001
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "اَثْنَيْتَ",
+    "start": 93.853125,
+    "end": 94.453125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.9503680917623853,
+    "min_decision_margin": 0.25125656789168715,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ا",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 93.853125,
+        "end": 93.853125,
+        "phonemes": [
+          {
+            "phoneme": "ا",
+            "start": 93.853125,
+            "end": 93.853125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 93.893125,
+        "end": 93.893125,
+        "phonemes": [
+          {
+            "phoneme": "َ",
+            "start": 93.893125,
+            "end": 93.893125
+          }
+        ]
+      },
+      {
+        "char": "ث",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 94.013125,
+        "end": 94.013125,
+        "phonemes": [
+          {
+            "phoneme": "ث",
+            "start": 94.013125,
+            "end": 94.013125
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 94.133125,
+        "end": 94.133125,
+        "phonemes": [
+          {
+            "phoneme": "نَ",
+            "start": 94.133125,
+            "end": 94.133125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 94.293125,
+        "end": 94.293125,
+        "phonemes": [
+          {
+            "phoneme": "ي",
+            "start": 94.293125,
+            "end": 94.293125
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ت",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 94.453125,
+        "end": 94.453125,
+        "phonemes": [
+          {
+            "phoneme": "تَ",
+            "start": 94.453125,
+            "end": 94.453125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "عَلَي",
+    "start": 94.653125,
+    "end": 94.933125,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -1.1709452762552246,
+    "min_decision_margin": 6.779772687703371,
+    "low_confidence": true,
+    "letters": [
+      {
+        "char": "ع",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 94.653125,
+        "end": 94.653125,
+        "phonemes": [
+          {
+            "phoneme": "عَ",
+            "start": 94.653125,
+            "end": 94.653125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ل",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 94.77312500000001,
+        "end": 94.77312500000001,
+        "phonemes": [
+          {
+            "phoneme": "لَ",
+            "start": 94.77312500000001,
+            "end": 94.77312500000001
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ي",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 94.933125,
+        "end": 94.933125,
+        "phonemes": [
+          {
+            "phoneme": "ي",
+            "start": 94.933125,
+            "end": 94.933125
+          }
+        ]
+      }
+    ],
+    "is_title": false
+  },
+  {
+    "word": "نَفْسِكَ",
+    "start": 95.093125,
+    "end": 95.41312500000001,
+    "sura": 0,
+    "aya": 47,
+    "is_repeat": false,
+    "avg_logprob": -0.13446498856905642,
+    "min_decision_margin": 5.012471810914576,
+    "low_confidence": false,
+    "letters": [
+      {
+        "char": "ن",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 95.093125,
+        "end": 95.093125,
+        "phonemes": [
+          {
+            "phoneme": "نَ",
+            "start": 95.093125,
+            "end": 95.093125
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ف",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 95.133125,
+        "end": 95.133125,
+        "phonemes": [
+          {
+            "phoneme": "ف",
+            "start": 95.133125,
+            "end": 95.133125
+          }
+        ]
+      },
+      {
+        "char": "ْ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "س",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 95.253125,
+        "end": 95.253125,
+        "phonemes": [
+          {
+            "phoneme": "سِ",
+            "start": 95.253125,
+            "end": 95.253125
+          }
+        ]
+      },
+      {
+        "char": "ِ",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      },
+      {
+        "char": "ك",
+        "deleted": false,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": 95.41312500000001,
+        "end": 95.41312500000001,
+        "phonemes": [
+          {
+            "phoneme": "ك",
+            "start": 95.41312500000001,
+            "end": 95.41312500000001
+          }
+        ]
+      },
+      {
+        "char": "َ",
+        "deleted": true,
+        "tajweed_rules": [],
+        "boundary_tajweed_rules": [],
+        "start": null,
+        "end": null,
+        "phonemes": []
+      }
+    ],
+    "is_title": false
+  }
+]
