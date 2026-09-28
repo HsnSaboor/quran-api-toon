@@ -8,8 +8,8 @@ file is 4–12KB raw (~1–4KB compressed).
 ## Files
 
 ```
-mutradif_spans.toon                        # index: 55 rows
-mutradif_spans/{slug}/pages/{1..604}.toon  # 55 × 604 page files
+mutradif_spans.toon                        # index: 85 rows
+mutradif_spans/{slug}/pages/{1..604}.toon  # 85 × 604 page files
 ```
 
 Index schema:
@@ -53,8 +53,20 @@ ayah→page map; flat files removed after).
    `s:a`, matched on normalized root/`w`; global fallback requires full
    root/`w` equality (no short-substring). Else `0,0`.
 4. Full coverage: every Arabic word gets exactly one span
-   (`len(sp) == morphology word count`), except `hindi-taqi-usmani`
-   (partial translation: surahs 1–52:46 only; 1455 ayahs empty `[]`).
+   (`len(sp) == morphology word count`), except partial translations
+   (empty `[]` rows): `hindi-taqi-usmani` (surahs 1–52:46 only; 1455 ayahs
+   empty), `-api` Urdu editions (`urdu-jalandhari-api` / `urdu-junagarhi-api`:
+   133 gap ayahs each), `urdu-dr-usman` (6 gaps), `urdu-shah-rafi-ud-din`
+   (2 gaps), `urdu-tahir-ul-qadri` (206 empty-text ayahs).
+
+## Urdu wave (v2, 30 editions)
+
+All 30 `urdu-*` editions built from scratch via `wbw_translations/ur.json`
+gloss transfer onto served text, gated by a fresh `mutradif_ur.toon`
+allowlist (`0,0` unless live-allowlisted). Full sweep verified:
+186,600 rows, 2.32M links, 0 parse/header/wordcount/`tt`/`mid` errors;
+`aw` verbatim Uthmani (incl. leading `۞`); `tt == text[ts:te]` exact.
+Partial editions use `[]` gap rows per the `hindi-taqi-usmani` precedent.
 
 ## Edge cases
 
@@ -67,9 +79,11 @@ ayah→page map; flat files removed after).
 
 ## Verification
 
-- All 55 × 604 page files: header count matches rows; union = 6236 rows/slug.
-- 4.25M links total; `tt == text[ts:te]` holds on all sampled + fully
-  scanned editions; `ar` within morphology bounds; no newlines in `tt`.
+- All 85 × 604 page files: header count matches rows; per-slug union =
+  index `n_ayah` (6236, or fewer for partial editions with `[]` gap rows).
+- 6.57M links total (4.25M waves 1–9 + 2.32M Urdu wave);
+  `tt == text[ts:te]` holds on all fully scanned editions;
+  `ar` within morphology bounds; no newlines in `tt`.
 - `~34%` of links carry `mid,wid > 0`.
 
 ## App usage

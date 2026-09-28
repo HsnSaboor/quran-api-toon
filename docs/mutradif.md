@@ -12,7 +12,7 @@ Each entry includes:
 - All Quranic verse cross-references (`ay`) and occurrence frequency (`ta`).
 - **Companion resource**: [Mutradif Spans](mutradif-spans.md) — per-ayah,
   per-edition highlight offsets (`mutradif_spans/{slug}/pages/{page}.toon`,
-  55 editions × 604 pages, 9 langs) linking translation substrings back to
+  85 editions × 604 pages, 10 langs) linking translation substrings back to
   these concept entries via `mid`/`wid`.
 
 ---
